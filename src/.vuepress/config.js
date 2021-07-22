@@ -45,8 +45,6 @@ module.exports = {
           title: 'Lessons',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
             'lesson1',
             'lesson2'
           ]

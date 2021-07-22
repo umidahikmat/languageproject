@@ -1,8 +1,18 @@
 {
-    "scripts": {
-        "build": "vuepress build docs"
-    },
-    "devDependencies": {
-        "vuepress": "^1.8.2"
-    }
+  "name": "languageproject",
+  "version": "0.0.1",
+  "description": "",
+  "authors": {
+    "name": "Umida Khikmatillaeva",
+    "email": "umidahikmat@gmail.com"
+  },
+  "repository": "/languageproject",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
 }

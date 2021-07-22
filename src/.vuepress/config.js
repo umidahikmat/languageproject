@@ -48,14 +48,17 @@ module.exports = {
             'lesson1',
             'lesson2'
           ]
-        }, {
+        }
+      ],
+      '/resources/': [
+        {
           title: 'Resources',
           collapsable: false,
           children: [
             'sites'
           ]
         }
-      ],
+      ]
     }
   },
 

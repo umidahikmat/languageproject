@@ -7,4 +7,4 @@ One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-
 [YO’Q](/ "Negative form of BOR")
 [-GAN](/ "the suffix -gan forms participles when appended to verbal complexes")
 [Bir bor ekan, bir yo’q ekan](/ "a phrase used in fairy tales equivalent to English once upon a time")
-[ko'zlarim](/  "KO'ZLARIM SHAKL: [eye-PL-1.POS] IZOH: lar is a plural particle; -im is a possessive suffix for the first person")
+[ko'zlarng](/  "KO'ZLARIM SHAKL: [eye-PL-1.POS] IZOH: lar is a plural particle; -im is a possessive suffix for the first person")

@@ -47,7 +47,8 @@ module.exports = {
           children: [
             '',
             'using-vue',
-            'lesson1'
+            'lesson1',
+            'lesson2'
           ]
         }
       ],

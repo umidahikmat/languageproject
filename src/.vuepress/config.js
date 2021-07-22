@@ -50,6 +50,12 @@ module.exports = {
             'lesson1',
             'lesson2'
           ]
+        }, {
+          title: 'Resources',
+          collapsable: false,
+          children: [
+            'sites'
+          ]
         }
       ],
     }

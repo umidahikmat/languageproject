@@ -1,4 +1,4 @@
 # Lesson 2
 test text
-(/ "chumchuq") [qushcha]
+[qushcha](/ "chumchuq")
 [ona tilim](/ "my native language")

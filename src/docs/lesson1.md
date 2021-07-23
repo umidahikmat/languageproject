@@ -2,7 +2,7 @@
 
 This is a test description
 
-<Tooltip label="Hover over me"><Content slot-key="definition"/>
+<Tooltip label="Hover over me">
 <span>
 This is a tooltip value
 <br>

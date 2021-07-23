@@ -33,14 +33,20 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    displayAllHeaders: true,
+    smoothScroll: true,
     nav: [
       {
         text: 'Lessons',
-        link: '/lessons/',
+        link: '/docs/lesson1',
+      },
+      {
+        text: 'Resources',
+        link: '/docs/sites',
       }
     ],
     sidebar: {
-      '/lessons/': [
+      '/docs/': [
         {
           title: 'Lessons',
           collapsable: false,
@@ -48,9 +54,7 @@ module.exports = {
             'lesson1',
             'lesson2'
           ]
-        }
-      ],
-      '/resources/': [
+        },
         {
           title: 'Resources',
           collapsable: false,

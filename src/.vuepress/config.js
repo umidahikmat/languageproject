@@ -37,6 +37,9 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
+        text: 'Introduction',
+      },
+      {
         text: 'Lessons',
         link: '/docs/lesson1',
       },
@@ -47,6 +50,9 @@ module.exports = {
     ],
     sidebar: {
       '/docs/': [
+        {
+        text: 'Introduction',
+      },
         {
           title: 'Lessons',
           collapsable: false,

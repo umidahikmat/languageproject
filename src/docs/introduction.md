@@ -1,23 +1,25 @@
 # Introduction
 
-This site is useful for:
+This site is useful for:   
+  
+* Learners of Uzbek  
+* Linguistics students  
+* Teacher candidates  
+* Teachers  
+* Researchers
 
-Teacher candidates
-Teachers
-Researchers
-Learners of Uzbek
-Linguistics students
+The material may be used for:  
 
-The material may be used for:
+* Classroom assignments  
+* Research purposes  
+* Practice correcting learner errors  
+* practice parcing words and sentences  
+* Self-improvement of Uzbek grammar, vocabulary, fluency or conversation skills  
 
-Classroom assignments
-Research purposes
-Practice correcting learner errors
-practice parcing words and sentences
-Self-improvement of Uzbek grammar, vocabulary, fluency or conversation management
+This site can be used at the undergraduate and graduate level in:  
 
-This site can be used at the undergraduate and graduate level in:
-
-Uzbek second language acquisition courses
-Uzbek applied language courses
-Uzbek teacher training courses
+* Uzbek language learning courses
+* Linguistics courses
+* Turkic second language acquisition courses  
+* Turkic applied language courses  
+* Turkic teacher training courses  

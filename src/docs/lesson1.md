@@ -54,11 +54,39 @@ Podshoh ham kula-kula o’z so’zining ustidan chiqish uchun cholga to umrining
 
 ## Part 2
 
+**Forced to be soothsayer**   
+
+Once upon a time, there lived an old man and old woman. They could barely make ends meet living in poverty. One day the old woman went into the bath house in the city. No sooner they could wash their hair, masked with sour milk, than did one of the workers come in and dragged them out, saying that the wife of the Chief Royal soothsayer was coming. This hurt that woman’s soul and she told her husband everything that had happened in the bath house, and she insisted: 
+
+“If you can’t become the King’s soothsayer, I shan’t live with you anymore, trust me, I shan’t!” Thinking over and over the old man decided to risk for the sake of his wife and took a seat at one of the crowded places of the bazaar and pretended to be foreseeing, fiddling stones in his hands. One man dressed in dirty and dusty clothes came up to him and said: 
+
+“We, were just traveling and bringing camels loaded with silver and gold, by chance one of those camels got lost. Can you get to know for me where we can find that camel?” The old man asked where and how those camels were brought, and just drawing a conclusion of all he said: “There’s one ravine not far from the place where you had a rest for the last time, that’s where you can find your camel that had a sack filled with silver and gold on.” 
+
+The point is that anyone could come to such conclusion on hearing all what the stranger told. When that man went to that ravine, he really saw his camel there. The stranger gave the old man a handful of gold as a gift and told everybody about how quick-witted soothsayer he was. At that time, the royal treasure was told to have been robbed by someone, but no one could find the thief. On hearing about the old man who found the camel, the King called him to the palace. After all what he heard, the old man said: “Your highness, would you please give me forty days and forty cocks”. Everything he asked was at his fingertips before he could blink an eye, then he went home taking all the cocks with the help of a maid and said to his wife: 
+
+“You are damned, you’ve grown old and have drowned me in burdens, why the heck are you so hungry for fame, now the King wants me to do what I can never manage to do. I can’t find the treasure anyway, that’s why I’m going to take pleasure in my life for the last time before I die. Every day you must cook pilaf with meat of one of the cocks, that’s how I’m going to bottle down forty cocks during the given forty days.” The old woman cooked pilaf with the cock’s meat on that day for supper. In fact, the royal treasure had been stolen by the forty pirates and they were scared of the old man, 011 hearing that he was a famous soothsayer, and could easily find them. Thus, the chief pirate sent one of his partners to see how he was supposed to find them. Getting on their roof, the thief could hear anything from the top of the chimney. The old woman brought the pilaf in and the old man rolled his sleeves up: 
+
+“Oh, thanks to God, there were forty of them, now there are thirty nine left” he said hinting at the cocks he had brought from the palace. But the thief understood it, as if the soothsayer hinted at the forty pirates, that’s, just like out of forty pirates there were thirty nine left, as one of them was on their roof. The thief s heart leapt out of his mouth and he told everything to his chief but he didn’t believe it, and the following day he sent one more thief with him. In the evening of the following day both of the thieves were listening to him on the roof and they heard how the soothsayer said: 
+
+“Look, there were forty, but now we’ve already had two of them here, that’s why there are thirty eight left.” Both of the thieves ran up to the chief in a rush and told everything that happened in that house. The chief thief didn’t believe it again, and the next day he decided to go there himself. While he was spying on their roof, the old woman brought the pilaff cooked with meat of the cock which was lame. 
+
+“Well, today we have quite a big one of them, damn but, turned out to be lame” voice of the old man came through the chimney. The chief thief finally made sure that the soothsayer really knew who they were, because he was lame actually and thought that the soothsayer meant him by that, having no idea of the lame cock’s meat. Conferring with the other thieves he went up to the soothsayer to come clean about everything: 
+
+“Dear father, I see how clear you can foresee, that’s why I’ve come lest you wouldn’t let the King hung all of us up, we ask you to forgive us this time, please, we’ll do whatever you order us to. Would you please take pity on us?” Obviously, the old man recognized that they were thieves who robbed the treasure and bade them to bury the treasure into the grave in the cemetery, but with no coin lost in it. The thieves sincerely thanked the soothsayer and did what he said. After eating off all the cocks, on the forty first day, the old man went to the palace and said to the King: 
+
+“Your highness, your treasure is buried on the grave in the cemetery safe and sound, now you can get it back. The king’s servants found out that the treasure was really there, with not a single coin lost. Afterwards the King appointed the old man as the chief soothsayer of the King. Now his wife could airily take bath in the bath house of the city. One day the King went out to the garden for a walk with his servants and soothsayers and called the old man up to him and said: “If you can find what’s hidden on my palm, I will gift you with wealth which will suffice you forevermore, or if you can’t I will make an order to behead you” 
+
+The old man lost all feeling in his legs, and he added as an afterthought: “Damn, I begged my wife to let me give up working as a soothsayer, as we could live on the clover for the rest of our lives with all the coins that we had, her avarice didn’t let it, damn, now what’s going to happen to me?” Then, he blurted out by a sudden: “Once I jumped over it, twice I could again jump over, now the third time, I couldn’t get rid of him.” On hearing it, the King showed the grasshopper on his palm and said with peals of laughter: “I take my hat off to you, I could really catch it in the third attempt, after it jumped away twice.” 
+
+After this the soothsayer bared his soul to the King of how it came about that he became a soothsayer. And he asked to be given the sack, as he did promise not long ago about gifting him with the wealth sufficient for the rest of his life. The King kept his promise and gave him the sack allowing him to an get money that will never come to end till the end of their lives. So, both the old man and his wife lived in peace and happiness for the rest part of their lives.
+
+
 ## Part 3
 
 **Zo'raki folbin**   
+
 Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
-One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.   
+One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
 
 <Tooltip label="Bir">
 <span>

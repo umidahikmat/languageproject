@@ -38,7 +38,7 @@ module.exports = {
     nav: [
       {
         text: 'Introduction',
-        link: '/docs/lesson1'
+        link: '/docs/introduction'
       },
       {
         text: 'Lessons',
@@ -55,7 +55,7 @@ module.exports = {
           title: 'Introduction',
           collapsable: false,
           children: [
-            'lesson1'
+            'introduction'
           ]
         },
         {

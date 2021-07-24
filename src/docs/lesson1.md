@@ -1,14 +1,35 @@
 # Lesson 1
-**Zo'raki folbin**  
+**Zo'raki folbin**   
+Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
+One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.   
+
 <Tooltip label="Bir">
 <span>
-Bir is a numeral that can be used as an indefinite article 
+BIR is a numeral that can be used as an indefinite article 
 <br>
 BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi
 </span>
-</Tooltip>  
+</Tooltip>
+
+<Tooltip label="bor">
+<span>
+BOR is an existential particle that functions similarly to the English phrase ‘there is’
+<br>
+BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.
+</span>
+</Tooltip>
+
+<Tooltip label="ekan">
+<span>
+EKAN: is an evidential particle denoting an event not witnessed by the speaker
+<br>
+EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
+</span>
+</Tooltip>
+
+
 bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
-One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.   
+
 
 *Izohlar:*    
 
@@ -18,7 +39,7 @@ EKAN: is an evidential particle denoting an event not witnessed by the speaker
 
 YO’Q: Negative form of BOR    
 
-GAN: the suffix -gan forms participles when appended to verbal complexes    
+-GAN: the suffix -gan forms participles when appended to verbal complexes    
 
 Bir bor ekan, bir yo’q ekan: a phrase used in fairy tales equivalent to English once upon a time 
 
@@ -60,7 +81,13 @@ House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:
 
 
  
-
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK
+</span>
+</Tooltip>
   
 
 

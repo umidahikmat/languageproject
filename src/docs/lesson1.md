@@ -2,11 +2,10 @@
 **Zo'raki folbin**  
 <Tooltip label="Bir">
 <span>
-<br>
 Bir is a numeral that can be used as an indefinite article 
 <br>
 BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi
- </span>
+</span>
 </Tooltip>  
 bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.   

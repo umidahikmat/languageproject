@@ -51,7 +51,6 @@ U cholga bir hovuch oltin sovg’a qilib, yurgan yo’lida cholning o’ta topag
 
 Podshoh ham kula-kula o’z so’zining ustidan chiqish uchun cholga to umrining oxirgacha yotib yeydigan nafaqa tayinlab, ketishiga ruxsat bergan ekan. Shunday qilib, chol bilan kampir murod-maqsadlariga yetishibdi, umrlarining oxirigacha farovon yashashibdi.
 
-
 ## Part 2
 
 **Forced to be soothsayer**   
@@ -182,14 +181,3 @@ Vocabulary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEyd7cjL1ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-
-This is sample text
-<Tooltip label="Hover over me">
-<span>
-This is a tooltip value
-<br>
-use br for line breaks
-<br>
-Test your lines out after deploying to see if it parsed correctly
-</span>
-</Tooltip>

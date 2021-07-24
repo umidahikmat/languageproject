@@ -56,7 +56,7 @@ Bu   hol     kampir-     ga      juda alam  qil-ib-  di.
 This state old.woman-DAT very alarm do-EV-PST. 
 
 Uy-     ga      kel-    ib,       chol-      i- ga     bo’l-gan     voqea-ni     ayt- ib-  di    va:
-House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:
+House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:  
 
 
  

@@ -13,7 +13,7 @@ The material may be used for:
 * Classroom assignments  
 * Research purposes  
 * Practice correcting learner errors  
-* practice parcing words and sentences  
+* Practice parsing words and sentences  
 * Self-improvement of Uzbek grammar, vocabulary, fluency or conversation skills  
 
 This site can be used at the undergraduate and graduate level in:  

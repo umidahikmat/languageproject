@@ -1,11 +1,13 @@
 
 # Lesson 1
 
-- Text in Uzbek  
-- English translation  
-- Text with notes  
-- Vocabulary  
-- Animation  
+- Vocabulary: Practice   
+- Reading: Text in Uzbek  
+- Translation: Text in English  
+- Grammar: Text with notes  
+- Speaking: Practice exercises
+- Writing: Mini writing 
+- Listening: Animation  
 
 ## Part 1
 

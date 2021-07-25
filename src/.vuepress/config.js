@@ -41,8 +41,8 @@ module.exports = {
         link: '/docs/introduction'
       },
       {
-        text: 'Lessons',
-        link: '/docs/lesson1',
+        text: 'Texts',
+        link: '/docs/text1',
       },
       {
         text: 'Resources',
@@ -59,11 +59,11 @@ module.exports = {
           ]
         },
         {
-          title: 'Lessons',
+          title: 'Texts',
           collapsable: false,
           children: [
-            'lesson1',
-            'lesson2'
+            'text1',
+            'text2'
           ]
         },
         {

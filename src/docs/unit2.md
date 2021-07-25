@@ -99,15 +99,7 @@ ENGLISH
 UZBEK   
 <br>
 </span>
-</Tooltip>     
-  
-::: tip  
-This is a tip  
-:::
-
-::: warning  
-This is a warning   
-:::   
+</Tooltip>      
 
 ## Text with Tooltip
 

@@ -100,7 +100,13 @@ UZBEK
 </span>
 </Tooltip>
   
+::: tip
+This is a tip
+:::
 
+::: warning
+This is a warning
+:::
 
 ## Text with Tooltip
 

@@ -2,6 +2,12 @@
 
 ## **Zo'raki folbin**   
 
+## Part 4
+
+Vocabulary
+
+## Part 5
+
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  

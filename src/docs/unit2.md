@@ -50,7 +50,7 @@ YO’Q: Negative form of BOR
 
 -GAN: the suffix -gan forms participles when appended to verbal complexes    
 
-#### Bir bor ekan, bir yo’q ekan: a phrase used in fairy tales equivalent to English once upon a time 
+### bir bor ekan, bir yo’q ekan: a phrase used in fairy tales equivalent to English once upon a time 
 
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 >
@@ -102,11 +102,7 @@ UZBEK
   
 
 
-## Part 4
-
-Vocabulary
-
-## Part 5
+## Text with Tooltip
 
 * bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
 

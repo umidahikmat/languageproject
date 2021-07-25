@@ -8,7 +8,7 @@ Vocabulary
 
 ## Part 5
 
-### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
+* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
 
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
 > One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
@@ -40,7 +40,7 @@ EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
 </span>
 </Tooltip>
 
-### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
+* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*      
 
 *Izohlar:*    
 

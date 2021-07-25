@@ -1,6 +1,6 @@
 # Lesson 2
 
-**Zo'raki folbin**   
+## **Zo'raki folbin**   
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
@@ -33,8 +33,6 @@ EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
 <br>
 </span>
 </Tooltip>
-
-
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 

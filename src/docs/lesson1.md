@@ -2,7 +2,7 @@
 # Lesson 1
 
 - Text in Uzbek  
-- Translation into English  
+- English translation  
 - Text with notes  
 - Vocabulary  
 - Animation  
@@ -180,11 +180,7 @@ UZBEK
 </span>
 </Tooltip>
   
-## Part 4
 
-Vocabulary
-
-## Part 5
 
  
 

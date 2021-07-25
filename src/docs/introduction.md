@@ -23,3 +23,13 @@ This site can be used at the undergraduate and graduate level in:
 * Turkic second language acquisition courses  
 * Turkic applied language courses  
 * Turkic teacher training courses  
+
+
+Content
+- Vocabulary  
+- Text in Uzbek  
+- Text in English  
+- Text with notes  
+- Practice activities
+- Mini writing 
+- Animation  

@@ -26,10 +26,10 @@ This site can be used at the undergraduate and graduate level in:
 
 
 Content
-- Vocabulary  
+- Wordlist 
 - Text in Uzbek  
 - Text in English  
-- Text with notes  
+- Grammar notes
+- Text with Tooltip  
 - Practice activities
-- Mini writing 
-- Animation  
+- Audio and video

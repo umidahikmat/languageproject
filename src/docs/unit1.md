@@ -11,7 +11,7 @@
 - conjunction
 - interjection
 
-## Part 1
+## Text in Uzbek
 
 **Zo'raki folbin** 
 
@@ -55,7 +55,7 @@ U cholga bir hovuch oltin sovg’a qilib, yurgan yo’lida cholning o’ta topag
 
 Podshoh ham kula-kula o’z so’zining ustidan chiqish uchun cholga to umrining oxirgacha yotib yeydigan nafaqa tayinlab, ketishiga ruxsat bergan ekan. Shunday qilib, chol bilan kampir murod-maqsadlariga yetishibdi, umrlarining oxirigacha farovon yashashibdi.
 
-## Part 2
+## Text in English
 
 **Forced to be a soothsayer**   
 

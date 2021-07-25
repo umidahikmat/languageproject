@@ -1,6 +1,6 @@
 # Lesson 2
 
-## **Zo'raki folbin**   
+**Zo'raki folbin**   
 
 ## Part 4
 

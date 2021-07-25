@@ -1,15 +1,17 @@
 
 # Unit 1
 
-- noun
-- adjective
+## Wordlist
+- nouns
+- adjectives
 - numerals
-- pronoun
-- verb
-- adverb
-- preposition
-- conjunction
-- interjection
+- pronouns
+- verbs
+- adverbs
+- prepositions
+- conjunctions
+- interjections
+- onomatopoeia words
 
 ## Text in Uzbek
 

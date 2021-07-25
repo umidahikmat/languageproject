@@ -96,17 +96,18 @@ House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:
 <span>
 ENGLISH
 <br>
-UZBEK
+UZBEK   
+<br>
 </span>
-</Tooltip>
+</Tooltip>     
   
-::: tip
-This is a tip
+::: tip  
+This is a tip  
 :::
 
-::: warning
-This is a warning
-:::
+::: warning  
+This is a warning   
+:::   
 
 ## Text with Tooltip
 

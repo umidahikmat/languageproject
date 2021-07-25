@@ -1,5 +1,5 @@
 # About
 
-Consultant: Umida Khikmatillaeva-consultant
-Contributor: Darraugh Winkelman
-Programmer: Abdulaziz Alimov
+Contributor: Darraugh Winkelman   
+Programmer: Abdulaziz Alimov   
+Consultant: Umida Khikmatillaeva 

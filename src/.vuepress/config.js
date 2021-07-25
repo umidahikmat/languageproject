@@ -47,10 +47,6 @@ module.exports = {
       {
         text: 'Resources',
         link: '/docs/audio',
-      },
-      {
-        text: 'Resources',
-        link: '/docs/video',
       }
     ],
     sidebar: {
@@ -74,13 +70,7 @@ module.exports = {
           title: 'Resources',
           collapsable: false,
           children: [
-            'audio'
-          ]
-        },
-        {
-          title: 'Resources',
-          collapsable: false,
-          children: [
+            'audio',
             'video'
           ]
         }

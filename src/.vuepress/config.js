@@ -55,7 +55,8 @@ module.exports = {
           title: 'Home',
           collapsable: false,
           children: [
-            'introduction'
+            'introduction',
+            'about'
           ]
         },
         {

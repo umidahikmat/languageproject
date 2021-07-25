@@ -1,13 +1,15 @@
 
 # Lesson 1
 
-- Vocabulary: Practice   
-- Reading: Text in Uzbek  
-- Translation: Text in English  
-- Grammar: Text with notes  
-- Speaking: Practice exercises
-- Writing: Mini writing 
-- Listening: Animation  
+- noun
+- adjective
+- numerals
+- pronoun
+- verb
+- adverb
+- preposition
+- conjunction
+- interjection
 
 ## Part 1
 

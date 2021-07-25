@@ -46,7 +46,11 @@ module.exports = {
       },
       {
         text: 'Resources',
-        link: '/docs/sites',
+        link: '/docs/audio',
+      },
+      {
+        text: 'Resources',
+        link: '/docs/video',
       }
     ],
     sidebar: {
@@ -70,7 +74,14 @@ module.exports = {
           title: 'Resources',
           collapsable: false,
           children: [
-            'sites'
+            'audio'
+          ]
+        },
+        {
+          title: 'Resources',
+          collapsable: false,
+          children: [
+            'video'
           ]
         }
       ]

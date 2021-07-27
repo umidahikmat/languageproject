@@ -182,6 +182,8 @@ hol-  da      chiq-  ar-       ib       yubor-ib-di.
 
 ## Practice activities
 
+
+
 [Bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
 [bor](/ "BOR is an existential particle that functions similarly to English there is")
 [ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")

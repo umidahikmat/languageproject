@@ -10,14 +10,6 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  
-  configureWebpack: {
-    resolve: {
-      alias: {
-        '@images': 'images'
-      }
-    }
-  }
 
   /**
    * Extra tags to be injected to the page HTML `<head>`

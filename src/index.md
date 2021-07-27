@@ -3,7 +3,7 @@ home: true
 # heroImage: https://v1.vuepress.vuejs.org/hero.png
 # tagline: 
 actionText: View Lessons →
-actionLink: /docs/lesson1
+actionLink: /docs/introduction
 # features:
 # - title: Feature 1 Title
 #   details: Feature 1 Description

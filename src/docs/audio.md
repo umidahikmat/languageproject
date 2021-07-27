@@ -4,4 +4,4 @@
 
 ## Language learner
 
-![Image from alias](./images/audio2.jpg)
+![Image from alias](../images/audio2.jpg)

@@ -11,7 +11,7 @@
 - prepositions
 - conjunctions
 - interjections
-- onomatopoeia words
+- onomatopoeic words
 
 ## Text in Uzbek
 

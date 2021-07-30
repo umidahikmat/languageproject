@@ -79,9 +79,6 @@ After this the soothsayer bared his soul to the King of how it came about that h
 
 * bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
 
-> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
-> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
-
 <Tooltip label="Bir">
 <span>
 BIR is a numeral that can be used as an indefinite article 

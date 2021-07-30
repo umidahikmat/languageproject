@@ -1,18 +1,6 @@
 
 # Unit 1
 
-## Wordlist
-- nouns
-- adjectives
-- numerals
-- pronouns
-- verbs
-- adverbs
-- prepositions
-- conjunctions
-- interjections
-- onomatopoeic words
-
 ## Text in Uzbek
 
 **Zo'raki folbin** 
@@ -86,6 +74,16 @@ The old man lost all feeling in his legs, and he added as an afterthought: “Da
 
 After this the soothsayer bared his soul to the King of how it came about that he became a soothsayer. And he asked to be given the sack, as he did promise not long ago about gifting him with the wealth sufficient for the rest of his life. The King kept his promise and gave him the sack allowing him to an get money that will never come to end till the end of their lives. So, both the old man and his wife lived in peace and happiness for the rest part of their lives.
 
-
+## Wordlist
+- nouns
+- adjectives
+- numerals
+- pronouns
+- verbs
+- adverbs
+- prepositions
+- conjunctions
+- interjections
+- onomatopoeic words
 
 

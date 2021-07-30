@@ -2,6 +2,6 @@
 
 ## Native speaker
 
-## Language learner
+## Non-native speaker
 
 

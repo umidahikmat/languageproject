@@ -194,7 +194,7 @@ U-LAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinch
 </span>
 </Tooltip>  
  
-<Tooltip label="KAMBAG’AL-LIK">
+<Tooltip label="kambag'allik">
 <span>
 KAMBAG’AL-LIK: poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
 <br>
@@ -204,7 +204,7 @@ KAMBAG’AL-LIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan ibo
 </Tooltip> 
 
 
-<Tooltip label="BILAN">
+<Tooltip label="bilan">
 <span>
 BILAN: “With” Postposition   
 <br>
@@ -213,7 +213,7 @@ BILAN: Ko’makchi
 </span>
 </Tooltip> 
  
-<Tooltip label="KUN">
+<Tooltip label="kun">
 <span>
 KUN: “Day” Noun
 <br>
@@ -222,7 +222,7 @@ KUN: ot
 </span>
 </Tooltip> 
 
-<Tooltip label="KO'R-AR">
+<Tooltip label="ko'rar">
 <span>
 KO'R-AR: see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
 <br>
@@ -232,7 +232,7 @@ KO'R-AR: “Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shi
 </Tooltip> 
 
   
-<Tooltip label="EKAN-LAR">
+<Tooltip label="ekanlar.">
 <span>
 EKAN-LAR: EV-PL; The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix    
 <br>
@@ -242,7 +242,7 @@ EKAN-LAR: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “
 </Tooltip> 
 
 
-<Tooltip label="BIR">
+<Tooltip label="Bir">
 <span>
 BIR: one; Bir is a numeral that can be used as an indefinite article  
 <br>
@@ -251,7 +251,7 @@ BIR: Son turkumiga kiradi, noaniqlikni ifodalash uchun ham ishlatiladi
 </span>
 </Tooltip> 
                      
-<Tooltip label="KUN-I">
+<Tooltip label="kuni">
 <span>
 KUN-I: day-3.POS; The noun kun ‘day’ with the third person possessive suffix. This suffix is commonly added in this context, perhaps as an abbreviation of (kunlardan) bir kuni ‘one day (of the days)’.
 <br>
@@ -261,7 +261,7 @@ KUN-I: -i egallik qo’shimchasi qo’shilgan ot. Bu qo’shimcha balki [(kunlar
 </Tooltip> 
                
 
-<Tooltip label="KAMPIR">
+<Tooltip label="kampir">
 <span>
 KAMPIR: old.woman
 <br>
@@ -270,7 +270,7 @@ KAMPIR: ot
 </span>
 </Tooltip> 
                                          
-<Tooltip label="SHAHAR">
+<Tooltip label="shahar">
 <span>
 SHAHAR: city 
 <br>
@@ -279,7 +279,7 @@ SHAHAR: OT
 </span>
 </Tooltip> 
                        
-<Tooltip label="HAMMOM-I-GA">
+<Tooltip label="hammomiga">
 <span>
 HAMMOM-I-GA: bath-3.POS-DAT; The noun hammom ‘(public) bath’ with the third person possessive suffix and the dative suffix.   
 <br>
@@ -288,7 +288,7 @@ HAMMOM-I-GA: Uchinchi shaxsi egalik qo’shimchasi va jo’nalish kelishigi qo�
 </span>
 </Tooltip> 
                                                      
-<Tooltip label="BOR-IB-DI">
+<Tooltip label="boribdi.">
 <span>
 BOR-IB-DI: go-EV-PST; The verb root bor- ‘go’ with the evidential suffix -ib and the past tense suffix -di. 
 <br>
@@ -297,14 +297,14 @@ BOR-IB-DI: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan -i
 </span>
 </Tooltip> 
                
-<Tooltip label="HALI">
+<Tooltip label="Hali">
 <span>
 HALI: yet
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BOSH-I-GA">
+<Tooltip label="boshiga">
 <span>
 BOSH-I-GA: The noun bosh ‘head’ with the third person possessive suffix and the dative suffix   
 <br>
@@ -313,7 +313,7 @@ BOSH-I-GA: Ot, uchinchi shaxs egalik qo’shimchasi bilan jo’nalish kelishigi 
 </span>
 </Tooltip> 
 
-<Tooltip label="CHAP-LA-GAN">
+<Tooltip label="chaplagan">
 <span>
 CHAP-LA-GAN: The verb ‘to smear’ formed by appending the verbalizing suffix -LA to the verb root CHAP-, to which the participial suffix -GAN has been added. 
 <br>
@@ -322,7 +322,7 @@ CHAP-LA-GAN: “CHAP” o’zagi va -LA qo’shimchasidan iborat fe’lga -GAN s
 </span>
 </Tooltip> 
 
-<Tooltip label="QATIG’-I-NI">
+<Tooltip label="qatig'ini">
 <span>
 QATIG’-I-NI: The noun qatiq ‘yogurt’ with the third person possessive and accusative case suffixes. The final q here surfaces as g’ due to the following vowel.
 <br>
@@ -331,7 +331,7 @@ QATIG’-I-NI: “Qatiq” so’ziga uchinchi shaxs egalik va tushum kelishigi q
 </span>
 </Tooltip> 
 
-<Tooltip label="YUV-IB">
+<Tooltip label="yuvib">
 <span>
 YUV-IB: The verb root yuv ‘wash’ with the conjunctive suffix ‘ib’ 
 <br>
@@ -340,7 +340,7 @@ YUV-IB: “yuv” fe’liga “-ib” bog’lovchi qo’shimchasi birikkan
 </span>
 </Tooltip> 
 
-<Tooltip label="ULGUR-MA-Y">
+<Tooltip label="ulgurmay,">
 <span>
 ULGUR-MA-Y: The verb root ulgur “to manage (to do something)”, to which the negative suffix -ma and the conjunctive form -y have been added 
 <br>
@@ -349,7 +349,7 @@ ULGUR-MA-Y: “ulgur” fe’liga bo’lishsizlik va bog’lovchi qo’shimchala
 </span>
 </Tooltip> 
 
-<Tooltip label="HAMMOM-GA">
+<Tooltip label="hammomga">
 <span>
 HAMMOM-GA: The noun hammom ‘bath’ with the dative suffix “to”. 
 <br>
@@ -358,7 +358,7 @@ HAMMOM-GA: “hammom” so’zi va jo’nalish kelishigi qo’shimchasi
 </span>
 </Tooltip> 
 
-<Tooltip label="XODIM-LAR-DAN">
+<Tooltip label="xodimlardan">
 <span>
 XODIM-LAR-DAN :  servant-PL-ABL; the noun xodim ‘servant’ with the plural suffix -lar and the ablative suffix -dan.
 <br>
@@ -367,7 +367,7 @@ XODIM-LAR-DAN : “Xodim” so’ziga ko’plik va chiqish kelishigi qo’shimch
 </span>
 </Tooltip> 
 
-<Tooltip label="BIR-I">
+<Tooltip label="biri">
 <span>
 BIR-I: The numeral bir ‘one’ with the third person possessive suffix. Bir is a numeral that can be used as an indefinite article 
 <br>
@@ -376,7 +376,7 @@ BIR-I: Son turkumiga kiradi, noaniqlikni ifodalash uchun ham ishlatiladi
 </span>
 </Tooltip> 
 
-<Tooltip label="KIR-IB">
+<Tooltip label="kirib,">
 <span>
 KIR-IB: enter-CONJ
 <br>
@@ -385,7 +385,7 @@ KIR-IB: RAVISHDOSH
 </span>
 </Tooltip> 
 
-<Tooltip label="HAMMOM-NI">
+<Tooltip label="hammomni">
 <span>
 HAMMOM-NI: bath-ACC
 <br>
@@ -394,7 +394,7 @@ HAMMOM: OT
 </span>
 </Tooltip> 
 
-<Tooltip label="TEZ">
+<Tooltip label="tez">
 <span>
 TEZ: quickly
 <br>
@@ -403,7 +403,7 @@ TEZ: ADV
 </span>
 </Tooltip> 
                      
-<Tooltip label="BO’SHA-T-ING-LAR">
+<Tooltip label="bo'shatinglar,">
 <span>
 BO’SHA-T-ING-LAR: The verb root bo’sha- ‘to empty (intr.)’ with the causative suffix -t, the imperative suffix -ing and the plural suffix -lar.
 <br>
@@ -412,7 +412,7 @@ BO’SHA-T-ING-LAR: “Bo’sha” fe’liga ortirma daraja, buyruq mayli va ko�
 </span>
 </Tooltip> 
                                           
-<Tooltip label="PODSHOH-NING">
+<Tooltip label="podshohning">
 <span>
 PODSHOH-NING: king-GEN
 <br>
@@ -421,7 +421,7 @@ PODSHOH: OT
 </span>
 </Tooltip> 
                      
-<Tooltip label="BOSH">
+<Tooltip label="bosh">
 <span>
 BOSH: head
 <br>
@@ -431,7 +431,7 @@ BOSH: OT
 </Tooltip>
 
 
-<Tooltip label="FOLBIN-I-NING">
+<Tooltip label="folbinining">
 <span>
 FOLBIN-I-NING: soothsayer-3.POS-GEN
 <br>
@@ -440,7 +440,7 @@ FOLBIN: OT
 </span>
 </Tooltip>
 
-<Tooltip label="XOTIN-I">
+<Tooltip label="xotini">
 <span>
 XOTIN-I: woman-3.POS
 <br>
@@ -449,7 +449,7 @@ XOTIN: OT
 </span>
 </Tooltip>
 
-<Tooltip label="YUV-IN-ISH-GA">
+<Tooltip label="yuvinishga">
 <span>
 YUV-IN-ISH-GA: wash-REFL-NML-DAT; The verb yuv ‘wash’ with the intransitive suffix -in, the nominalizing suffix -ish, and the dative suffix -ga
 <br>
@@ -458,7 +458,7 @@ YUV-IN-ISH-GA: “yuv-” fe’liga o’zlik daraja, harakat nomi shaklini hosil
 </span>
 </Tooltip> 
                                           
-<Tooltip label="KEL-AYAP-TI-LAR">
+<Tooltip label="kelayaptilar">
 <span>
 KEL-AYAP-TI-LAR: come-CONJ-PROG-3-PL; The verb kel ‘come’ with the progressive suffix -(a)yap, the third person agreement suffix -ti, and the plural suffix -lar. 
 <br>
@@ -467,7 +467,7 @@ KEL-AYAP-TI-LAR: “Kel” fe’liga hozirgi zamon, uchinchi shaxs ma’nosini i
 </span>
 </Tooltip> 
 
-<Tooltip label="DEB">
+<Tooltip label="deb">
 <span>
 DE-B: say-CONJ
 <br>
@@ -476,7 +476,7 @@ DE-B: ADVL
 </span>
 </Tooltip> 
 
-<Tooltip label="HAMMA-NI">
+<Tooltip label="hammani">
 <span>
 HAMMA-NI: everyone-ACC
 <br>
@@ -485,7 +485,7 @@ HAMMA-NI: ADV  + -ni
 </span>
 </Tooltip> 
 
-<Tooltip label="CHALA">
+<Tooltip label="chala">
 <span>
 CHALA: incomplete, having not yet finished
 <br>
@@ -494,7 +494,7 @@ CHALA: ADJ
 </span>
 </Tooltip> 
 
-<Tooltip label="YUV-IN-GAN">
+<Tooltip label="yuvingan">
 <span>
 YUV-IN-GAN: wash-INTR-PART
 <br>
@@ -503,70 +503,70 @@ YUV-IN-GAN: SIFATDOSH
 </span>
 </Tooltip> 
 
-<Tooltip label="HOL-DA">
+<Tooltip label="holda">
 <span>
 HOL-DA: state-LOC
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="CHIQ-AR-IB">
+<Tooltip label="chiqarib">
 <span>
 CHIQ-AR-IB: exit-CAUS-CONJ
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="YUBOR-IB-DI">
+<Tooltip label="yuboribdi.">
 <span>
 YUBOR-IB-DI: send-EV-PST
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BU">
+<Tooltip label="Bu">
 <span>
 BU: this
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="HOL">
+<Tooltip label="hol">
 <span>
 HOL: state  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="KAMPIR-GA">
+<Tooltip label="kampirga">
 <span>
 KAMPIR-GA: old.woman-DAT  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="JUDA">
+<Tooltip label="juda">
 <span>
 JUDA: very (much)  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="ALAM">
+<Tooltip label="alam">
 <span>
 ALAM: alarm  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="QIL-IB-DI">
+<Tooltip label="qilibdi.">
 <span>
 QIL-IB-DI: do-EV-PST 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="UY-GA">
+<Tooltip label="Uyga">
 <span>
 UY-GA: house-DAT
 <br>
@@ -576,42 +576,42 @@ UZBEK
 </Tooltip> 
  
 
-<Tooltip label="KEL-IB">
+<Tooltip label="kelib,">
 <span>
 KEL-IB: come-CONJ   
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="CHOL-I-GA">
+<Tooltip label="choliga">
 <span>
 CHOL-I-GA: old.man-3.POS-DAT 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BO’L-GAN">
+<Tooltip label="bo'lgan">
 <span>
 BO’L-GAN: be-PART   
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="VOQEA-NI">
+<Tooltip label="voqeani">
 <span>
 VOQEA-NI: event-ACC
 <br>
 </span>
 </Tooltip> 
                      
-<Tooltip label="AYT-IB-DI">
+<Tooltip label="aytibdi">
 <span>
 AYT-IB-DI: say-EV-PST  
 <br>
 </span>
 </Tooltip> 
                                           
-<Tooltip label="VA">
+<Tooltip label="va">
 <span>
 VA: and 
 <br>
@@ -619,7 +619,7 @@ VA: and
 </Tooltip> 
 
 
-<Tooltip label="TO">
+<Tooltip label="to">
 <span>
 TO: until 
 <br>
@@ -627,144 +627,191 @@ TO: until
 </Tooltip> 
 
 
-<Tooltip label="PODSHOH-NING">
+<Tooltip label="podshohning">
 <span>
 PODSHOH-NING: king-GEN
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BOSH">
+<Tooltip label="bosh">
 <span>
 BOSH: head, chief
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="FOLBIN-I">
+<Tooltip label="folbini">
 <span>
 FOLBIN-I: soothsayer-3.POS   
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BO’L-MA-GUN-INGIZ-CHA">
+<Tooltip label="bo'lmaguningizcha">
 <span>
 BO’L-MA-GUN-INGIZ-CHA: be-NEG-PART-2.PL-until 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="MEN">
+<Tooltip label="men">
 <span>
 MEN: 1.SG  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="SIZ">
+<Tooltip label="siz">
 <span>
 SIZ: 2.PL
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="BILAN">
+<Tooltip label="bilan">
 <span>
 BILAN: with
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="YASHA-MA-Y-MAN">
+<Tooltip label="yashamayman">
 <span>
 YASHA-MA-Y-MAN: live-NEG-CONJ-1.SG.NPST
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="DE-B">
+<Tooltip label="deb">
 <span>
 DE-B: say-CONJ 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="CHOL-NI">
+<Tooltip label="cholni">
 <span>
 CHOL-NI: old.man-ACC  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="UR-ISH-IB-DI">
+<Tooltip label="urishibdi.">
 <span>
 UR-ISH-IB-DI: fight-REC-EV-PST
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="CHOL">
+<Tooltip label="Chol">
 <span>
 CHOL: old.man 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="O’YLA-B-O’YLA-B">
+<Tooltip label="o'ylab-o'ylab">
 <span>
 O’YLA-B-O’YLA-B: think-CONJ-think-CONJ  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="TAVAKKAL">
+<Tooltip label="tavakkal">
 <span>
 TAVAKKAL: risk
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="QIL-IB-DI">
+<Tooltip label="qilibdi.">
 <span>
 QIL-IB-DI: do-EV-PST
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="BIR">
+<Tooltip label="Bir">
 <span>
 BIR: one 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="SIQIM">
+<Tooltip label="siqim">
 <span>
 SIQIM: handful 
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="TOSH-CHA-LAR-NI">
+<Tooltip label="toshchalarni">
 <span>
 TOSH-CHA-LAR-NI: stone-DIM-PL-ACC
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="WORD">
+<Tooltip label="bozorning">
 <span>
-ENGLISH
+BOZOR-NING: market-GEN
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ko'zga">
+<span>
+KO’Z-GA: eye-DAT
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ko'rinarli">
+<span>
+KO’R-IN-AR-LI: see-PASS-AOR-COM
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="joyini">
+<span>
+JOY-I-NI: place-3.POS-ACC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="egallab,">
+<span>
+EGA-LLA-B: owner-VRB-CONJ 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="fol">
+<span>
+FOL: fortune
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="boqmoqchidek">
+<span>
+BOQ-MOQCHI-DEK: look-INTL-like
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="o’tiraveribdi.">
+<span>
+O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
 <br>
 </span>
 </Tooltip> 
@@ -776,17 +823,17 @@ ENGLISH
 </span>
 </Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
 ## GRAMMAR NOTES
 
-BOZOR-NING: market-GEN
-KO’Z-GA: eye-DAT
-KO’R-IN-AR-LI: see-PASS-AOR-COM
-BIR: one
-JOY-I-NI: place-3.POS-ACC
-EGA-LLA-B: owner-VRB-CONJ 
-FOL: fortune
-BOQ-MOQCHI-DEK: look-INTL-like
-O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
+
+
+
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 

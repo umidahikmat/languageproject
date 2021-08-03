@@ -81,12 +81,7 @@ He then said with regret: “I jumped to safety twice, but the third time I have
 The king burst out laughing, and then, keeping his promise, he gave the old man a pension generous enough to sustain him for the rest of his life, and allowed him to leave. Thus, the old man and woman received all they desired, and lived plentifully till the end of their days. 
 
 
-## Text with Tooltip
-
-### Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.      
-
-> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.    
-> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.      
+## Text with Tooltip    
 
 <Tooltip label="BIR">
 <span>
@@ -147,7 +142,7 @@ QADIM: old
 </span>
 </Tooltip>   
 
-<Tooltip label="ZAMONDA">
+<Tooltip label="ZAMON-DA">
 <span>
 ZAMON-DA: time-LOC
 <br>
@@ -175,7 +170,7 @@ KAMPIR: old.woman
 </span>
 </Tooltip>   
 
-<Tooltip label="BO'LGAN"> 
+<Tooltip label="BO'L-GAN"> 
 <span>
 BO’L-GAN: be-PART  
 <br>
@@ -189,25 +184,21 @@ EKAN: EV
 </span>
 </Tooltip>  
                                              
-### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar.
 
-> U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar     
-> 3-PL  poor-    	NML with DAY see-AOR EV-  PL        
-
-<Tooltip label="ULAR">
+<Tooltip label="U-LAR">
 <span>
-ULAR: “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar  
+U-LAR: “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar  
 <br>
-ULAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat   
+U-LAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat   
 <br>
 </span>
 </Tooltip>  
  
-<Tooltip label="KAMBAG’ALLIK">
+<Tooltip label="KAMBAG’AL-LIK">
 <span>
-KAMBAG’ALLIK: poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
+KAMBAG’AL-LIK: poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
 <br>
-KAMBAG’ALLIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
+KAMBAG’AL-LIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
 <br>
 </span>
 </Tooltip> 
@@ -231,17 +222,17 @@ KUN: ot
 </span>
 </Tooltip> 
 
-<Tooltip label="KO'RAR">
+<Tooltip label="KO'R-AR">
 <span>
-KO'RAR: see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
+KO'R-AR: see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
 <br>
-KO'RAR: “Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat
+KO'R-AR: “Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat
 <br>
 </span>
 </Tooltip> 
 
   
-<Tooltip label="EKANLAR">
+<Tooltip label="EKAN-LAR">
 <span>
 EKAN-LAR: EV-PL; The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix    
 <br>
@@ -250,10 +241,6 @@ EKAN-LAR: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “
 </span>
 </Tooltip> 
 
-### Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
-
-> Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.      
-> One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.     
 
 <Tooltip label="BIR">
 <span>
@@ -264,7 +251,7 @@ BIR: Son turkumiga kiradi, noaniqlikni ifodalash uchun ham ishlatiladi
 </span>
 </Tooltip> 
                      
-<Tooltip label="KUNI">
+<Tooltip label="KUN-I">
 <span>
 KUN-I: day-3.POS; The noun kun ‘day’ with the third person possessive suffix. This suffix is commonly added in this context, perhaps as an abbreviation of (kunlardan) bir kuni ‘one day (of the days)’.
 <br>
@@ -287,12 +274,12 @@ KAMPIR: ot
 <span>
 SHAHAR: city 
 <br>
-SHAHAR: ot  
+SHAHAR: OT  
 <br>
 </span>
 </Tooltip> 
                        
-<Tooltip label="HAMMOMIGA">
+<Tooltip label="HAMMOM-I-GA">
 <span>
 HAMMOM-I-GA: bath-3.POS-DAT; The noun hammom ‘(public) bath’ with the third person possessive suffix and the dative suffix.   
 <br>
@@ -301,7 +288,7 @@ HAMMOM-I-GA: Uchinchi shaxsi egalik qo’shimchasi va jo’nalish kelishigi qo�
 </span>
 </Tooltip> 
                                                      
-<Tooltip label="BORIBDI">
+<Tooltip label="BOR-IB-DI">
 <span>
 BOR-IB-DI: go-EV-PST; The verb root bor- ‘go’ with the evidential suffix -ib and the past tense suffix -di. 
 <br>
@@ -309,25 +296,368 @@ BOR-IB-DI: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan -i
 <br>
 </span>
 </Tooltip> 
-
- 
-### Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib     
-                     
-> Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib    
-> yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ    
                
-                     
-                     
-                     
-### ulgur-     ma-   y,   hammom-ga        
+<Tooltip label="HALI">
+<span>
+HALI: yet
+<br>
+</span>
+</Tooltip> 
 
-> ulgur-     ma-   y,    hammom-ga     
-> manage-NEG-CONJ        Bath-   	DAT   
+<Tooltip label="BOSH-I-GA">
+<span>
+BOSH-I-GA: The noun bosh ‘head’ with the third person possessive suffix and the dative suffix   
+<br>
+BOSH-I-GA: Ot, uchinchi shaxs egalik qo’shimchasi bilan jo’nalish kelishigi qo’shimchasini olgan “bosh” so’zi  
+<br>
+</span>
+</Tooltip> 
 
+<Tooltip label="CHAP-LA-GAN">
+<span>
+CHAP-LA-GAN: The verb ‘to smear’ formed by appending the verbalizing suffix -LA to the verb root CHAP-, to which the participial suffix -GAN has been added. 
+<br>
+CHAP-LA-GAN: “CHAP” o’zagi va -LA qo’shimchasidan iborat fe’lga -GAN sifatdosh yasovchi qo’shimchasi birikkan   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="QATIG’-I-NI">
+<span>
+QATIG’-I-NI: The noun qatiq ‘yogurt’ with the third person possessive and accusative case suffixes. The final q here surfaces as g’ due to the following vowel.
+<br>
+QATIG’-I-NI: “Qatiq” so’ziga uchinchi shaxs egalik va tushum kelishigi qo’shimchalari qo’shilgan. So’nggi “q”tovushidan keyin unli kelgani uchun, bu yerda “g’” shaklini oladi.   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="YUV-IB">
+<span>
+YUV-IB: The verb root yuv ‘wash’ with the conjunctive suffix ‘ib’ 
+<br>
+YUV-IB: “yuv” fe’liga “-ib” bog’lovchi qo’shimchasi birikkan 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ULGUR-MA-Y">
+<span>
+ULGUR-MA-Y: The verb root ulgur “to manage (to do something)”, to which the negative suffix -ma and the conjunctive form -y have been added 
+<br>
+ULGUR-MA-Y: “ulgur” fe’liga bo’lishsizlik va bog’lovchi qo’shimchalari birikkan   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="HAMMOM-GA">
+<span>
+HAMMOM-GA: The noun hammom ‘bath’ with the dative suffix “to”. 
+<br>
+HAMMOM-GA: “hammom” so’zi va jo’nalish kelishigi qo’shimchasi
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="XODIM-LAR-DAN">
+<span>
+XODIM-LAR-DAN :  servant-PL-ABL; the noun xodim ‘servant’ with the plural suffix -lar and the ablative suffix -dan.
+<br>
+XODIM-LAR-DAN : “Xodim” so’ziga ko’plik va chiqish kelishigi qo’shimchalari birikkan.  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BIR-I">
+<span>
+BIR-I: The numeral bir ‘one’ with the third person possessive suffix. Bir is a numeral that can be used as an indefinite article 
+<br>
+BIR-I: Son turkumiga kiradi, noaniqlikni ifodalash uchun ham ishlatiladi  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="KIR-IB">
+<span>
+KIR-IB: enter-CONJ
+<br>
+KIR-IB: RAVISHDOSH  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="HAMMOM-NI">
+<span>
+HAMMOM-NI: bath-ACC
+<br>
+HAMMOM: OT 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="TEZ">
+<span>
+TEZ: quickly
+<br>
+TEZ: ADV
+<br>
+</span>
+</Tooltip> 
                      
+<Tooltip label="BO’SHA-T-ING-LAR">
+<span>
+BO’SHA-T-ING-LAR: The verb root bo’sha- ‘to empty (intr.)’ with the causative suffix -t, the imperative suffix -ing and the plural suffix -lar.
+<br>
+BO’SHA-T-ING-LAR: “Bo’sha” fe’liga ortirma daraja, buyruq mayli va ko’plik qo’shimchalari birikkan   
+<br>
+</span>
+</Tooltip> 
+                                          
+<Tooltip label="PODSHOH-NING">
+<span>
+PODSHOH-NING: king-GEN
+<br>
+PODSHOH: OT   
+<br>
+</span>
+</Tooltip> 
                      
-### xodim-  lar-dan   bir-  i          kir-   ib
-servant-PL-ABL one-3.POS enter-CONJ
+<Tooltip label="BOSH">
+<span>
+BOSH: head
+<br>
+BOSH: OT  
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="FOLBIN-I-NING">
+<span>
+FOLBIN-I-NING: soothsayer-3.POS-GEN
+<br>
+FOLBIN: OT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="XOTIN-I">
+<span>
+XOTIN-I: woman-3.POS
+<br>
+XOTIN: OT   
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="YUV-IN-ISH-GA">
+<span>
+YUV-IN-ISH-GA: wash-REFL-NML-DAT; The verb yuv ‘wash’ with the intransitive suffix -in, the nominalizing suffix -ish, and the dative suffix -ga
+<br>
+YUV-IN-ISH-GA: “yuv-” fe’liga o’zlik daraja, harakat nomi shaklini hosil qiluvchi va jo’nalish kelishigi qo’shimchalari birikkan   
+<br>
+</span>
+</Tooltip> 
+                                          
+<Tooltip label="KEL-AYAP-TI-LAR">
+<span>
+KEL-AYAP-TI-LAR: come-CONJ-PROG-3-PL; The verb kel ‘come’ with the progressive suffix -(a)yap, the third person agreement suffix -ti, and the plural suffix -lar. 
+<br>
+KEL-AYAP-TI-LAR: “Kel” fe’liga hozirgi zamon, uchinchi shaxs ma’nosini ifodalovchi shakl va ko’plik qo’shimchalari birikkan   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="DEB">
+<span>
+DE-B: say-CONJ
+<br>
+DE-B: ADVL   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="HAMMA-NI">
+<span>
+HAMMA-NI: everyone-ACC
+<br>
+HAMMA-NI: ADV  + -ni  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="CHALA">
+<span>
+CHALA: incomplete, having not yet finished
+<br>
+CHALA: ADJ  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="YUV-IN-GAN">
+<span>
+YUV-IN-GAN: wash-INTR-PART
+<br>
+YUV-IN-GAN: SIFATDOSH   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="HOL-DA">
+<span>
+HOL-DA: state-LOC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="CHIQ-AR-IB">
+<span>
+CHIQ-AR-IB: exit-CAUS-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="YUBOR-IB-DI">
+<span>
+YUBOR-IB-DI: send-EV-PST
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BU">
+<span>
+BU: this
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="HOL">
+<span>
+HOL: state  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="KAMPIR-GA">
+<span>
+KAMPIR-GA: old.woman-DAT  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="JUDA">
+<span>
+JUDA: very (much)  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ALAM">
+<span>
+ALAM: alarm  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="QIL-IB-DI">
+<span>
+QIL-IB-DI: do-EV-PST 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="UY-GA">
+<span>
+UY-GA: house-DAT
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+ 
+
+<Tooltip label="KEL-IB">
+<span>
+KEL-IB: come-CONJ   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="CHOL-I-GA">
+<span>
+CHOL-I-GA: old.man-3.POS-DAT 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BO’L-GAN">
+<span>
+BO’L-GAN: be-PART   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="VOQEA-NI">
+<span>
+VOQEA-NI: event-ACC
+<br>
+</span>
+</Tooltip> 
+                     
+<Tooltip label="AYT-IB-DI">
+<span>
+AYT-IB-DI: say-EV-PST  
+<br>
+</span>
+</Tooltip> 
+                                          
+<Tooltip label="VA">
+<span>
+VA: and 
+<br>
+</span>
+</Tooltip> 
+
+
+<Tooltip label="TO">
+<span>
+TO: until 
+<br>
+</span>
+</Tooltip> 
+
+
+<Tooltip label="PODSHOH-NING">
+<span>
+PODSHOH-NING: king-GEN
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BOSH">
+<span>
+BOSH: head, chief
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="FOLBIN-I">
+<span>
+FOLBIN-I: soothsayer-3.POS   
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BO’L-MA-GUN-INGIZ-CHA">
+<span>
+BO’L-MA-GUN-INGIZ-CHA: be-NEG-PART-2.PL-until 
+<br>
+</span>
+</Tooltip> 
+
+
+
+
 <Tooltip label="WORD">
 <span>
 ENGLISH
@@ -336,64 +666,6 @@ UZBEK
 <br>
 </span>
 </Tooltip> 
-                     
-                     
-### Hammom-ni      tez  bo’sh- a-       t-         ing-     lar,
-Bath-        ACC fast empty-VRB-CAUS-IMP.2-PL 
-
-                     <Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                                          
-### Podshoh-ning bosh folbin-        i-          ning  xotin-i 
-king-      GEN head soothsayer-3.POS-GEN wife- 3.POS
-
-                                          
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                     
-### yuv-  in-       ish-    ga      kel-    a-        yap- ti-lar
-wash-INTR-NML-DAT come-CONJ-PRG-3-PL 
-
-                     <Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                                          
-### de-  b        hamma-ni      chala            yuv-   in-      gan 
-say-CONJ all-      ACC incompletely wash-INTR-PART 
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                     
-### hol-  da      chiq-  ar-       ib       yubor-ib-di.
-state-LOC leave-CAUS-CONJ send-EV-PST. 
-
-### Bu   hol     kampir-     ga      juda alam  qil-ib-  di.
-This state old.woman-DAT very alarm do-EV-PST. 
-
-### Uy-     ga      kel-    ib,       chol-      i- ga     bo’l-gan     voqea-ni     ayt- ib-  di    va:
-House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:  
 
 <Tooltip label="WORD">
 <span>
@@ -403,26 +675,8 @@ UZBEK
 <br>
 </span>
 </Tooltip> 
-                     
-                     <Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                                          
-                                          <Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                                                               
-                                                               <Tooltip label="WORD">
+
+<Tooltip label="WORD">
 <span>
 ENGLISH
 <br>
@@ -431,12 +685,61 @@ UZBEK
 </span>
 </Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
-## GRAMMAR practice NOTES
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+
+## GRAMMAR NOTES
    
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
@@ -444,10 +747,14 @@ UZBEK
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
 > One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
 
-
-
-
-
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
      
 
 ## Practice codes

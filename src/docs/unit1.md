@@ -90,31 +90,55 @@ The king burst out laughing, and then, keeping his promise, he gave the old man 
 
 <Tooltip label="BIR">
 <span>
-BIR: one
+BIR: one; is a numeral that can be used as an indefinite article 
 <br>
+BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi  
+ <br>
 </span>
-</Tooltip>   
+</Tooltip> 
 
 <Tooltip label="BOR">
 <span>
-BOR: EXST
+BOR: EXST; is an existential particle that functions similarly to the English phrase ‘there is’   
+<br>
+BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.   
+<br>
+ </span>
+</Tooltip>
+
+<Tooltip label="EKAN">
+<span>
+EKAN is an evidential particle denoting an event not witnessed by the speaker
+<br>
+EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="BIR">
+<span>
+BIR: one; is a numeral that can be used as an indefinite article 
+<br>
+BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi  
+ <br>
+</span>
+</Tooltip> 
+
+<Tooltip label="YO'Q">
+<span>
+YO'Q: not; EXST.NEG
 <br>
 </span>
 </Tooltip>   
 
 <Tooltip label="EKAN">
 <span>
-EKAN: EV
+EKAN: is an evidential particle denoting an event not witnessed by the speaker
+<br>
+EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
 <br>
 </span>
-</Tooltip>   
-
-<Tooltip label="YO'Q">
-<span>
-YO'Q: EXST.NEG
-<br>
-</span>
-</Tooltip>   
+</Tooltip>
 
 <Tooltip label="QADIM">
 <span>
@@ -179,11 +203,11 @@ ULAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi
 </span>
 </Tooltip>  
  
-<Tooltip label="KAMBAG’AL-LIK">
+<Tooltip label="KAMBAG’ALLIK">
 <span>
-poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
+KAMBAG’ALLIK: poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
 <br>
-‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
+KAMBAG’ALLIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
 <br>
 </span>
 </Tooltip> 
@@ -191,9 +215,9 @@ poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kamb
 
 <Tooltip label="BILAN">
 <span>
-“With” Postposition   
+BILAN: “With” Postposition   
 <br>
-Ko’makchi  
+BILAN: Ko’makchi  
 <br>
 </span>
 </Tooltip> 
@@ -207,21 +231,21 @@ KUN: ot
 </span>
 </Tooltip> 
 
-<Tooltip label="KO"RAR">
+<Tooltip label="KO'RAR">
 <span>
-see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
+KO'RAR: see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
 <br>
-“Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat
+KO'RAR: “Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat
 <br>
 </span>
 </Tooltip> 
 
-EKAN-LAR: EV-PL  
+  
 <Tooltip label="EKANLAR">
 <span>
-The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix    
+EKAN-LAR: EV-PL; The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix    
 <br>
-Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so’zi va “-lar” ko’plik qo’shimchasidan iborat        
+EKAN-LAR: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so’zi va “-lar” ko’plik qo’shimchasidan iborat        
 <br>
 </span>
 </Tooltip> 
@@ -231,9 +255,60 @@ Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so
 > Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.      
 > One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.     
 
+<Tooltip label="BIR">
+<span>
+BIR: one; Bir is a numeral that can be used as an indefinite article  
+<br>
+BIR: Son turkumiga kiradi, noaniqlikni ifodalash uchun ham ishlatiladi   
+<br>
+</span>
+</Tooltip> 
+                     
+<Tooltip label="KUNI">
+<span>
+KUN-I: day-3.POS; The noun kun ‘day’ with the third person possessive suffix. This suffix is commonly added in this context, perhaps as an abbreviation of (kunlardan) bir kuni ‘one day (of the days)’.
+<br>
+KUN-I: -i egallik qo’shimchasi qo’shilgan ot. Bu qo’shimcha balki [(kunlardan) bir kuni] iborasi qisqaritishi sifatida bu kontekstda qo’llangan.  
+<br>
+</span>
+</Tooltip> 
+               
 
-
-
+<Tooltip label="KAMPIR">
+<span>
+KAMPIR: old.woman
+<br>
+KAMPIR: ot   
+<br>
+</span>
+</Tooltip> 
+                                         
+<Tooltip label="SHAHAR">
+<span>
+SHAHAR: city 
+<br>
+SHAHAR: ot  
+<br>
+</span>
+</Tooltip> 
+                       
+<Tooltip label="HAMMOMIGA">
+<span>
+HAMMOM-I-GA: bath-3.POS-DAT; The noun hammom ‘(public) bath’ with the third person possessive suffix and the dative suffix.   
+<br>
+HAMMOM-I-GA: Uchinchi shaxsi egalik qo’shimchasi va jo’nalish kelishigi qo’shimchalarini olgan ot.  
+<br>
+</span>
+</Tooltip> 
+                                                     
+<Tooltip label="BORIBDI">
+<span>
+BOR-IB-DI: go-EV-PST; The verb root bor- ‘go’ with the evidential suffix -ib and the past tense suffix -di. 
+<br>
+BOR-IB-DI: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan -ib qo’shimchasi va o’tgan zamon qo’shimchasini olgan “bormoq” fe’li.    
+<br>
+</span>
+</Tooltip> 
 
  
 ### Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib     
@@ -253,19 +328,64 @@ Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so
                      
 ### xodim-  lar-dan   bir-  i          kir-   ib
 servant-PL-ABL one-3.POS enter-CONJ
-
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                     
+                     
 ### Hammom-ni      tez  bo’sh- a-       t-         ing-     lar,
 Bath-        ACC fast empty-VRB-CAUS-IMP.2-PL 
 
+                     <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                                          
 ### Podshoh-ning bosh folbin-        i-          ning  xotin-i 
 king-      GEN head soothsayer-3.POS-GEN wife- 3.POS
 
+                                          
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                     
 ### yuv-  in-       ish-    ga      kel-    a-        yap- ti-lar
 wash-INTR-NML-DAT come-CONJ-PRG-3-PL 
 
+                     <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                                          
 ### de-  b        hamma-ni      chala            yuv-   in-      gan 
 say-CONJ all-      ACC incompletely wash-INTR-PART 
-
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                     
 ### hol-  da      chiq-  ar-       ib       yubor-ib-di.
 state-LOC leave-CAUS-CONJ send-EV-PST. 
 
@@ -275,7 +395,41 @@ This state old.woman-DAT very alarm do-EV-PST.
 ### Uy-     ga      kel-    ib,       chol-      i- ga     bo’l-gan     voqea-ni     ayt- ib-  di    va:
 House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:  
 
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
                      
+                     <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                                          
+                                          <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
+                                                               
+                                                               <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip> 
 
 
 
@@ -290,32 +444,9 @@ House-DAT come-CONJ old.man-3-DAT be-  PART event-ACC tell-EV-PST and:
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
 > One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
 
-<Tooltip label="Bir">
-<span>
-BIR is a numeral that can be used as an indefinite article 
-<br>
-BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi  
- <br>
-</span>
-</Tooltip>
 
-<Tooltip label="bor">
-<span>
-BOR is an existential particle that functions similarly to the English phrase ‘there is’   
-<br>
-BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.   
-<br>
- </span>
-</Tooltip>
 
-<Tooltip label="ekan">
-<span>
-EKAN is an evidential particle denoting an event not witnessed by the speaker
-<br>
-EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
-<br>
-</span>
-</Tooltip>
+
 
      
 

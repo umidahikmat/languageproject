@@ -83,19 +83,10 @@ The king burst out laughing, and then, keeping his promise, he gave the old man 
 
 ## Text with Tooltip
 
-### Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
+### Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.      
 
-> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
-> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip>     
+> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.    
+> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.      
 
 <Tooltip label="BIR">
 <span>
@@ -160,9 +151,9 @@ KAMPIR: old.woman
 </span>
 </Tooltip>   
 
-<Tooltip label="BO"LGAN">
+<Tooltip label="BO'LGAN"> 
 <span>
-BO’L-GAN: be-PART
+BO’L-GAN: be-PART  
 <br>
 </span>
 </Tooltip>   
@@ -174,7 +165,7 @@ EKAN: EV
 </span>
 </Tooltip>  
                                              
-### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
+### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar.
 
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 > 3-PL  poor-    	NML with DAY see-AOR EV-  PL
@@ -205,19 +196,23 @@ EKAN: EV
                      
                      
                      
-### ulgur-     ma-   y,                     hammom-ga   
-manage-NEG-CONJ            Bath-   	DAT
+### ulgur-     ma-   y,   hammom-ga     
+
+> ulgur-     ma-   y,    hammom-ga   
+> manage-NEG-CONJ        Bath-   	DAT
 
                      
                      
 
                      
-                     
-####
 
-## GRAMMAR NOTES
 
-**Zo'raki folbin**   
+
+
+
+
+## GRAMMAR practice NOTES
+   
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
@@ -322,6 +317,15 @@ UZBEK
 [bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
 [yo'q](/ "Negative form of BOR")
 [ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
+                                                                                          
+                                                                                          <Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+UZBEK   
+<br>
+</span>
+</Tooltip>     
 
 * bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
 

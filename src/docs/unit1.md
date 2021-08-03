@@ -167,8 +167,8 @@ EKAN: EV
                                              
 ### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar.
 
-> U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
-> 3-PL  poor-    	NML with DAY see-AOR EV-  PL
+> U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar     
+> 3-PL  poor-    	NML with DAY see-AOR EV-  PL     
 
 U-LAR “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar (Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat)   
 

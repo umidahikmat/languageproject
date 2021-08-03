@@ -168,26 +168,63 @@ EKAN: EV
 ### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar.
 
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar     
-> 3-PL  poor-    	NML with DAY see-AOR EV-  PL     
+> 3-PL  poor-    	NML with DAY see-AOR EV-  PL        
 
-U-LAR “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar (Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat)   
+<Tooltip label="ULAR">
+<span>
+ULAR: “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar  
+<br>
+ULAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat   
+<br>
+</span>
+</Tooltip>  
+ 
+<Tooltip label="KAMBAG’AL-LIK">
+<span>
+poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
+<br>
+‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
+<br>
+</span>
+</Tooltip> 
 
-KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ (‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat)   
 
-BILAN: “With” Postposition (Ko’makchi)  
+<Tooltip label="BILAN">
+<span>
+“With” Postposition   
+<br>
+Ko’makchi  
+<br>
+</span>
+</Tooltip> 
+ 
+<Tooltip label="KUN">
+<span>
+KUN: “Day” Noun
+<br>
+KUN: ot   
+<br>
+</span>
+</Tooltip> 
 
-KUN: “Day” Noun (Ism)  
+<Tooltip label="KO"RAR">
+<span>
+see-AOR; KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar   
+<br>
+“Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat
+<br>
+</span>
+</Tooltip> 
 
-KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar (“Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat)   
-
-EKAN-LAR: The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix (Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so’zi va “-lar” ko’plik qo’shimchasidan iborat)   
-
-U-LAR: 3-PL  
-KAMBAG’AL-LIK: poor-NML (poverty)  
-BILAN: with  
-KUN: day  
-KO’R-AR: see-AOR  
 EKAN-LAR: EV-PL  
+<Tooltip label="EKANLAR">
+<span>
+The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix    
+<br>
+Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so’zi va “-lar” ko’plik qo’shimchasidan iborat        
+<br>
+</span>
+</Tooltip> 
 
 ### Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
 

@@ -50,106 +50,150 @@ Podshoh ham kula-kula o’z so’zining ustidan chiqish uchun cholga to umrining
 
 **Forced to be a soothsayer**   
 
-Once upon a time, there lived an old man and old woman. They could barely make ends meet living in poverty. One day the old woman went into the bath house in the city. No sooner they could wash their hair, masked with sour milk, than did one of the workers come in and dragged them out, saying that the wife of the Chief Royal soothsayer was coming. This hurt that woman’s soul and she told her husband everything that had happened in the bath house, and she insisted: 
+Once upon a time, there lived an old man and old woman. They could barely make ends meet living in poverty. One day the old woman went to the city bathhouse. Before she could wash her hair that had been masked with sour milk, one of the servants came in and dragged everyone out, saying that the wife of the Chief Royal soothsayer was coming. This dismayed the woman and she told her husband everything that had happened in the bath house, and she insisted, saying: “If you can’t become the King’s soothsayer, I shan’t live with you anymore, trust me, I won’t!” . After thinking it over the old man decided to take a chance and, taking a handful of pebbles, occupied a conspicuous part of the market as if to tell fortunes. 
 
-“If you can’t become the King’s soothsayer, I shan’t live with you anymore, trust me, I shan’t!” Thinking over and over the old man decided to risk for the sake of his wife and took a seat at one of the crowded places of the bazaar and pretended to be foreseeing, fiddling stones in his hands. One man dressed in dirty and dusty clothes came up to him and said: 
+One man dressed in dirty and dusty clothes came up to him and said: “We were traveling and bringing camels laden with silver and gold, but one of them got lost. Can you tell me where we can find that camel?” The old man asked in detail where and how those camels had been brought. After contemplating, he said: “There’s a cliff not far from where you where you last stayed, that’s where you can find your camel with a sack filled with silver and gold.” From what the man was saying he was able to infer where the camel was. 
+When that man went to the ravine, he saw his camel there. The stranger gave the old man a handful of gold as a gift and told everybody about how quick-witted a soothsayer he was. This made him famous. 
 
-“We, were just traveling and bringing camels loaded with silver and gold, by chance one of those camels got lost. Can you get to know for me where we can find that camel?” The old man asked where and how those camels were brought, and just drawing a conclusion of all he said: “There’s one ravine not far from the place where you had a rest for the last time, that’s where you can find your camel that had a sack filled with silver and gold on.” 
+At that time, the royal treasure was said to have been stolen by someone, but no one could find the thief. Upon hearing about the old man who had found the camel, the King summoned him to the palace. After hearing everything, the old man said: “Your highness, would you please give me forty days and forty roosters”. Everything he asked for was given to him in the blink of an eye. Then he went home, taking all the roosters with the help of a maid. He said to his wife: 
+“You are status-obsessed and have gotten me in trouble, now the King has given me an impossible task. There’s no way I’ll be able to find the treasure. So, I’m going to enjoy my life one last time before I die. Every day you will slaughter one of the roosters and prepare it with rice, come what may in forty days.” The old woman prepared the rice and meat that evening and brought it to him. 
 
-The point is that anyone could come to such conclusion on hearing all what the stranger told. When that man went to that ravine, he really saw his camel there. The stranger gave the old man a handful of gold as a gift and told everybody about how quick-witted soothsayer he was. At that time, the royal treasure was told to have been robbed by someone, but no one could find the thief. On hearing about the old man who found the camel, the King called him to the palace. After all what he heard, the old man said: “Your highness, would you please give me forty days and forty cocks”. Everything he asked was at his fingertips before he could blink an eye, then he went home taking all the cocks with the help of a maid and said to his wife: 
+In fact, the royal treasure had been stolen by forty bandits. They became frightened when they heard that the task of finding the royal treasure had been assigned to the famous soothsayer. Thus, the chief bandit sent one of his thieves to the house of the soothsayer, saying: “How is the old man supposed to find us? Go and find out.” The thief went to the old man’s house and eavesdropped on the roof through the chimney. The old woman brought the pilaf in and the old man rolled his sleeves up and said: 
 
-“You are damned, you’ve grown old and have drowned me in burdens, why the heck are you so hungry for fame, now the King wants me to do what I can never manage to do. I can’t find the treasure anyway, that’s why I’m going to take pleasure in my life for the last time before I die. Every day you must cook pilaf with meat of one of the cocks, that’s how I’m going to bottle down forty cocks during the given forty days.” The old woman cooked pilaf with the cock’s meat on that day for supper. In fact, the royal treasure had been stolen by the forty pirates and they were scared of the old man, 011 hearing that he was a famous soothsayer, and could easily find them. Thus, the chief pirate sent one of his partners to see how he was supposed to find them. Getting on their roof, the thief could hear anything from the top of the chimney. The old woman brought the pilaf in and the old man rolled his sleeves up: 
+“Oh, thank God, there were forty of them, now there are thirty nine left” referring to the roosters. Having heard this, the thief became frightened. He thought that the old man was referring to them. He ran to the head thief, and said:
 
-“Oh, thanks to God, there were forty of them, now there are thirty nine left” he said hinting at the cocks he had brought from the palace. But the thief understood it, as if the soothsayer hinted at the forty pirates, that’s, just like out of forty pirates there were thirty nine left, as one of them was on their roof. The thief s heart leapt out of his mouth and he told everything to his chief but he didn’t believe it, and the following day he sent one more thief with him. In the evening of the following day both of the thieves were listening to him on the roof and they heard how the soothsayer said: 
+“The old man knew that there were forty of us, that I had come to his house today, and that there were thirty nine of us left.” The head thief could not believe it. The following day he sent one more thief with him. Listening through the chimney, the two thieves heard the old man say: 
+“Look, there were forty, two have come, and there are thirty eight left.” Both of the thieves hurried back to the head thief and told him what the old man had said. The chief thief again did not believe it, and the next day he decided to go there himself. While he was eavesdropping on their roof, the old woman brought in the rice alongside a rooster with a missing leg. The old man saw this and said:
 
-“Look, there were forty, but now we’ve already had two of them here, that’s why there are thirty eight left.” Both of the thieves ran up to the chief in a rush and told everything that happened in that house. The chief thief didn’t believe it again, and the next day he decided to go there himself. While he was spying on their roof, the old woman brought the pilaff cooked with meat of the cock which was lame. 
+“Well, today a really big one has come, but one of its legs is lame.” Indeed, one of the head chief’s legs was also lame. 
+The head thief was thus convinced that the old man did indeed know everything. After conferring with the other thieves, he went to the old man and said: 
+“Sir, you truly see everything. I have come to ask you to spare us from the king’s punishment. In exchange, we will do whatever you say.”  The old man understood that they were the thieves who robbed the treasure, and said:
 
-“Well, today we have quite a big one of them, damn but, turned out to be lame” voice of the old man came through the chimney. The chief thief finally made sure that the soothsayer really knew who they were, because he was lame actually and thought that the soothsayer meant him by that, having no idea of the lame cock’s meat. Conferring with the other thieves he went up to the soothsayer to come clean about everything: 
+“Without taking a single gold piece, take the treasure to the old cemetery and bury it in a grave there.” The thieves thanked the old man profusely and did what he said. After eating forty days’ worth of rooster meat and rice, on the forty first day, the old man went to the king’s palace and said: 
+“My king, your treasure is buried in a grave in the cemetery without a single gold piece missing. Go and get it.” The king sent his men to retrieve it. They found it without anything missing. After the treasure was found, the King appointed the old man as his chief soothsayer. Now his wife could go to the bathhouse in a carriage and happily bathe. 
 
-“Dear father, I see how clear you can foresee, that’s why I’ve come lest you wouldn’t let the King hung all of us up, we ask you to forgive us this time, please, we’ll do whatever you order us to. Would you please take pity on us?” Obviously, the old man recognized that they were thieves who robbed the treasure and bade them to bury the treasure into the grave in the cemetery, but with no coin lost in it. The thieves sincerely thanked the soothsayer and did what he said. After eating off all the cocks, on the forty first day, the old man went to the palace and said to the King: 
+One day, the King went out to the garden for a walk with his servants and soothsayers and called the old man and said: 
+“Guess what’s in my hand. If you guess correctly, I will give you enough wealth to sustain you for the rest of your life, but if you don’t, I will have you beheaded” The man became weak with fear, and said:
 
-“Your highness, your treasure is buried on the grave in the cemetery safe and sound, now you can get it back. The king’s servants found out that the treasure was really there, with not a single coin lost. Afterwards the King appointed the old man as the chief soothsayer of the King. Now his wife could airily take bath in the bath house of the city. One day the King went out to the garden for a walk with his servants and soothsayers and called the old man up to him and said: “If you can find what’s hidden on my palm, I will gift you with wealth which will suffice you forevermore, or if you can’t I will make an order to behead you” 
+“Alas, that evil wife, I said I should quit soothsaying, I said that we should live off of what we have, but she was too greedy to agree. Now what will happen?” 
+He then said with regret: “I jumped to safety twice, but the third time I have been caught.” Having heard this, the king laughed, and opened his fist. In his palm was a grasshopper. The king said: “I am amazed at your cunning, “You’re right, I only caught it on the third jump.” Having heard this, the old man told the king how he had become a soothsayer. He asked permission to leave his post and live peacefully. 
 
-The old man lost all feeling in his legs, and he added as an afterthought: “Damn, I begged my wife to let me give up working as a soothsayer, as we could live on the clover for the rest of our lives with all the coins that we had, her avarice didn’t let it, damn, now what’s going to happen to me?” Then, he blurted out by a sudden: “Once I jumped over it, twice I could again jump over, now the third time, I couldn’t get rid of him.” On hearing it, the King showed the grasshopper on his palm and said with peals of laughter: “I take my hat off to you, I could really catch it in the third attempt, after it jumped away twice.” 
-
-After this the soothsayer bared his soul to the King of how it came about that he became a soothsayer. And he asked to be given the sack, as he did promise not long ago about gifting him with the wealth sufficient for the rest of his life. The King kept his promise and gave him the sack allowing him to an get money that will never come to end till the end of their lives. So, both the old man and his wife lived in peace and happiness for the rest part of their lives.
+The king burst out laughing, and then, keeping his promise, he gave the old man a pension generous enough to sustain him for the rest of his life, and allowed him to leave. Thus, the old man and woman received all they desired, and lived plentifully till the end of their days. 
 
 
 ## Text with Tooltip
 
-* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
+### Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
-<Tooltip label="Bir">
-<span>
-BIR is a numeral that can be used as an indefinite article 
-<br>
-BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi  
- <br>
-</span>
-</Tooltip>
+> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
+> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
 
-<Tooltip label="bor">
+<Tooltip label="WORD">
 <span>
-BOR is an existential particle that functions similarly to the English phrase ‘there is’   
+ENGLISH
 <br>
-BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.   
-<br>
- </span>
-</Tooltip>
-
-<Tooltip label="ekan">
-<span>
-EKAN is an evidential particle denoting an event not witnessed by the speaker
-<br>
-EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
+UZBEK   
 <br>
 </span>
-</Tooltip>
+</Tooltip>     
 
-* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*      
+<Tooltip label="BIR">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip>   
 
-*Izohlar:*    
+<Tooltip label="BOR">
+<span>
+BOR: EXST
+<br>
+</span>
+</Tooltip>   
 
-BOR: bor is an existential particle that functions similarly to English there is  
+<Tooltip label="EKAN">
+<span>
+EKAN: EV
+<br>
+</span>
+</Tooltip>   
 
-EKAN: is an evidential particle denoting an event not witnessed by the speaker 
+<Tooltip label="YO'Q">
+<span>
+YO'Q: EXST.NEG
+<br>
+</span>
+</Tooltip>   
 
-YO’Q: Negative form of BOR    
+<Tooltip label="QADIM">
+<span>
+QADIM: old
+<br>
+</span>
+</Tooltip>   
 
--GAN: the suffix -gan forms participles when appended to verbal complexes    
+<Tooltip label="ZAMON">
+<span>
+ZAMON-DA: time-LOC
+<br>
+</span>
+</Tooltip>   
 
-#### Bir bor ekan, bir yo’q ekan: a phrase used in fairy tales equivalent to English once upon a time 
+<Tooltip label="CHOL">
+<span>
+CHOL: old.man
+<br>
+</span>
+</Tooltip>   
+
+<Tooltip label="BILAN">
+<span>
+BILAN: with
+<br>
+</span>
+</Tooltip>   
+
+<Tooltip label="KAMPIR">
+<span>
+KAMPIR: old.woman
+<br>
+</span>
+</Tooltip>   
+
+<Tooltip label="BO"LGAN">
+<span>
+BO’L-GAN: be-PART
+<br>
+</span>
+</Tooltip>   
+
+<Tooltip label="EKAN">
+<span>
+EKAN: EV
+<br>
+</span>
+</Tooltip>  
+                                             
+## U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
->
-> 3-PL  poor-        NML with DAY see-AOR EV-  PL.
+> 3-PL  poor-    	NML with DAY see-AOR EV-  PL
 
-> Bir   kun-i          kampir       shahar hammom-i-         ga     bor-ib- di.  
->
-> One day-3.POS old.woman city     bath-        3.POS-DAT go-EV-PST.
 
-Hammom-ga   hali bosh-i-         ga      chap-  la-     gan     qatig’-  i-         ni      yuv-   ib        
-Bath-       DAT yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ 
 
-ulgur-     ma-   y 
-manage-NEG-CONJ 
 
-xodim-  lar-dan   bir-  i          kir-   ib
-servant-PL-ABL one-3.POS enter-CONJ
 
-Hammom-ni      tez  bo’sh- a-       t-         ing-     lar,
-Bath-        ACC fast empty-VRB-CAUS-IMP.2-PL 
+## Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
 
-Podshoh-ning bosh folbin-        i-          ning  xotin-i 
-king-      GEN head soothsayer-3.POS-GEN wife- 3.POS
+> Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
+> One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.
 
-yuv-  in-       ish-    ga      kel-    a-        yap- ti-lar
-wash-INTR-NML-DAT come-CONJ-PRG-3-PL 
 
-de-  b        hamma-ni      chala            yuv-   in-      gan 
-say-CONJ all-      ACC incompletely wash-INTR-PART 
 
-hol-  da      chiq-  ar-       ib       yubor-ib-di.
+
+
+
+
 
 ## Grammar notes
 
@@ -258,6 +302,80 @@ UZBEK
 [bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
 [yo'q](/ "Negative form of BOR")
 [ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
+
+* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*     
+
+<Tooltip label="Bir">
+<span>
+BIR is a numeral that can be used as an indefinite article 
+<br>
+BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlatiladi  
+ <br>
+</span>
+</Tooltip>
+
+<Tooltip label="bor">
+<span>
+BOR is an existential particle that functions similarly to the English phrase ‘there is’   
+<br>
+BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.   
+<br>
+ </span>
+</Tooltip>
+
+<Tooltip label="ekan">
+<span>
+EKAN is an evidential particle denoting an event not witnessed by the speaker
+<br>
+EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
+<br>
+</span>
+</Tooltip>
+
+* bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.*      
+
+*Izohlar:*    
+
+BOR: bor is an existential particle that functions similarly to English there is  
+
+EKAN: is an evidential particle denoting an event not witnessed by the speaker 
+
+YO’Q: Negative form of BOR    
+
+-GAN: the suffix -gan forms participles when appended to verbal complexes    
+
+#### Bir bor ekan, bir yo’q ekan: a phrase used in fairy tales equivalent to English once upon a time 
+
+> U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
+>
+> 3-PL  poor-        NML with DAY see-AOR EV-  PL.
+
+> Bir   kun-i          kampir       shahar hammom-i-         ga     bor-ib- di.  
+>
+> One day-3.POS old.woman city     bath-        3.POS-DAT go-EV-PST.
+
+Hammom-ga   hali bosh-i-         ga      chap-  la-     gan     qatig’-  i-         ni      yuv-   ib        
+Bath-       DAT yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ 
+
+ulgur-     ma-   y 
+manage-NEG-CONJ 
+
+xodim-  lar-dan   bir-  i          kir-   ib
+servant-PL-ABL one-3.POS enter-CONJ
+
+Hammom-ni      tez  bo’sh- a-       t-         ing-     lar,
+Bath-        ACC fast empty-VRB-CAUS-IMP.2-PL 
+
+Podshoh-ning bosh folbin-        i-          ning  xotin-i 
+king-      GEN head soothsayer-3.POS-GEN wife- 3.POS
+
+yuv-  in-       ish-    ga      kel-    a-        yap- ti-lar
+wash-INTR-NML-DAT come-CONJ-PRG-3-PL 
+
+de-  b        hamma-ni      chala            yuv-   in-      gan 
+say-CONJ all-      ACC incompletely wash-INTR-PART 
+
+hol-  da      chiq-  ar-       ib       yubor-ib-di.
 
 ## List of suffixes
 

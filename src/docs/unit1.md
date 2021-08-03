@@ -83,7 +83,7 @@ The king burst out laughing, and then, keeping his promise, he gave the old man 
 
 ## Text with Tooltip    
 
-<Tooltip label="BIR">
+<Tooltip label="Bir">
 <span>
 BIR: one; is a numeral that can be used as an indefinite article 
 <br>
@@ -92,16 +92,16 @@ BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlat
 </span>
 </Tooltip> 
 
-<Tooltip label="BOR">
+<Tooltip label="bor">
 <span>
-BOR: EXST; is an existential particle that functions similarly to the English phrase ‘there is’   
+BOR: is an existential particle that functions similarly to the English phrase ‘there is’   
 <br>
 BOR: mavjudlikni ifodalaydigan so’z va ingliz tiliga “there is” deb tarjima qilinadi.   
 <br>
  </span>
 </Tooltip>
 
-<Tooltip label="EKAN">
+<Tooltip label="ekan">
 <span>
 EKAN is an evidential particle denoting an event not witnessed by the speaker
 <br>
@@ -110,7 +110,7 @@ EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
 </span>
 </Tooltip>
 
-<Tooltip label="BIR">
+<Tooltip label="bir">
 <span>
 BIR: one; is a numeral that can be used as an indefinite article 
 <br>
@@ -119,14 +119,14 @@ BIR: Son turkumiga kiradigan, bir so’zi noaniqlikni ifodalash uchun ham ishlat
 </span>
 </Tooltip> 
 
-<Tooltip label="YO'Q">
+<Tooltip label="yo'q">
 <span>
 YO'Q: not; EXST.NEG
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="EKAN">
+<Tooltip label="ekan.">
 <span>
 EKAN: is an evidential particle denoting an event not witnessed by the speaker
 <br>
@@ -135,49 +135,49 @@ EKAN: Bu so’z nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradi
 </span>
 </Tooltip>
 
-<Tooltip label="QADIM">
+<Tooltip label="Qadim">
 <span>
 QADIM: old
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="ZAMON-DA">
+<Tooltip label="zamonda">
 <span>
 ZAMON-DA: time-LOC
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="CHOL">
+<Tooltip label="chol">
 <span>
 CHOL: old.man
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="BILAN">
+<Tooltip label="bilan">
 <span>
 BILAN: with
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="KAMPIR">
+<Tooltip label="kampir">
 <span>
 KAMPIR: old.woman
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="BO'L-GAN"> 
+<Tooltip label="bo'lgan"> 
 <span>
 BO’L-GAN: be-PART  
 <br>
 </span>
 </Tooltip>   
 
-<Tooltip label="EKAN">
+<Tooltip label="ekan.">
 <span>
 EKAN: EV
 <br>
@@ -185,7 +185,7 @@ EKAN: EV
 </Tooltip>  
                                              
 
-<Tooltip label="U-LAR">
+<Tooltip label="Ular">
 <span>
 U-LAR: “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar  
 <br>
@@ -788,10 +788,6 @@ FOL: fortune
 BOQ-MOQCHI-DEK: look-INTL-like
 O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
 
-
-
-
-
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
@@ -814,28 +810,13 @@ UZBEK
 </Tooltip> 
      
 
-## Practice codes
-
 [Bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
 [bor](/ "BOR is an existential particle that functions similarly to English there is")
 [ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
 [bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
 [yo'q](/ "Negative form of BOR")
 [ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
-    
-    
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-                                                                 
-## List of suffixes
 
--GAN: the suffix -gan forms participles when appended to verbal complexes    
 
 
 ## Wordlist

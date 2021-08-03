@@ -123,7 +123,7 @@ QADIM: old
 </span>
 </Tooltip>   
 
-<Tooltip label="ZAMON">
+<Tooltip label="ZAMONDA">
 <span>
 ZAMON-DA: time-LOC
 <br>
@@ -170,36 +170,48 @@ EKAN: EV
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 > 3-PL  poor-    	NML with DAY see-AOR EV-  PL
 
+U-LAR “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar (Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinchi shaxs olmoshi va ‘lar’ ko’plik qo’shimchasidan iborat) 
+KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ (‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat) 
+BILAN: “With” Postposition (Ko’makchi)
+KUN: “Day” Noun (Ism)
+KO’R-AR: “(They) See” Composed of the root ko’r- “see” and the aorist suffix -ar (“Ko’rmoq” fe’li va hozirgi kelasi zamonni bildiradigan qo’shimchadan iborat) 
+EKAN-LAR: The evidential particle ekan, an evidential particle denoting an event not witnessed by the speaker followed by the plural agreement suffix (Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “ekan” so’zi va “-lar” ko’plik qo’shimchasidan iborat) 
+U-LAR: 3-PL
+KAMBAG’AL-LIK: poor-NML (poverty)
+BILAN: with
+KUN: day
+KO’R-AR: see-AOR
+EKAN-LAR: EV-PL
 
 
 
 
 ### Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
 
-> Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
-> One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.
+> Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.      
+> One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.     
 
 
 
 
 
+ 
+### Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib     
+                     
+> Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib    
+> yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ    
 
-### Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib  
                      
-> Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib 
-> yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ
+                     
+                     
+                     
+                     
+                     
+                     
+### ulgur-     ma-   y,   hammom-ga        
 
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-### ulgur-     ma-   y,   hammom-ga     
-
-> ulgur-     ma-   y,    hammom-ga   
-> manage-NEG-CONJ        Bath-   	DAT
+> ulgur-     ma-   y,    hammom-ga     
+> manage-NEG-CONJ        Bath-   	DAT   
 
                      
                      

@@ -655,14 +655,79 @@ BO’L-MA-GUN-INGIZ-CHA: be-NEG-PART-2.PL-until
 </span>
 </Tooltip> 
 
-
-
-
-<Tooltip label="WORD">
+<Tooltip label="MEN">
 <span>
-ENGLISH
+MEN: 1.SG  
 <br>
-UZBEK   
+</span>
+</Tooltip> 
+
+<Tooltip label="SIZ">
+<span>
+SIZ: 2.PL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="BILAN">
+<span>
+BILAN: with
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="YASHA-MA-Y-MAN">
+<span>
+YASHA-MA-Y-MAN: live-NEG-CONJ-1.SG.NPST
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="DE-B">
+<span>
+DE-B: say-CONJ 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="CHOL-NI">
+<span>
+CHOL-NI: old.man-ACC  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="UR-ISH-IB-DI">
+<span>
+UR-ISH-IB-DI: fight-REC-EV-PST
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="CHOL">
+<span>
+CHOL: old.man 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="O’YLA-B-O’YLA-B">
+<span>
+O’YLA-B-O’YLA-B: think-CONJ-think-CONJ  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="TAVAKKAL">
+<span>
+TAVAKKAL: risk
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="QIL-IB-DI">
+<span>
+QIL-IB-DI: do-EV-PST
 <br>
 </span>
 </Tooltip> 
@@ -676,11 +741,23 @@ UZBEK
 </span>
 </Tooltip> 
 
-<Tooltip label="WORD">
+<Tooltip label="BIR">
 <span>
-ENGLISH
+BIR: one 
 <br>
-UZBEK   
+</span>
+</Tooltip> 
+
+<Tooltip label="SIQIM">
+<span>
+SIQIM: handful 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="TOSH-CHA-LAR-NI">
+<span>
+TOSH-CHA-LAR-NI: stone-DIM-PL-ACC
 <br>
 </span>
 </Tooltip> 
@@ -689,63 +766,43 @@ UZBEK
 <span>
 ENGLISH
 <br>
-UZBEK   
-<br>
 </span>
 </Tooltip> 
 
 <Tooltip label="WORD">
 <span>
 ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
 <br>
 </span>
 </Tooltip> 
 
 ## GRAMMAR NOTES
-   
+
+BOZOR-NING: market-GEN
+KO’Z-GA: eye-DAT
+KO’R-IN-AR-LI: see-PASS-AOR-COM
+BIR: one
+JOY-I-NI: place-3.POS-ACC
+EGA-LLA-B: owner-VRB-CONJ 
+FOL: fortune
+BOQ-MOQCHI-DEK: look-INTL-like
+O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
+
+
+
+
 
 ### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
 > Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
 > One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
+
+<Tooltip label="WORD">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
 
 <Tooltip label="WORD">
 <span>

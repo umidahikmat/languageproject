@@ -174,7 +174,7 @@ EKAN: EV
 </span>
 </Tooltip>  
                                              
-## U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
+### U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 
 > U-lar kambag’al-lik    bilan kun    ko’r-ar    ekan-lar
 > 3-PL  poor-    	NML with DAY see-AOR EV-  PL
@@ -183,7 +183,7 @@ EKAN: EV
 
 
 
-## Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
+### Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
 
 > Bir   kun-i          kampir       shahar    hammom-i-ga     bor-ib- di.  
 > One day-3.POS old.woman city     bath-    	3.POS-DAT go-EV-PST.
@@ -193,9 +193,29 @@ EKAN: EV
 
 
 
+### Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib  
+                     
+> Hali bosh-i-     	ga      chap-  la- 	gan     qatig’-  i-     	ni      yuv-   ib 
+> yet head-3.POS-DAT smear-VRB-PART yogurt-3.POS-ACC wash-CONJ
 
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+### ulgur-     ma-   y,                     hammom-ga   
+manage-NEG-CONJ            Bath-   	DAT
 
-## Grammar notes
+                     
+                     
+
+                     
+                     
+####
+
+## GRAMMAR NOTES
 
 **Zo'raki folbin**   
 

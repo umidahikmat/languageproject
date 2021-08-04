@@ -10,4 +10,4 @@ Consultant and coding: Umida Khikmatillaeva
 
 Fairy tale translation: Hafiza Allanazarova   
 Legal Text translation: Akram Habibulla  
-Word by word translations: Darraugh Winkelman
+Word by word translations: Darragh Winkelman

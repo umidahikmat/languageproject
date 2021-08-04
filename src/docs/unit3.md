@@ -1,6 +1,6 @@
 # Unit 2
 
-## She'rlar
+## Poems
 
 ### **ONA TILIM**
 
@@ -16,18 +16,6 @@
 
 (Abdulla Oripov)  
 
-**MY NATIVE TONGUE**
-
-The nightingale's song has not changed
-In a thousand years, pristine forever.
-But the lot of the poor parrot 
-Is to imitate others forever.
- 
-My native tongue, as long as you are here, without a doubt
-I will put the nightingale's melody to poetry
-The day you disappear, indubitably, 
-I too will become a parrot. 
-
 ### **DORBOZ**   
 
 Bulutlarga yondosh, osmon ostida,   
@@ -42,17 +30,6 @@ Eplab yurolmaymiz katta yo‘lda ham.
 
 (Abdulla Oripov)    
 
-**THE TIGHTROPE WALKER** 
-
-Next to the clouds, under the sky,   
-He walks the tightrope like a tear on an eyelash   
-atop a rope like the edge of a blade,    
-He walks with his eyes closed.      
-
-People, people, applaud him!     
-Look, he is so dexterous and noble,   
-As for us, well... some of us with open eyes  
-Cannot even follow a wide path.   
 
 ### **XOTIRA**
 
@@ -107,7 +84,37 @@ Millatparvar siymolar kerak!
 Mardu maydon Donolar keark!   
 Bizga shunday DAHOLAR kerak!   
 
-(Olim Sharipov)     
+(Olim Sharipov)   
+
+   
+**THE TIGHTROPE WALKER** 
+
+Next to the clouds, under the sky,   
+He walks the tightrope like a tear on an eyelash   
+atop a rope like the edge of a blade,    
+He walks with his eyes closed.      
+
+People, people, applaud him!     
+Look, he is so dexterous and noble,   
+As for us, well... some of us with open eyes  
+Cannot even follow a wide path.  
+
+(Abdulla Oripov)    
+
+**MY NATIVE TONGUE**
+
+The nightingale's song has not changed
+In a thousand years, pristine forever.
+But the lot of the poor parrot 
+Is to imitate others forever.
+ 
+My native tongue, as long as you are here, without a doubt
+I will put the nightingale's melody to poetry
+The day you disappear, indubitably, 
+I too will become a parrot.   
+
+(Abdulla Oripov)    
+
 
 **WE NEED GENIUSES**   
  
@@ -135,6 +142,8 @@ We need GENIUSES who
 Keep their promises    
 Love their homeland   
 Who are noble and wise!    
+
+(Olim Sharipov) 
 
 Translated by Darragh Winkelman
 

@@ -136,5 +136,5 @@ Keep their promises
 Love their homeland   
 Who are noble and wise!    
 
-
+Translated by Darragh Winkelman
 

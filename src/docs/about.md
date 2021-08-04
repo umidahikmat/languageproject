@@ -9,5 +9,5 @@ Consultant and coding: Umida Khikmatillaeva
 **Credits:**    
 
 Fairy tale translation: Hafiza Allanazarova   
-Legal Text translation: Akram Habibulla  
-Word by word translations: Darragh Winkelman
+Legal text translation: Akram Habibulla  
+Word by word translations and corrections: Darragh Winkelman

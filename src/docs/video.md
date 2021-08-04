@@ -10,18 +10,3 @@ Watch the animation based on the text.
 </html>
 
 
-## Wordlist
-- nouns
-- adjectives
-- numerals
-- pronouns
-- verbs
-- adverbs
-- prepositions
-- conjunctions
-- interjections
-- onomatopoeic words
-
-
-
-http://www.butte.edu/departments/cas/tipsheets/grammar/two_word_verbs.html

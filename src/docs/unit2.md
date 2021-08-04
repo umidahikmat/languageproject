@@ -539,14 +539,14 @@ A: Geography**
 - Amerikaning Buyuk Britaniyadan mustaqil ekanligini e’lon qildi.
 
 
-9. Mustaqillik Deklaratsiyasidagi inson huquqlaridan ikkitasini ayting?
+9. Mustaqillik Deklaratsiyasidagi inson huquqlaridan ikkitasini ayting.
 - Yashash
 - Ozodlik
 - Baxtli bo‘lish
 
 
 10. Diniy erkinlik nimadan iborat?
-- Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga ham e’tiqod qilmacligingiz mumkin.
+- Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga e’tiqod qilmasligingiz mumkin.
 
 
 11. AQShning iqtisodiy tizimi qanday?
@@ -563,7 +563,7 @@ A: Geography**
 
 **B. Hukumat tizimi**
 
-13. Hukumat tarkibidagi bo‘lim yoki qismlardan birortasini ayting
+13. Hukumat tarkibidagi bo‘lim yoki qismlardan birortasini ayting.
 - Kongress
 - Prezident
 - Sud
@@ -571,8 +571,8 @@ A: Geography**
 - Qonun chiqaruvchi
 
 
-14. Hukumat tarkibidagi bir bo‘limning o‘ta qudratli bo’lib ketishidan/kuchayib ketishidan nima saqlab turadi?
-- cheklovlar o’rnatish va muvozanatni saqlash
+14. Hukumat tarkibidagi alohida bir bo‘limning o‘ta qudratli bo’lib ketishidan nima saqlab turadi?
+- cheklovlar o’rnatish va muvozanatni saqlash  
 - qudratni bo‘lish/kuchlarni ajratish
 
 15. Ijroiya organining rahbari kim?
@@ -799,10 +799,8 @@ S. Huquqlar va majburiyatlar
 - Iqtisodiy imkoniyatlar
 - Ta’qibdan qochish
 
-
 59. Yevropaliklar kelishidan oldin Amerikada kimlar yashagan?
 - Asl amerikaliklar (Native Americans); Hindular (American Indians)
-
 
 60. Kimlar Amerikaga olib kelib sotilgan va qul qilingan?
 - Afrikaliklar

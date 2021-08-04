@@ -184,7 +184,7 @@ EKAN: EV
 </span>
 </Tooltip>  
                                              
-
+     
 <Tooltip label="Ular">
 <span>
 U-LAR: “They” Third person plural pronoun composed of the third person pronoun u and the plural suffix -lar  
@@ -203,7 +203,6 @@ KAMBAG’AL-LIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan ibo
 </span>  
 </Tooltip>   
    
-
 <Tooltip label="bilan">
 <span>
 BILAN: “With” Postposition   
@@ -241,7 +240,7 @@ EKAN-LAR: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan “
 </span>
 </Tooltip> 
 
-
+         
 <Tooltip label="Bir">
 <span>
 BIR: one; Bir is a numeral that can be used as an indefinite article  
@@ -296,7 +295,7 @@ BOR-IB-DI: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan -i
 <br>
 </span>
 </Tooltip> 
-               
+                   
 <Tooltip label="Hali">
 <span>
 HALI: yet
@@ -326,7 +325,7 @@ CHAP-LA-GAN: “CHAP” o’zagi va -LA qo’shimchasidan iborat fe’lga -GAN s
 <span>
 QATIG’-I-NI: The noun qatiq ‘yogurt’ with the third person possessive and accusative case suffixes. The final q here surfaces as g’ due to the following vowel.
 <br>
-QATIG’-I-NI: “Qatiq” so’ziga uchinchi shaxs egalik va tushum kelishigi qo’shimchalari qo’shilgan. So’nggi “q”tovushidan keyin unli kelgani uchun, bu yerda “g’” shaklini oladi.   
+QATIG’-I-NI: “Qatiq” so’ziga uchinchi shaxs egalik va tushum kelishigi qo’shimchalari qo’shilgan. So’nggi “q”tovushidan keyin unli kelgani uchun, bu yerda “g’” shaklini oladi. 
 <br>
 </span>
 </Tooltip> 
@@ -524,6 +523,7 @@ YUBOR-IB-DI: send-EV-PST
 </span>
 </Tooltip> 
 
+   
 <Tooltip label="Bu">
 <span>
 BU: this
@@ -566,6 +566,8 @@ QIL-IB-DI: do-EV-PST
 </span>
 </Tooltip> 
 
+
+     
 <Tooltip label="Uyga">
 <span>
 UY-GA: house-DAT
@@ -698,12 +700,11 @@ CHOL-NI: old.man-ACC
 </Tooltip> 
 
 <Tooltip label="urishibdi.">
-<span>
-UR-ISH-IB-DI: fight-REC-EV-PST
+<span>UR-ISH-IB-DI: fight-REC-EV-PST
 <br>
 </span>
 </Tooltip> 
-
+      
 <Tooltip label="Chol">
 <span>
 CHOL: old.man 
@@ -810,8 +811,7 @@ BOQ-MOQCHI-DEK: look-INTL-like
 </Tooltip> 
 
 <Tooltip label="o’tiraveribdi.">
-<span>
-O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
+<span>O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
 <br>
 </span>
 </Tooltip> 
@@ -1053,8 +1053,7 @@ BER-SA-NGIZ: give-COND-2.PL
 </Tooltip> 
 
 <Tooltip label="debdi.">
-<span>
-DE-B-DI: say-CONJ-PST
+<span>DE-B-DI: say-CONJ-PST
 <br>
 </span>
 </Tooltip> 
@@ -1239,56 +1238,56 @@ UST-I-DA: top-3.POS-LOC
 
 <Tooltip label="tilla">
 <span>
-ENGLISH
+gold
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="va">
 <span>
-ENGLISH
+and
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="kumush">
 <span>
-ENGLISH
+silver
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="ortilgan">
 <span>
-ENGLISH
+ORT-IL-GAN: load-PASS-PART
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="xurjuni">
 <span>
-ENGLISH
+XURJUN-I: saddlebag-3.POS
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="ham">
 <span>
-ENGLISH
+HAM: too, also
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="bor,">
 <span>
-ENGLISH
+BOR: EXST
 <br>
 </span>
 </Tooltip> 
 
 <Tooltip label="debdi">
 <span>
-DE-B-DI: say-EV-PST
+ DE-B-DI: say-EV-PST
 <br>
 </span>
 </Tooltip> 
@@ -1345,8 +1344,7 @@ CHIQ-AYOT-GAN: exit-PROG-PART
 </Tooltip> 
 
 <Tooltip label="ekan-da.">
-<span>
-EKAN-DA: EXST-PRT
+<span>EKAN-DA: EXST-PRT
 <br>
 </span>
 </Tooltip> 
@@ -1447,8 +1445,7 @@ YUR-GAN: walk-PART
 </Tooltip>
 
 <Tooltip label="emish.">
-<span>
-EMISH: EV
+<span>EMISH: EV
 <br>
 </span>
 </Tooltip>
@@ -1628,8 +1625,7 @@ UR-IB: hit-CONJ
 </Tooltip>
 
 <Tooltip label="ketibdi.">
-<span>
-KET-IB-DI: go-EV-PS
+<span>KET-IB-DI: go-EV-PS
 <br>
 </span>
 </Tooltip>
@@ -1687,8 +1683,7 @@ TOP-A: find-CONJ
 </Tooltip>
 
 <Tooltip label="olishmabdi.">
-<span>
-OL-ISH-MA-B-DI: take-PL-NEG-EV-PST
+<span>OL-ISH-MA-B-DI: take-PL-NEG-EV-PST
 <br>
 </span>
 </Tooltip>
@@ -1724,14 +1719,14 @@ HAQ-I-DA: topic-3.POS-LOC ‘about’
 </Tooltip>
 
 <Tooltip label="eshitib">
-<span>ESHIT-IB: hear-CONJ
+<span>
+ESHIT-IB: hear-CONJ
 <br>
 </span>
 </Tooltip>
 
 <Tooltip label="qolibdi">
-<span>
-QOL-IB-DI: stay-EV-PST
+<span>QOL-IB-DI: stay-EV-PST
 <br>
 </span>
 </Tooltip>
@@ -1766,8 +1761,7 @@ CHAQIR-TIR-IB: summon-CAUS-CONJ
 </Tooltip>
 
 <Tooltip label="kelibdi.">
-<span>
-KEL-IB-DI: come-EV-PST
+<span>KEL-IB-DI: come-EV-PST
 <br>
 </span>
 </Tooltip>
@@ -1896,8 +1890,7 @@ MUHAYYO: prepared
 </Tooltip>
 
 <Tooltip label="qilibdi.">
-<span>
-QIL-IB-DI: do-CONJ-PST
+<span>QIL-IB-DI: do-CONJ-PST
 <br>
 </span>
 </Tooltip>
@@ -2119,9 +2112,6 @@ OL-MA-Y-MAN: take-NEG-CONJ-1.SG
 </Tooltip>
 
 
-
-
-
 <Tooltip label="shuning">
 <span>
 SHU-NING: that-GEN 
@@ -2287,8 +2277,7 @@ DE-B-DI: say-EV-PST
 </Tooltip>
 
 <Tooltip label="Kampir">
-<span>
-KAMPIRL: old.woman
+<span>KAMPIRL: old.woman
 <br>
 </span>
 </Tooltip>

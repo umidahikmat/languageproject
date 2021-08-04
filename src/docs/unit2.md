@@ -500,7 +500,7 @@ A: Geography**
 •	Thanksgiving          
 •	Christmas       
 
-## Legal text in Uzbek 
+## Legal Text in Uzbek 
 
 **AMERIKA HUKUMATI**   
 

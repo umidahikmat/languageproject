@@ -423,9 +423,9 @@ A: Colonial Period and Independence**
 **INTEGRATED CIVICS  
 A: Geography**    
 
-88. Name one of the two longest rivers in the United States.         
-•	Missouri (River) 
-•	Mississippi (River)    
+88. Name one of the two longest rivers in the United States.            
+•	Missouri (River)       
+•	Mississippi (River)          
 
 89. What ocean is on the West Coast of the United States?           
 •	Pacific (Ocean)   
@@ -465,8 +465,8 @@ A: Geography**
 •	Washington, D.C.     
 
 95. Where is the Statue of Liberty?*     
-•	New York (Harbor)   
-•	Liberty Island      
+•	New York (Harbor)    
+•	Liberty Island       
 [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]     
 
 **B: Symbols** 

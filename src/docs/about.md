@@ -1,6 +1,6 @@
 # About
 
-**Project paryticipants:**   
+**Project participants:**   
 
 Grammar notes and comments: Darraugh Winkelman
 Programmer: Abdulaziz Alimov   

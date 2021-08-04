@@ -64,7 +64,8 @@ module.exports = {
           collapsable: false,
           children: [
             'unit1',
-            'unit2'
+            'unit2',
+            'unit3'
           ]
         },
         {

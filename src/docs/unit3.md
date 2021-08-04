@@ -1,6 +1,6 @@
 # Unit 3
 
-## Poems
+## Poems in Uzbek
 
 ### **ONA TILIM**
 
@@ -45,18 +45,6 @@ Esdan chiqarolmay kuyaman hamon.
 
 (Erkin Vohidov)
 
-**MEMORY** 
-
-My friend, do not bemoan your bad memory,   
-To be able to forget is a good practice.   
-To be able to forget is a great joy.   
-The pain of not forgetting is severe. 
-
-Having forgotten, the soul will find peace.   
-The heart will no longer bear this burden.   
-Look at me - for years I have suffered,   
-Unable to forget the one who betrayed me.   
-
 ### **DAHOLAR KERAK**    
 
 Aziz do'stlar bizga bugun    
@@ -87,6 +75,20 @@ Bizga shunday DAHOLAR kerak!
 (Olim Sharipov)   
 
    
+**MY NATIVE TONGUE**
+
+The nightingale's song has not changed    
+In a thousand years, pristine forever.    
+But the lot of the poor parrot     
+Is to imitate others forever.    
+ 
+My native tongue, as long as you are here, without a doubt    
+I will put the nightingale's melody to poetry    
+The day you disappear, indubitably,    
+I too will become a parrot.      
+
+(Abdulla Oripov)    
+
 **THE TIGHTROPE WALKER** 
 
 Next to the clouds, under the sky,   
@@ -101,20 +103,19 @@ Cannot even follow a wide path.
 
 (Abdulla Oripov)    
 
-**MY NATIVE TONGUE**
+**MEMORY**    
 
-The nightingale's song has not changed
-In a thousand years, pristine forever.
-But the lot of the poor parrot 
-Is to imitate others forever.
- 
-My native tongue, as long as you are here, without a doubt
-I will put the nightingale's melody to poetry
-The day you disappear, indubitably, 
-I too will become a parrot.   
+My friend, do not bemoan your bad memory,   
+To be able to forget is a good practice.   
+To be able to forget is a great joy.   
+The pain of not forgetting is severe. 
 
-(Abdulla Oripov)    
+Having forgotten, the soul will find peace.   
+The heart will no longer bear this burden.   
+Look at me - for years I have suffered,   
+Unable to forget the one who betrayed me.      
 
+(Erkin Vohidov)     
 
 **WE NEED GENIUSES**   
  

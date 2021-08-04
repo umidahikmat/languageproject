@@ -20,9 +20,9 @@ This site can be used at the undergraduate and graduate level in:
 
 * Uzbek language learning courses
 * Linguistics courses
-* Turkic second language acquisition courses  
-* Turkic applied language courses  
-* Turkic teacher training courses  
+* Second language acquisition courses  
+* Applied language courses  
+* Teacher training courses  
 
 
 Content

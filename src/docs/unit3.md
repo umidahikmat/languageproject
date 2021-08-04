@@ -74,6 +74,7 @@ Bizga shunday DAHOLAR kerak!
 
 (Olim Sharipov)   
 
+## Translations of Poems     
    
 **MY NATIVE TONGUE**
 

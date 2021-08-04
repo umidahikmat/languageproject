@@ -2,7 +2,7 @@
 
 **Project participants:**   
 
-Grammar notes and comments: Darraugh Winkelman
+Grammar notes and comments: Darragh Winkelman    
 Programmer: Abdulaziz Alimov   
 Consultant and coding: Umida Khikmatillaeva 
 

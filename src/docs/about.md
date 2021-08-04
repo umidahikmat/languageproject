@@ -4,7 +4,7 @@
 
 Grammar notes and comments: Darragh Winkelman    
 Programmer: Abdulaziz Alimov   
-Consultant and coding: Umida Khikmatillaeva 
+Consultant and coder: Umida Khikmatillaeva 
 
 **Credits:**    
 

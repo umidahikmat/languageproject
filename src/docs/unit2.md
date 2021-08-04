@@ -507,157 +507,157 @@ A: Geography**
 **A. Demokratiya tamoyillari**
 
 1. Mamlakatning eng oliy qonuni nima?
-- Konstitutsiya
+•	 Konstitutsiya
 
 2. Konstitutsiyani nimani belgilaydi?
-- Hukumatni shakllantiradi
-- Hukumatni belgilaydi
-- Amerikaliklarning asosiy huquqlarini himoya qiladi
+•	 Hukumatni shakllantiradi
+•	 Hukumatni belgilaydi
+•	 Amerikaliklarning asosiy huquqlarini himoya qiladi
 
 3. Konstitutsiyadagi birinchi uchta so‘z o‘z-o‘zini boshqaruvni anglatadi. Ular qaysi so‘zlar?
-- We the People (Biz odamlar)
+•	 We the People (Biz odamlar)
 
 4. Amendment (tuzatishlar) nima?
-- Konstitutsiyaga o‘zgartirishlar
-- Konstitutsiyaga qo‘shimchalar
+•	 Konstitutsiyaga o‘zgartirishlar
+•	 Konstitutsiyaga qo‘shimchalar
 
 5. Konstitutsiyaning birinchi o‘nta o’zgarish va tuzatishlar nima deb ataladi?
-- the Bill of Rights (Huquqlar haqidagi qonunlar loyihasi)
+•	 the Bill of Rights (Huquqlar haqidagi qonunlar loyihasi)
 
 6. Konstitutsiyaga kiritilgan birinchi o‘nta o’zgarish va tuzatishlar huquq va erkinliklardan bittasi nima?
-- So’z erkinligi  
-- Din erkiniligi  
-- Yig’ilish  
-- Matbuot erkinligi  
-- Hukumatga murojaat qilish huquqi  
+•	 So’z erkinligi  
+•	 Din erkiniligi  
+•	 Yig’ilish  
+•	 Matbuot erkinligi  
+•	 Hukumatga murojaat qilish huquqi  
 
 7. Konstitutsiyaning nechta tuzatish bor?
-- Yigirma yettita (27)
+•	 Yigirma yettita (27)
 
 
 8. Mustaqillik Deklaratsiyasi nimani e’lon qilgan?
-- Amerikaning Buyuk Britaniyadan mustaqil ekanligini e’lon qildi.
+•	 Amerikaning Buyuk Britaniyadan mustaqil ekanligini e’lon qildi.
 
 
 9. Mustaqillik Deklaratsiyasidagi inson huquqlaridan ikkitasini ayting.
-- Yashash
-- Ozodlik
-- Baxtli bo‘lish
+•	 Yashash
+•	 Ozodlik
+•	 Baxtli bo‘lish
 
 
 10. Diniy erkinlik nimadan iborat?
-- Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga e’tiqod qilmasligingiz mumkin.
+•	 Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga e’tiqod qilmasligingiz mumkin.
 
 
 11. AQShning iqtisodiy tizimi qanday?
-- Kapitalistik iqtisod
-- Bozor iqtisodi
+•	 Kapitalistik iqtisod
+•	 Bozor iqtisodi
 
 
 12. Qonun ustuvorligi nimani anglatadi?
-- Hamma qonunga bo‘ysinishi kerak
-- Rahbarlar qonunni buzmasliklari kerak
-- Hukumat qonunni buzmasligi kerak
-- Hech kim qonundan ustun emas
+•	 Hamma qonunga bo‘ysinishi kerak
+•	 Rahbarlar qonunni buzmasliklari kerak
+•	 Hukumat qonunni buzmasligi kerak
+•	 Hech kim qonundan ustun emas
 
 
 **B. Hukumat tizimi**
 
 13. Hukumat tarkibidagi bo‘lim yoki qismlardan birortasini ayting.
-- Kongress
-- Prezident
-- Sud
-- Ijroiya
-- Qonun chiqaruvchi
+•	 Kongress
+•	 Prezident
+•	 Sud
+•	 Ijroiya
+•	 Qonun chiqaruvchi
 
 
 14. Hukumat tarkibidagi alohida bir bo‘limning o‘ta qudratli bo’lib ketishidan nima saqlab turadi?
-- cheklovlar o’rnatish va muvozanatni saqlash  
-- qudratni bo‘lish/kuchlarni ajratish
+•	 cheklovlar o’rnatish va muvozanatni saqlash  
+•	 qudratni bo‘lish/kuchlarni ajratish
 
 15. Ijroiya organining rahbari kim?
-- Prezident
+•	 Prezident
 
 
 16. Federal qonunlarni kim qabul qiladi?
-- Kongress
+•	 Kongress
 
 
 17. Kongressning ikki palatasi qaysi?
-- Senat va Vakillar palatasi
+•	 Senat va Vakillar palatasi
 
 18. Nechta senator bor?
-- yuzta
+•	 yuzta
 
 
 19. AQSh senatorlari necha yilga saylanadi?
-- 6 yilga
+•	 6 yilga
 
 
 20. Indiana shtatidagi senatorlardan biri kim?*
-- Todd Young (Tod Yong)
-- Mike Braun (Mayk Braun)
+•	 Todd Young (Tod Yong)
+•	 Mike Braun (Mayk Braun)
 
 (Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
 
 21. Vakillar palatasida nechta a’zo bo‘ladi?
-- To‘rt yuz o‘ttiz besh (435)
+•	 To‘rt yuz o‘ttiz besh (435)
 
 
 22. Vakillar palatasi a’zosi qancha muddatga saylanadi?
-- Ikki yilga
+•	 Ikki yilga
 
 
 23. Sizning Vakillar palatasidagi vakilingiz kim?*
-- Trey Hollingsworth (Trey Hollingsvors)
+•	 Trey Hollingsworth (Trey Hollingsvors)
 (Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
 
 24. Senator kimning vakili?
-- Butun shtat aholisining vakili
+•	 Butun shtat aholisining vakili
 
 
 25. Nimaga ba’zi shtatlarda vakillar ko‘proq?
-- Shtatdagi aholi soniga bog‘liq
+•	 Shtatdagi aholi soniga bog‘liq
 
 
 26. Prezident necha yilga saylanadi?
-- To‘rt yilga
+•	 To‘rt yilga
 
 
 27. Prezident saylovi qaysi oyda bo‘ladi?
-- Noyabr oyida
+•	 Noyabr oyida
 
 
 28. AQSh Prezidentining ismi nima?
-- Jo Bayden
+•	 Jo Bayden
 
 
 29. AQSh Vitse-Prezidentining ismi nima?
-- Kamala Harris
+•	Kamala Harris
 
 
 30. Prezident o‘z vazifasini bajara olmay qolsa kim Prezident bo‘ladi?
-- Vitse-Prezident
+•	 Vitse-Prezident
 
 
 31. Agar Prezident ham Vitse-Prezident ham o‘z vazifasini bajarolmay qolsa kim Prezident bo‘ladi?
-- Vakillar palatasining spikeri (Nansu Pelosi)
+•	 Vakillar palatasining spikeri (Nansu Pelosi)
 
 
 32. Bosh harbiy qo‘mondon kim?
-- Prezident
+•	 Prezident
 
 
 33. Qonun loyihalari kuchga kirishi uchun kim imzo chekadi?
-- Prezident
+•	 Prezident
 
 
 34. Qonun loyihalariga kim veto qo‘yadi?
-- Prezident
+•	 Prezident
 
 
 35. Prezident Kabineti nima ish qiladi?
-- Prezidentga maslahat beradi
+•	 Prezidentga maslahat beradi
 
 
 36. Kabinetdagi lavozimlardan ikkitasini ayting.    
@@ -682,133 +682,135 @@ A: Geography**
 
 
 37. Sud hokimiyati nima qiladi?
-- Qonunlarni ko‘rib chiqadi va tushuntiradi
+•	 Qonunlarni ko‘rib chiqadi va tushuntiradi
 
 
 38. Eng yuqori sud nima?
-- Oliy sud (Supreme court)
+•	 Oliy sud (Supreme court)
 
 
 39. Oliy sudda nechta sudya bor?
-- to‘qqizta
+•	 to‘qqizta
 
 
 40. AQShning bosh sudyasi kim?
-- Jon Roberts (John Roberts)
+•	 Jon Roberts (John Roberts)
 
 
 41. Konstitutsiyaga binoan federal hukumatga ba’zi vakolatlar berilgan. Shulardan bittasini ayting?
-- Urush e’lon qilish
-- Pul bosib chiqarish
+•	 Urush e’lon qilish
+•	 Pul bosib chiqarish
 
 
 42. Konstitutsiyaga binoan ba’zi vakolatlar shtatlarga berilgan. Shu vakolatlardan bittasini ayting?
-- Haydovchilik guvohnomasini berish
-- Maktab va ta’limni ta’minlash
-- Xavfsizlikni ta’minlash
-- Yong’indan saqlash
-- rayonlashtirish va yerdan foydalanishni tasdiqlash
+•	 Haydovchilik guvohnomasini berish
+•	 Maktab va ta’limni ta’minlash
+•	 Xavfsizlikni ta’minlash
+•	 Yong’indan saqlash
+•	 rayonlashtirish va yerdan foydalanishni tasdiqlash
 
 
 43. Indiana shtati gubernatori kim?
-- Erik Holkomb (Eric Holcomb)       
+•	 Erik Holkomb (Eric Holcomb)       
 (Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
 
 44. Indiana shtatining poytaxti qaysi shahar?
-- Indianapolis       
+•	 Indianapolis       
 (Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
 
 45. Amerikadagi asosiy ikkita partiya qaysilar?
-- Demokratik va Respublikachi
+•	 Demokratik va Respublikachi
 
 
 46. Amaldagi Prezident qaysi partiyadan?
-- Demokratik partiyadan (Bayden)
+•	 Demokratik partiyadan (Bayden)
 
 
 47. Vakillar palatasi spikerining ismi nima?
-- Nansi Pelosi
+•	 Nansi Pelosi
 
 
-S. Huquqlar va majburiyatlar
+**V. Huquqlar va majburiyatlar**
 
 
 48. Kim saylovda ovoz bera olishi to‘g‘risida Konstitutsiyaga to‘rtta qo‘shimcha kiritilgan. Shulardan birini ayting
-- 18 yoki undan katta yoshdagi fuqarolar ovoz berishi mumkin.
+•	 18 yoki undan katta yoshdagi fuqarolar ovoz berishi mumkin.
 
 
 49. Faqat Amerika fuqarolarining majburiyatlaridan biri nima?
-- Sudda nazoratchi vazifasida xizmat qilish
+•	 Sudda nazoratchi vazifasida xizmat qilish
 
 
 50. Faqat Amerika fuqarolarining huquqlaridan biri
-- Federal saylovda ovoz berish
+•	 Federal saylovda ovoz berish
 
 
 51. Amerikada yashovchilarning huquqlaridan (erkinliklaridan) ikkitasini ayting
-- Din erkinligi
-- So’z erkinligi
+•	 Din erkinligi   
+•	 So’z erkinligi   
 
 
 52. Biz qasamyod qilganimizda nimaga sadoqatimizni namoyish qilamiz?
-- AQShga
-- Bayroqqa
+•	 AQShga   
+•	 Bayroqqa   
 
 
-53. AQSh fuqaroligini qabul qilganda beriladigan va’dalardan bittasini ayting
-- AQSh qonunlariga to‘liq rioya qilish
-- AQSh xalqiga xizmat qilishlari
-- AQShga sodiq bo’lishlari
-- AQSh qonunlarini himoya qilishlari
-- AQSh davlatiga sodiq bo’lish
-- Boshqa davlatlarga fuqarolikdan voz kechish
+53. AQSh fuqaroligini qabul qilganda beriladigan va’dalardan bittasini ayting.     
+•	 AQSh qonunlariga to‘liq rioya qilish   
+•	 AQSh xalqiga xizmat qilishlari   
+•	 AQShga sodiq bo’lishlari   
+•	 AQSh qonunlarini himoya qilishlari   
+•	 AQSh davlatiga sodiq bo’lish       
+•	 Boshqa davlatlarga fuqarolikdan voz kechish  
 
 
 54. Fuqarolar Prezidentga ovoz berish uchun necha yosh bo‘lishlari kk?
-- 18 va undan katta
+•	 18 va undan katta
 
 
 55. Amerikaliklar demokratiyada qanday yo‘l bilan qatnashadi? Ikkitasini ayting
-- Ovoz berish
-- Siyosiy partiyaga qo‘shilish
-- Saylov kampaniyasiga yordam berish
-- Fuqarolik hamjamiyatlariga qo’shilish
-- Mahalliy jamoalarga qo’shilish
-- Saylangan deputatlarga biron muammo borasida munosabat bildirish
-- Senator va Vakillarga qo’ng’iroq qilish
-- Hukumatning biron masala bo’yicha qarorlariga ijobiy yoki salbiy munosabat bildirish
-- Saylovga o’z nomzodini qo’yish
-- Mahalliy nashrlarga yozish
+•	Ovoz berish   
+•	Siyosiy partiyaga qo‘shilish    
+•	Saylov kampaniyasiga yordam berish    
+•	Fuqarolik hamjamiyatlariga qo’shilish    
+•	Mahalliy jamoalarga qo’shilish    
+•	Saylangan deputatlarga biron muammo borasida munosabat bildirish    
+•	Senator va Vakillarga qo’ng’iroq qilish    
+•	Hukumatning biron masala bo’yicha qarorlariga ijobiy yoki salbiy munosabat bildirish    
+•	Saylovga o’z nomzodini qo’yish    
+•	Mahalliy nashrlarga yozish   
+
 
 
 56. Federal daromad solig‘ini topshirishning oxirgi kuni qachon?
-- 15 Aprel
+• 15 Aprel   
 
 
 57. Yigitlar armiya safiga qachon ro‘yxatdan o‘tadilar?
-- 18 yoshdan 26 yoshgacha
+• 18 yoshdan 26 yoshgacha  
 
 
 **AMERIKA TARIXI**
 
 
-58. Mustamlakachilar Amerikaga kelishining sabablaridan biri
-- Ozodlik
-- Siyosiy erkinlik
-- Diniy erkinlik
-- Iqtisodiy imkoniyatlar
-- Ta’qibdan qochish
+58. Mustamlakachilar Amerikaga kelishining sabablaridan biri  
+•	Ozodlik   
+•	Siyosiy erkinlik   
+•	Diniy erkinlik   
+•	Iqtisodiy imkoniyatlar   
+•	Ta’qibdan qochish   
+
 
 59. Yevropaliklar kelishidan oldin Amerikada kimlar yashagan?
-- Asl amerikaliklar (Native Americans); Hindular (American Indians)
+• Asl amerikaliklar (Native Americans); Hindular (American Indians)    
 
 60. Kimlar Amerikaga olib kelib sotilgan va qul qilingan?
-- Afrikaliklar
+• Afrikaliklar   
 
 
 61. Mustamlakachilar nima uchun Britaniyaga qarshi kurashdilar?
-- Soliqlar yuqori edi
-- Chunki Britaniyaliklar ularningt uylarini, yerlarini egallab olgan edilar
+• Soliqlar yuqori edi        
+• Chunki Britaniyaliklar ularningt uylarini, yerlarini egallab olgan edilar     
 
 
 62. Mustaqillik deklaratsiyasini kim yozgan?

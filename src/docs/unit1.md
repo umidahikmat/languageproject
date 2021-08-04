@@ -554,20 +554,17 @@ JUDA: very (much)
 
 <Tooltip label="alam">
 <span>
-ALAM: alarm  
+ALAM: upset  
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="qilibdi.">
+<Tooltip label="qilibdi.">   
 <span>
-QIL-IB-DI: do-EV-PST 
+QIL-IB-DI: do-EV-PST     
 <br>
 </span>
 </Tooltip> 
-
-
-
 
 <Tooltip label="Uyga">
 <span>
@@ -2606,19 +2603,29 @@ CONT-continuous
 
 (8) **TRANS** - transitive (o’timli)
 
-(9) **CONT** -continuous (davomiylik morfemasi)   
+(9) **CONT** - continuous (davomiylik morfemasi)   
 
 (10) **PART** - participle (sifatdosh)   
 
-(11) PST- past (o’tgan zamon)
-POS- possessive (egalik qo’shimchasi)
-GEN- genitive case (qaratqich kelishigi)
-ACC- accusative case (tushum kelishigi)
-REC-reciprocal; indicates an action done by two actors to each other (birgalik nisbati; ikki subyekt bir ishni bir biriga sodir etishini bildiradigan morfema)
-SG- singular (birlik)
-PL- plural (ko’plik)
-COM- comitative (qo’shish morfemasi)
-NEG- negative (bo’lishsiz)
+(11) **PST**  - past (o’tgan zamon)    
+
+(12) **POS** - possessive (egalik qo’shimchasi)    
+
+(13) **GEN** - genitive case (qaratqich kelishigi)     
+
+(14) **ACC** - accusative case (tushum kelishigi)  
+
+(15) **LOC** -locative case (o'rin-payt kelishigi)
+
+(16) **REC** -reciprocal; indicates an action done by two actors to each other (birgalik nisbati; ikki subyekt bir ishni bir biriga sodir etishini bildiradigan morfema)     
+
+(17) **SG** - singular (birlik)     
+
+(18) **PL** - plural (ko’plik)     
+
+(19) **COM** - comitative (qo’shish morfemasi)
+
+(20) **NEG** - negative (bo’lishsiz)
 
 
 ## Grammar Notes
@@ -2722,7 +2729,7 @@ BU: this
 HOL: state   
 KAMPIR-GA: old.woman-DAT   
 JUDA: very (much)    
-ALAM: alarm  
+ALAM: upset  
 QIL-IB-DI: do-EV-PST   
 
 ### Uy- 	ga      kel-    ib,       chol-  	i- ga     bo’l-gan     voqea-ni     ayt- ib-  di    va:   

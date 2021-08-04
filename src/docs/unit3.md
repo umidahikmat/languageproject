@@ -1,6 +1,8 @@
-# She'rlar
+# Unit 2
 
-**ONA TILIM**
+## She'rlar
+
+### **ONA TILIM**
 
 Минг йилларким булбул каломи  
 Ўзгармайди, яхлит ҳамиша.  
@@ -26,7 +28,7 @@ I will put the nightingale's melody to poetry
 The day you disappear, indubitably, 
 I too will become a parrot. 
 
-**DORBOZ**   
+### **DORBOZ**   
 
 Bulutlarga yondosh, osmon ostida,   
 Kiprikdagi yoshday turibdi dorboz.   
@@ -52,7 +54,7 @@ Look, he is so dexterous and noble,
 As for us, well... some of us with open eyes  
 Cannot even follow a wide path.   
 
-**XOTIRA**
+### **XOTIRA**
 
 Do'stim, xotirangdan qilma shikoyat,   
 Esdan chiqarmoq ham yaxshi odatdir.   
@@ -78,7 +80,7 @@ The heart will no longer bear this burden.
 Look at me - for years I have suffered,   
 Unable to forget the one who betrayed me.   
 
-**DAHOLAR KERAK**    
+### **DAHOLAR KERAK**    
 
 Aziz do'stlar bizga bugun    
 Millatimiz ravnaqi uchun   

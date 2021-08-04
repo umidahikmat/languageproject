@@ -598,7 +598,7 @@ A: Geography**
 - Todd Young (Tod Yong)
 - Mike Braun (Mayk Braun)
 
-(Answers willl vary for this question based on your state of residency).
+(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
 
 21. Vakillar palatasida nechta a’zo bo‘ladi?
 - To‘rt yuz o‘ttiz besh (435)
@@ -608,9 +608,9 @@ A: Geography**
 - Ikki yilga
 
 
-23. Sizning Vakillar palatasidagi vakilingiz kim?
+23. Sizning Vakillar palatasidagi vakilingiz kim?*
 - Trey Hollingsworth (Trey Hollingsvors)
-(Answers willl vary for this question based on your state of residency).
+(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
 
 24. Senator kimning vakili?
 - Butun shtat aholisining vakili
@@ -711,12 +711,12 @@ A: Geography**
 
 
 43. Indiana shtati gubernatori kim?
-- Erik Holkomb (Eric Holcomb)     
-(Answers willl vary for this question based on your state of residency).   
+- Erik Holkomb (Eric Holcomb)       
+(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
 
 44. Indiana shtatining poytaxti qaysi shahar?
-- Indianapolis
-(Answers willl vary for this question based on your state of residency).    
+- Indianapolis       
+(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
 
 45. Amerikadagi asosiy ikkita partiya qaysilar?
 - Demokratik va Respublikachi
@@ -789,7 +789,7 @@ S. Huquqlar va majburiyatlar
 - 18 yoshdan 26 yoshgacha
 
 
-**Amerika tarixi**
+**AMERIKA TARIXI**
 
 
 58. Mustamlakachilar Amerikaga kelishining sabablaridan biri

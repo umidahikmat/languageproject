@@ -26,10 +26,10 @@ This site can be used at the undergraduate and graduate level in:
 
 
 Content
-- Wordlist 
-- Text in Uzbek  
-- Text in English  
-- Grammar notes
-- Text with Tooltip  
-- Practice activities
-- Audio and video
+- Texts in Uzbek: "Zo'raki folbin" , Amerika fuqaroligini olish uchun test tarjimasi, she'rlar        
+- Texts in English: Creative translations of Uzbek texts: "Forced to be a soothsayer", Citizenship test questions, and translations of poems       
+- Text with Tooltip: Word by word translation of the fairy tale "Zo'raki folbin" with comments      
+- Abbreviations: List of abbreviations with explanations in English and Uzbek
+- Grammar notes: Morphemic parsing of the text    
+- Audio of the fairy tale "Zo'raki folbin"    
+- Video based on the fairy tale "Zo'raki folbin"   

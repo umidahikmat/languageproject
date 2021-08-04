@@ -816,53 +816,1781 @@ O’TIR-A-VER-IB-DI: sit-CONJ-CONT-EV-PST (o’tira beribdi)
 </span>
 </Tooltip> 
 
-<Tooltip label="WORD">
+<Tooltip label="Cholning">
+<span>
+CHOL-NING: old.man-GEN
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yoniga">
+<span>
+YON-I-GA: side-3.POS-DAT
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ust-boshi">
+<span>
+UST-BOSH-I: top-head-3.POS
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="chang">
+<span>
+CHANG: dust
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="odam">
+<span>
+ODAM: person
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kelib,">
+<span>
+KEL-IB: come-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ota">
+<span>
+OTA: father
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="men">
+<span>
+MEN: 1.SG
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="safardan">
+<span>
+SAFAR-DAN: journey-ABL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kelayapman,">
+<span>
+KEL-A-YAP-MAN: come-CONJ-PROG-1.SG
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="biz">
+<span>
+BIZ: 1.PL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="podshohga">
+<span>
+PODSHOH-GA: king-DAT
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="oltin">
+<span>
+OLTIN: gold
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="va">
+<span>
+VA: and
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kumush">
+<span>
+KUMUSH: silver
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ortilgan">
+<span>
+ORT-IL-GAN: load-PASS-PART
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="tuyalar">
+<span>
+TUYA-LAR: camel-PL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="olib">
+<span>
+OL-IB: take-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kelayotgan">
+<span>
+KEL-A-YOT-GAN: come-CONJ-PROG-PART
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="edik.">
+<span>
+E-DI-K: be-PST-1.PL
+<br>
+</span>
+</Tooltip> 
+
+
+
+<Tooltip label="Shu">
+<span>
+SHU: that
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="tuyalardan">
+<span>
+TUYA-LAR-DAN: camel-PL-ABL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="biri">
+<span>
+BIR-I: one-3.POS
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yo'qolib">
+<span>
+YO’QOL-IB: get.lost-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="qoldi.">
+<span>
+QOL-DI: stay(CONVB)-PST
+<br>
+</span>
+</Tooltip> 
+
+
+
+<Tooltip label="Shuni">
+<span>
+SHU-NI: that-ACC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="fol">
+<span>
+FOL: fortune
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="boqib,">
+<span>
+BOQ-IB: look-CONJ
+<br>
+</span>
+</Tooltip> 
+
+
+<Tooltip label="qayerda">
+<span>
+QA-YER-DA: WH-place-LOC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yurganini">
+<span>
+YUR-GAN-I-NI: walk-PART-3.POS-ACC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bilib">
+<span>
+BIL-IB: know-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bersangiz,">
+<span>
+BER-SA-NGIZ: give-COND-2.PL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="debdi.">
+<span>
+DE-B-DI: say-CONJ-PST
+<br>
+</span>
+</Tooltip> 
+
+
+
+<Tooltip label="Chol">
+<span>
+CHOL: old.man
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="u">
+<span>
+U: 3.SG
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kishidan">
+<span>
+KISHI-DAN: person-ABL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="qaysi">
+<span>
+QAYSI: which
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yo'ldan">
+<span>
+YO’L-DAN: path-ABL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="qanday">
+<span>
+QANDAY: how
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="holda">
+<span>
+HOL-DA: state-LOC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kelganini">
+<span>
+KEL-GAN-I-NI: come-PART-3.POS-ACC
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="obdon">
+<span>
+OBDON: thoroughly
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="surishtirib">
+<span>
+SUR-ISH-TIR-IB: push-REC-CAUS-CONJ (push-REC-CAUS = ‘to interrogate’)  
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="mulohaza">
+<span>
+MULOHAZA: reflection, contemplation
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="qilib">
+<span>
+QIL-IB: do-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ko'ribdi-da,">
+<span>
+KO’R-IB-DI-DA: see-EV-PST-PRT
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="oxirgi">
+<span>
+OXIR-GI: end-GI
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="marta">
+<span>
+MARTA: time
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="dam">
+<span>
+DAM: break, rest
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="olgan">
+<span>
+OL-GAN: take-PART
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="manzillaringiz">
+<span>
+MANZIL-LAR-INGIZ: abode-PL-2.POS 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yaqinidagi">
+<span>
+YAQIN-I-DA-GI: vicinity-3.POS-LOC-GI
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="jarlikda">
+<span>
+JAR-LIK-DA: ravine-NML-LOC (ravine-NML = ‘cliff’) 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yo'qotgan">
+<span>
+YO’QOT-GAN: lose.trans-PART
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="tuyangiz">
+<span>
+TUYA-NGIZ: camel-2.PL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="o'tlab">
+<span>
+O’T-LA-B: grass-VRB-CONJ (grass-VRB = ‘to graze’)
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yuribdi,">
+<span>
+YUR-IB-DI: walk-EV-PST
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ustida">
+<span>
+UST-I-DA: top-3.POS-LOC
+<br>
+</span>
+</Tooltip> 
+
+
+TILLA: gold
+VA: and
+KUMUSH: silver 
+ORT-IL-GAN: load-PASS-PART
+ XURJUN-I: saddlebag-3.POS
+HAM: too, also
+BOR: EXST
+
+
+<Tooltip label="tilla">
 <span>
 ENGLISH
 <br>
 </span>
 </Tooltip> 
 
-<Tooltip label="WORD">
+<Tooltip label="va">
 <span>
 ENGLISH
 <br>
 </span>
 </Tooltip> 
+
+<Tooltip label="kumush">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ortilgan">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="xurjuni">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ham">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bor,">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="debdi">
+<span>
+DE-B-DI: say-EV-PST
+<br>
+</span>
+</Tooltip> 
+
+
+
+<Tooltip label="chunki">
+<span>
+CHUNKI: because
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="u">
+<span>
+U: that
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="kishining">
+<span>
+KISHI-NING: person-GEN 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="gaplaridan">
+<span>
+GAP-LAR-I-DAN: speech-PL-3.POS-ABL
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="shunday">
+<span>
+SHUNDAY: such, thus, that way
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="xulosa">
+<span>
+XULOSA: conclusion
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="chiqayotgan">
+<span>
+CHIQ-AYOT-GAN: exit-PROG-PART
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="ekan-da.">
+<span>
+EKAN-DA: EXST-PRT
+<br>
+</span>
+</Tooltip> 
+
+
+
+
+
+<Tooltip label="Fol">
+<span>
+FOL: fortune 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="boqtirgan">
+<span>
+BOQ-TIR-GAN: look-CAUS-PART 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="odam">
+<span>
+ODAM: person
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholning">
+<span>
+CHOL-NING: old.man-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="aytgan">
+<span>
+AYT-GAN: say-PART
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="joyiga">
+<span>
+JOY-I-GA: place-3.POS-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="borib">
+<span>
+BOR-IB: go-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qarasa,">
+<span>
+QARA-SA: look-COND
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="rostdan">
+<span>
+ROST-DAN: real-ABL (really)
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ham">
+<span>
+HAM: too
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="tuyasi">
+<span>
+TUYA-SI: camel-3.POS
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="o'tlab">
+<span>
+O’T-LA-B: grass-VRB-CONJ 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="yurgan">
+<span>
+YUR-GAN: walk-PART
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="emish.">
+<span>
+EMISH: EV
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="U">
+<span>
+U: 3.SG
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholga">
+<span>
+CHOL-GA: old.man-DAT 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="hovuch">
+<span>
+HOVUCH: handful 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="oltin">
+<span>
+OLTIN: gold
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="sovg'a">
+<span>
+SOVG’A: gift 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qilib,">
+<span>
+QIL-IB: do-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="yurgan">
+<span>
+YUR-GAN: walk-PART
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="yo'lida">
+<span>
+YO’L-I-DA: walk-3.POS-LOC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholning">
+<span>
+CHOL-NING: old.man-GEN 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="o'ta">
+<span>
+O’TA: very
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topag'on">
+<span>
+TOP-A-G’ON: find-CONJ-AGT (cunning) 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="folbin">
+<span>
+FOLBIN: soothsayer 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ekanligini">
+<span>
+EKAN-LIG-I-NI: EV-NMNL-POS-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="aytib,">
+<span>
+AYT-IB: SAY-ADVL
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="uning">
+<span>
+U-NING: 3.SG-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="dovrug'ini">
+<span>
+DOVRUG’-I-NI: fame-3.POS-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="orttiraveribdi.">
+<span>
+ORT-TIR-A-VER-IB-DI: rise-CAUS-CONT-EV-PST
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="Shu">
+<span>
+SHU: that
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="orada">
+<span>
+ORA-DA: moment-LOC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="podshohning">
+<span>
+PODSHOH-NING: king-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xazinasini">
+<span>
+XAZINA-SI-NI: treasury-3.POS-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="o'g'ri">
+<span>
+O’G’RI: thief
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="urib">
+<span>
+UR-IB: hit-CONJ 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ketibdi.">
+<span>
+KET-IB-DI: go-EV-PS
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="Podshoh">
+<span>
+PODSHOH: king
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="saroyidagi">
+<span>
+SAROY-I-DA-GI: palace-3.POS-LOC-GI
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="folbinlarning">
+<span>
+FOLBIN-LAR-NING: soothsyer-PL-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="birortasi">
+<span>
+BIROR-TA-SI: some-CNT-3.POS 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ham">
+<span>
+HAM: too, also
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xazinani">
+<span>
+XAZINA-NI: treasury-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topa">
+<span>
+TOP-A: find-CONJ 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="olishmabdi.">
+<span>
+OL-ISH-MA-B-DI: take-PL-NEG-EV-PST
+<br>
+</span>
+</Tooltip>
+
+
+
+<Tooltip label="Shunda">
+<span>
+SHUN-DA: that-LOC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="podshoh">
+<span>
+PODSHOH: king
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="chol">
+<span>
+CHOL: old.man
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="haqida">
+<span>
+HAQ-I-DA: topic-3.POS-LOC ‘about’
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="eshitib">
+<span>ESHIT-IB: hear-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qolibdi">
+<span>
+QOL-IB-DI: stay-EV-PST
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="va">
+<span>
+VA: and
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="uni">
+<span>
+U-NI: 3.SG-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="saroygacha">
+<span>
+SAROY-GA-CHA: palace-DAT-until 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="chaqirtirib">
+<span>
+CHAQIR-TIR-IB: summon-CAUS-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kelibdi.">
+<span>
+KEL-IB-DI: come-EV-PST
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="Chol">
+<span>
+CHOL: old.man
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="voqeani">
+<span>
+VOQEA-NI: event-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="eshitgach,">
+<span>
+ESHIT-GACH: hear-upon
+<br>
+</span>
+</Tooltip>
+
+
+
+<Tooltip label="Podshohim,">
+<span>
+PODSHOH-IM: king-1.SG 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="menga">
+<span>
+MEN-GA: 1.SG-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qirq">
+<span>
+QIRQ: forty
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kun">
+<span>
+KUN: day
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="muhlat">
+<span>
+MUHLAT: deadline
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bilan">
+<span>
+BILAN: with
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qirqta">
+<span>
+QIRQ-TA: forty-CNT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xo'roz">
+<span>
+XO’ROZ: rooster
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="berasiz">
+<span>
+BER-A-SIZ: give-CONJ-2.PL
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="debdi.">
+<span>
+DE-B-DI: say-EV-PST
+<br>
+</span>
+</Tooltip>
+
+
+
+<Tooltip label="Podshoh">
+<span>
+PODSHOH: king
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholning">
+<span>
+CHOL-NING: old.man-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="aytganlarini">
+<span>
+AYT-GAN-LAR-I-NI: say-PART-PL-3.POS-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="muhayyo">
+<span>
+MUHAYYO: prepared
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qilibdi.">
+<span>
+QIL-IB-DI: do-CONJ-PST
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="Chol">
+<span>
+CHOL: old.man
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xo'rozlarni">
+<span>
+XO’ROZ-LAR-NI: rooster-PL-ACC 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xizmatkorga">
+<span>
+XIZMATKOR-GA: servant-DAT 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ko'tartirib,">
+<span>
+KO’TAR-TIR-IB: carry-CAUS-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="uyiga">
+<span>
+UY-I-GA: house-3.POS 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="olib">
+<span>
+OL-IB: take-CONJ
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="kelibdi">
+<span>
+KEL-IB-DI: come-EV-PST
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="va">
+<span>
+VA: and
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kampirga">
+<span>
+KAMPIR-GA: old.woman-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="Sen">
+<span>
+SEN: 2.SG
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="obro'parast">
+<span>
+OBRO’PARAST: status-obsessed 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kampir">
+<span>
+KAMPIR: old.woman
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qariganda">
+<span>
+QARI-GAN-DA: grow.old-PART-LOC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="meni">
+<span>
+MEN-I: 1.SG-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="sarson">
+<span>
+SARSON: downtrodden
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qilding.">
+<span>
+QIL-D-ING: do-PST-2.SG
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="Mana,">
+<span>
+MANA: behold
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="podshoh">
+<span>
+PODSHOH: king
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="menga">
+<span>
+MEN-GA: 1.SG-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="shunday">
+<span>
+SHUNDAY: such
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="mushkul">
+<span>
+MUSHKUL: difficult
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ish">
+<span>
+ISH: task 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topshirdi.">
+<span>
+TOPSHIR-DI: assign-PST 
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="Endi">
+<span>
+ENDI: now
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="baribir">
+<span>
+BARIBIR: anyway
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="men">
+<span>
+MEN: 1.SG
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xazinani">
+<span>
+XAZINA-NI: treasury-ACC 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topa">
+<span>
+TOP-A: find-CONJ 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="olmayman,">
+<span>
+OL-MA-Y-MAN: take-NEG-CONJ-1.SG
+<br>
+</span>
+</Tooltip>
+
+
+
+
+
+<Tooltip label="shuning">
+<span>
+SHU-NING: that-GEN 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="uchun">
+<span>
+UCHUN: because
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="o'limim">
+<span>
+O’LIM-IM: death-1.SG.POS
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="oldidan">
+<span>
+OLD-I-DAN: before-3.POS-ABL
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="maishat">
+<span>
+MAISHAT: living 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qilib">
+<span>
+QIL-IB: do-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qolay.">
+<span>
+QOL-AY: stay-OPT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="Har">
+<span>
+HAR: every 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kuni">
+<span>
+KUN-I: day-3.POS
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="sen">
+<span>
+SEN: 2.SG
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="menga">
+<span>
+MEN-GA: 1.SG-DAT
+<br>
+</span>
+</Tooltip>
+
+
+
+DAM-LA-B: seep-VRB-CONJ
+BER: give 
+QIRQ: forty
+KUN-DAN: day-ABL
+
+
+
+
+<Tooltip label="Bitta">
+<span>
+BIT-TA: one-CNT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xo'rozni">
+<span>
+XO’ROZ-NI: rooster-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="so'yib">
+<span>
+SO’Y-IB: slaughter-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="palov">
+<span>
+PALOV: rice
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="damlab">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ber">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="keyin">
+<span>
+KEYIN: after
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="gap">
+<span>
+GAP: thing
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bo'lar">
+<span>
+BO’L-AR: be-AOR
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="debdi.">
+<span>
+DE-B-DI: say-EV-PST
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="Kampir">
+<span>
+KAMPIRL: old.woman
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kechqurunga">
+<span>
+KECHQURUN-GA: evening-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="palov">
+<span>
+PALOV: rice
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="damlab,">
+<span>
+DAM-LA-B: seep-VRB-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholning">
+<span>
+CHOL-NING: old.man-GEN
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="oldiga">
+<span>
+OLD-I-GA: front-3.POS-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="olib">
+<span>
+OL-IB: take-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kiribdi.">
+<span>
+KIR-IB-DI: enter-EV-PST
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="Tillani">
+<span>
+TILLA-NI: gold-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="shahardagi">
+<span>
+SHAHAR-DA-GI: city-LOC-GI
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qirq">
+<span>
+QIRQ: forty
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qaroqchi">
+<span>
+QAROQCHI: bandit 
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="o'g'irlagan">
+<span>
+O’G’IR-LA-GAN: thief-VRB-PART ‘steal’
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ekan.">
+<span>
+EKAN: EV
+<br>
+</span>
+</Tooltip>
+
+
+
+
+<Tooltip label="Ular">
+<span>
+U-LAR: 3-PL
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xazinani">
+<span>
+XAZINA-NI: treasure-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topish">
+<span>
+TOP-ISH: find-NML
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="dong'i">
+<span>
+DONG’-I: fame-3.POS
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="ketgan">
+<span>
+KET-GAN: go-PART
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="cholga">
+<span>
+CHOL-GA: old.man-DAT
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="topshirilganini">
+<span>
+TOPSHIR-IL-GAN-I-NI: assign-PASS-PART-3.POS-ACC
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="eshitib">
+<span>
+ESHIT-IB: hear-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="xavfsirashibdi.">
+<span>
+XAVF-SIRA-SH-IB-DI: fear-VRB-PL-EV-PST
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="O'g'riboshi:">
+<span>
+O’G’RI-BOSH-I: thief-head-3.POS
+<br>
+</span>
+</Tooltip>
+
+
+
+<Tooltip label="Qani,">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="chol">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qanday">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="qilib">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bizlarni">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="toparkin">
+<span>
+ENGLISH
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bor,">
+<span>
+BOR: EXST
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="bilib">
+<span>
+BIL-IB: know-CONJ
+<br>
+</span>
+</Tooltip>
+
+<Tooltip label="kel,">
+<span>
+KEL: come
+<br>
+</span>
+</Tooltip>
+
+
+<Tooltip label="deb">
+<span>
+DE-B: say-CONJ
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="bir">
+<span>
+BIR: one
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="o'g'rini">
+<span>
+O’G’RI-NI: thief-ACC 
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="cholning">
+<span>
+CHOL-NING: old.man-GEN
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="uyiga">
+<span>
+UY-I-GA: house-3.POS-DAT
+<br>
+</span>
+</Tooltip> 
+
+<Tooltip label="yuboribdi.">
+<span>
+YUBOR-IB-DI: send-EV-PST 
+<br>
+</span>
+</Tooltip> 
+
 ## GRAMMAR NOTES
 
 
 
 
 
-### bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.   
 
-> Bir bor    ekan bir  yo’q   ekan, qadim zamon-da    bir  chol      bilan  kampir       bo’l-gan   ekan.  
-> One BOR EV   one YO’Q EV    old      time-  LOC one old.man with old.woman be-PART EV.    
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-</span>
-</Tooltip> 
-
-<Tooltip label="WORD">
-<span>
-ENGLISH
-<br>
-UZBEK   
-<br>
-</span>
-</Tooltip> 
-     
-
-[Bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
-[bor](/ "BOR is an existential particle that functions similarly to English there is")
-[ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
-[bir](/  "MA'NO: One, a SHAKL:one IZOH: bir is a numeral that is can also be")
-[yo'q](/ "Negative form of BOR")
-[ekan, ](/ "EKAN is an evidential particle denoting an event not witnessed by the speaker")
 
 
 

@@ -2,11 +2,12 @@
 
 **Project paryticipants:**   
 
-Contributor: Darraugh Winkelman   
+Grammar notes and comments: Darraugh Winkelman
 Programmer: Abdulaziz Alimov   
-Consultant: Umida Khikmatillaeva 
+Consultant and coding: Umida Khikmatillaeva 
 
 **Credits:**    
 
-Fairy tale translation:    
-Legal Text translation: Akram Habibulla    
+Fairy tale translation: Hafiza Allanazarova   
+Legal Text translation: Akram Habibulla  
+Word by word translations: Darraugh Winkelman

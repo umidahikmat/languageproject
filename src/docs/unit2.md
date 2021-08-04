@@ -731,7 +731,7 @@ A: Geography**
 •	 Nansi Pelosi     
 
 
-**V. Huquqlar va majburiyatlar**    
+**D. Huquqlar va majburiyatlar**    
 
 
 48. Kim saylovda ovoz bera olishi to‘g‘risida Konstitutsiyaga to‘rtta qo‘shimcha kiritilgan. Shulardan birini ayting.    
@@ -882,117 +882,118 @@ A: Geography**
 
 
 
-74. Fuqarolar urushining asosiy sabablaridan biri
-- Quldorlik
-- Iqtisodiy sabablar
-- Shtatlarning huquqlari
+74. Fuqarolar urushining asosiy sabablaridan biri     
+• Quldorlik      
+• Iqtisodiy sabablar      
+• Shtatlarning huquqlari     
 
-75. Abraham Linkoln amalga oshirgan eng muhim ishlardan birini ayting
-- Qullarni ozod qildi
-- Birlikni saqlab qoldi
-- Fuqarolik urushi davrida mamlakatni boshqardi
+75. Abraham Linkoln amalga oshirgan eng muhim ishlardan birini ayting.     
+• Qullarni ozod qildi        
+• Birlikni saqlab qoldi      
+• Fuqarolik urushi davrida mamlakatni boshqardi     
 
 76. Ozodlik Proklamatsiyasi nima qildi?
-- Qullarni ozod qildi
+• Qullarni ozod qildi     
 
 77. Suzan Antoni nima qildi?
-- Ayollarning huquqlari uchun kurashdi
-- Fuqarolarning huquqlari uchun kurashdi
+• Ayollarning huquqlari uchun kurashdi     
+• Fuqarolarning huquqlari uchun kurashdi      
 
-78. AQSh 1900 yillarda qatnashgan urushlardan biri
-- Birinchi jahon urushi
-- Ikkinchi jahon urushi
-- Koya urushi
-- Vyetnam urushi
-- Fors ko’rfazi urushi
+78. AQSh 1900 yillarda qatnashgan urushlardan biri      
+• Birinchi jahon urushi    
+• Ikkinchi jahon urushi   
+• Koya urushi   
+• Vyetnam urushi    
+• Fors ko’rfazi urushi   
 
-79. Birinchi jahon urushi davrida kim Prezident edi?
-- Vudrov Vilson
-
-
+79. Birinchi jahon urushi davrida kim Prezident edi?     
+•  Vudrov Vilson     
 
 
-80. Ikkinchi jahon urushi va Buyuk Depressiya davrida kim Prezident edi?
-- Ruzvelt
 
 
-81. Ikkinchi jahon urushida AQSh qaysi davlatlarga qarshi kurashgan?
-- Yaponiya, Germaniya va Italiya
+80. Ikkinchi jahon urushi va Buyuk Depressiya davrida kim Prezident edi?    
+• Ruzvelt      
 
 
-82. Eyzenxauyer Prezident bo‘lishidan oldin general edi. U Qaysi urushda general edi?
-- Ikkinchi jahon urushida
+81. Ikkinchi jahon urushida AQSh qaysi davlatlarga qarshi kurashgan?     
+• Yaponiya, Germaniya va Italiya      
 
 
-83. Sovuq urush davrida AQSh nimadan xavotirlangan?
-- Kommunizm
+82. Eyzenxauyer Prezident bo‘lishidan oldin general edi. U Qaysi urushda general edi?     
+•  Ikkinchi jahon urushida      
 
 
-84. Irqiy kamsitilishga qarshi qaysi harakat kurashgan?
-- Inson huquqlari harakati
+83. Sovuq urush davrida AQSh nimadan xavotirlangan?     
+•  Kommunizm     
 
 
-85. Martin Lyuter King nima qilgan?
-- Inson huquqlari uchun kurashgan
-- Hamma amerikaliklarning teng bo‘lishi uchun kurashdi
+84. Irqiy kamsitilishga qarshi qaysi harakat kurashgan?     
+• Inson huquqlari harakati     
 
 
-86. AQShda 2001-yil 11-sentyabrda nima sodir bo‘ldi?
-- AQShga qarshi terroristik hujum
+85. Martin Lyuter King nima qilgan?     
+• Inson huquqlari uchun kurashgan      
+• Hamma amerikaliklarning teng bo‘lishi uchun kurashdi       
 
 
-87. Amerika hindu qabilalaridan birining nomini ayting
-- Apachi
-- Cheroki
+86. AQShda 2001-yil 11-sentyabrda nima sodir bo‘ldi?        
+• AQShga qarshi terroristik hujum      
+
+
+87. Amerika hindu qabilalaridan birining nomini ayting.         
+• Apachi     
+• Cheroki     
 
 **GEOGRAFIYA**
 
-88. AQShdagi ikkita eng uzun daryodan bittasini ayting
-- Missuri
-- Missisipi
+88. AQShdagi ikkita eng uzun daryodan bittasini ayting.         
+• Missuri         
+• Missisipi       
 
-89. AQShning g‘arbida qaysi okean joylashgan?
-- Tinch okeani
+89. AQShning g‘arbida qaysi okean joylashgan?    
+• Tinch okeani   
 
-90. AQShning sharqida qaysi okean?
-- Atlantika okeani
+90. AQShning sharqida qaysi okean?     
+• Atlantika okeani      
 
-91. AQShga tegishli territoriyadan birini ayting
-- Puerto Riko
+91. AQShga tegishli territoriyadan birini ayting.     
+• Puerto Riko      
 
-92. Kanada bilan chegaradosh shtatlardan birini ayting
-- Vashington
+92. Kanada bilan chegaradosh shtatlardan birini ayting.     
+• Vashington     
 
-93. Meksika bilan chegaradosh shtatlardan birini ayting
-- Kaliforniya
+93. Meksika bilan chegaradosh shtatlardan birini ayting.     
+• Kaliforniya         
 
-94. AQShning poytaxt shahri
-- Vashington DS
+94. AQShning poytaxt shahri      
+• Vashington DS   
 
-95. Ozodlik statuyasi qayerda?
-- Nyu-Yorkda
+95. Ozodlik haykali qayerda?    
+• Nyu-Yorkda     
 
 **RAMZLAR**
 
-96. Nima uchun bayroqda 13ta chiziq bor?
-- Amerikada asli boshida 13ta koloniya bo‘lgan
+96. Nima uchun bayroqda 13ta chiziq bor?      
+• Amerikada asli boshida 13ta koloniya bo‘lgan            
 
 
-97. Nima uchun bayroqda 50ta yulduz bor?
-- 50ta shtatni tamsil qiladi
+97. Nima uchun bayroqda 50ta yulduz bor?    
+• 50ta shtatni tamsil qiladi    
 
 
-98. Milliy gimnning nomi nima?
-- The Star-Spangled Banner
+98. Milliy gimnning nomi nima?   
+• The Star-Spangled Banner    
 
-**BAYRAMLAR**
+**BAYRAMLAR**     
 
-99. Mustaqilllik qaysi kuni nishonlanadi?   
-- 4-iyul   
+99. Mustaqilllik qaysi kuni nishonlanadi?       
+•   4-iyul      
 
-100. AQSh Milliy bayramlaridan ikkitasini ayting.   
-- Yangi yil   
-- Mustaqillik kuni    
+100. AQSh Milliy bayramlaridan ikkitasini ayting.         
+• Yangi yil       
+• Mustaqillik kuni         
+
 
 
 

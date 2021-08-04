@@ -1237,15 +1237,6 @@ UST-I-DA: top-3.POS-LOC
 </Tooltip> 
 
 
-TILLA: gold
-VA: and
-KUMUSH: silver 
-ORT-IL-GAN: load-PASS-PART
- XURJUN-I: saddlebag-3.POS
-HAM: too, also
-BOR: EXST
-
-
 <Tooltip label="tilla">
 <span>
 ENGLISH
@@ -2214,14 +2205,6 @@ MEN-GA: 1.SG-DAT
 <br>
 </span>
 </Tooltip>
-
-
-
-DAM-LA-B: seep-VRB-CONJ
-BER: give 
-QIRQ: forty
-KUN-DAN: day-ABL
-
 
 
 

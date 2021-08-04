@@ -506,376 +506,379 @@ A: Geography**
 
 **A. Demokratiya tamoyillari**
 
-1. Mamlakatning eng oliy qonuni nima?
-•	 Konstitutsiya
+1. Mamlakatning eng oliy qonuni nima?        
+•	 Konstitutsiya        
 
-2. Konstitutsiyani nimani belgilaydi?
-•	 Hukumatni shakllantiradi
-•	 Hukumatni belgilaydi
-•	 Amerikaliklarning asosiy huquqlarini himoya qiladi
+2. Konstitutsiyani nimani belgilaydi?       
+•	 Hukumatni shakllantiradi           
+•	 Hukumatni belgilaydi          
+•	 Amerikaliklarning asosiy huquqlarini himoya qiladi           
 
-3. Konstitutsiyadagi birinchi uchta so‘z o‘z-o‘zini boshqaruvni anglatadi. Ular qaysi so‘zlar?
-•	 We the People (Biz odamlar)
+3. Konstitutsiyadagi birinchi uchta so‘z o‘z-o‘zini boshqaruvni anglatadi. Ular qaysi so‘zlar?          
+•	 We the People (Biz odamlar)     
 
-4. Amendment (tuzatishlar) nima?
-•	 Konstitutsiyaga o‘zgartirishlar
-•	 Konstitutsiyaga qo‘shimchalar
+4. Amendment (tuzatishlar) nima?         
+•	 Konstitutsiyaga o‘zgartirishlar    
+•	 Konstitutsiyaga qo‘shimchalar        
 
-5. Konstitutsiyaning birinchi o‘nta o’zgarish va tuzatishlar nima deb ataladi?
+5. Konstitutsiyaning birinchi o‘nta o’zgarish va tuzatishlar nima deb ataladi?     
 •	 the Bill of Rights (Huquqlar haqidagi qonunlar loyihasi)
 
-6. Konstitutsiyaga kiritilgan birinchi o‘nta o’zgarish va tuzatishlar huquq va erkinliklardan bittasi nima?
-•	 So’z erkinligi  
-•	 Din erkiniligi  
+6. Konstitutsiyaga kiritilgan birinchi o‘nta o’zgarish va tuzatishlar huquq va erkinliklardan bittasi nima?        
+•	 So’z erkinligi   
+•	 Din erkiniligi   
 •	 Yig’ilish  
-•	 Matbuot erkinligi  
+•	 Matbuot erkinligi   
 •	 Hukumatga murojaat qilish huquqi  
 
-7. Konstitutsiyaning nechta tuzatish bor?
-•	 Yigirma yettita (27)
+7. Konstitutsiyaning nechta tuzatish bor?      
+•	 Yigirma yettita (27)      
 
 
-8. Mustaqillik Deklaratsiyasi nimani e’lon qilgan?
-•	 Amerikaning Buyuk Britaniyadan mustaqil ekanligini e’lon qildi.
+8. Mustaqillik Deklaratsiyasi nimani e’lon qilgan?        
+•	 Amerikaning Buyuk Britaniyadan mustaqil ekanligini e’lon qildi.       
 
 
-9. Mustaqillik Deklaratsiyasidagi inson huquqlaridan ikkitasini ayting.
-•	 Yashash
-•	 Ozodlik
-•	 Baxtli bo‘lish
+9. Mustaqillik Deklaratsiyasidagi inson huquqlaridan ikkitasini ayting.          
+•	 Yashash         
+•	 Ozodlik          
+•	 Baxtli bo‘lish           
 
 
-10. Diniy erkinlik nimadan iborat?
-•	 Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga e’tiqod qilmasligingiz mumkin.
+10. Diniy erkinlik nimadan iborat?       
+•	 Siz xohlagan diningizga e’tiqod qilishingiz yoki hech bir dinga e’tiqod qilmasligingiz mumkin.       
 
 
-11. AQShning iqtisodiy tizimi qanday?
-•	 Kapitalistik iqtisod
-•	 Bozor iqtisodi
+11. AQShning iqtisodiy tizimi qanday?    
+•	 Kapitalistik iqtisod    
+•	 Bozor iqtisodi    
 
 
-12. Qonun ustuvorligi nimani anglatadi?
-•	 Hamma qonunga bo‘ysinishi kerak
-•	 Rahbarlar qonunni buzmasliklari kerak
-•	 Hukumat qonunni buzmasligi kerak
-•	 Hech kim qonundan ustun emas
+12. Qonun ustuvorligi nimani anglatadi?   
+•	 Hamma qonunga bo‘ysinishi kerak    
+•	 Rahbarlar qonunni buzmasliklari kerak    
+•	 Hukumat qonunni buzmasligi kerak    
+•	 Hech kim qonundan ustun emas    
 
 
 **B. Hukumat tizimi**
 
-13. Hukumat tarkibidagi bo‘lim yoki qismlardan birortasini ayting.
-•	 Kongress
-•	 Prezident
-•	 Sud
-•	 Ijroiya
-•	 Qonun chiqaruvchi
+13. Hukumat tarkibidagi bo‘lim yoki qismlardan birortasini ayting.    
+•	 Kongress   
+•	 Prezident  
+•	 Sud   
+•	 Ijroiya   
+•	 Qonun chiqaruvchi    
 
 
-14. Hukumat tarkibidagi alohida bir bo‘limning o‘ta qudratli bo’lib ketishidan nima saqlab turadi?
-•	 cheklovlar o’rnatish va muvozanatni saqlash  
-•	 qudratni bo‘lish/kuchlarni ajratish
+14. Hukumat tarkibidagi alohida bir bo‘limning o‘ta qudratli bo’lib ketishidan nima saqlab turadi?   
 
-15. Ijroiya organining rahbari kim?
-•	 Prezident
+•	 cheklovlar o’rnatish va muvozanatni saqlash    
+•	 qudratni bo‘lish/kuchlarni ajratish   
 
+15. Ijroiya organining rahbari kim?    
+•	 Prezident    
 
-16. Federal qonunlarni kim qabul qiladi?
-•	 Kongress
 
+16. Federal qonunlarni kim qabul qiladi?   
+•	 Kongress   
 
-17. Kongressning ikki palatasi qaysi?
-•	 Senat va Vakillar palatasi
 
-18. Nechta senator bor?
-•	 yuzta
+17. Kongressning ikki palatasi qaysi?   
+•	 Senat va Vakillar palatasi   
 
+18. Nechta senator bor?   
+•	 yuzta   
 
-19. AQSh senatorlari necha yilga saylanadi?
-•	 6 yilga
 
+19. AQSh senatorlari necha yilga saylanadi?  
+•	 6 yilga  
 
-20. Indiana shtatidagi senatorlardan biri kim?*
-•	 Todd Young (Tod Yong)
-•	 Mike Braun (Mayk Braun)
 
-(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
+20. Indiana shtatidagi senatorlardan biri kim?*   
+•	 Todd Young (Tod Yong)   
+•	 Mike Braun (Mayk Braun)   
 
-21. Vakillar palatasida nechta a’zo bo‘ladi?
-•	 To‘rt yuz o‘ttiz besh (435)
+*(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)    
 
+21. Vakillar palatasida nechta a’zo bo‘ladi?    
+•	 To‘rt yuz o‘ttiz besh (435)    
 
-22. Vakillar palatasi a’zosi qancha muddatga saylanadi?
-•	 Ikki yilga
 
+22. Vakillar palatasi a’zosi qancha muddatga saylanadi?    
+•	 Ikki yilga   
 
-23. Sizning Vakillar palatasidagi vakilingiz kim?*
-•	 Trey Hollingsworth (Trey Hollingsvors)
-(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)
 
-24. Senator kimning vakili?
-•	 Butun shtat aholisining vakili
+23. Sizning Vakillar palatasidagi vakilingiz kim?*   
+•	 Trey Hollingsworth (Trey Hollingsvors)     
+*(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)   
 
+24. Senator kimning vakili?    
+•	 Butun shtat aholisining vakili     
 
-25. Nimaga ba’zi shtatlarda vakillar ko‘proq?
-•	 Shtatdagi aholi soniga bog‘liq
 
+25. Nimaga ba’zi shtatlarda vakillar ko‘proq?     
+•	 Shtatdagi aholi soniga bog‘liq   
 
-26. Prezident necha yilga saylanadi?
-•	 To‘rt yilga
 
+26. Prezident necha yilga saylanadi?   
+•	 To‘rt yilga    
 
-27. Prezident saylovi qaysi oyda bo‘ladi?
-•	 Noyabr oyida
 
+27. Prezident saylovi qaysi oyda bo‘ladi?     
+•	 Noyabr oyida    
 
-28. AQSh Prezidentining ismi nima?
-•	 Jo Bayden
+ 
+28. AQSh Prezidentining ismi nima?     
+•	 Jo Bayden    
 
 
-29. AQSh Vitse-Prezidentining ismi nima?
-•	Kamala Harris
+29. AQSh Vitse-Prezidentining ismi nima?    
+•	Kamala Harris    
 
 
-30. Prezident o‘z vazifasini bajara olmay qolsa kim Prezident bo‘ladi?
-•	 Vitse-Prezident
+30. Prezident o‘z vazifasini bajara olmay qolsa kim Prezident bo‘ladi?    
+•	 Vitse-Prezident    
 
 
-31. Agar Prezident ham Vitse-Prezident ham o‘z vazifasini bajarolmay qolsa kim Prezident bo‘ladi?
-•	 Vakillar palatasining spikeri (Nansu Pelosi)
+31. Agar Prezident ham Vitse-Prezident ham o‘z vazifasini bajarolmay qolsa kim Prezident bo‘ladi?    
+•	 Vakillar palatasining spikeri (Nansu Pelosi)    
 
 
-32. Bosh harbiy qo‘mondon kim?
-•	 Prezident
+32. Bosh harbiy qo‘mondon kim?   
+•	 Prezident    
 
 
-33. Qonun loyihalari kuchga kirishi uchun kim imzo chekadi?
-•	 Prezident
+33. Qonun loyihalari kuchga kirishi uchun kim imzo chekadi?   
+•	 Prezident   
 
 
-34. Qonun loyihalariga kim veto qo‘yadi?
-•	 Prezident
+34. Qonun loyihalariga kim veto qo‘yadi?   
+•	 Prezident    
 
 
-35. Prezident Kabineti nima ish qiladi?
-•	 Prezidentga maslahat beradi
+35. Prezident Kabineti nima ish qiladi?    
+•	 Prezidentga maslahat beradi   
 
 
-36. Kabinetdagi lavozimlardan ikkitasini ayting.    
-• Ta’lim kotibi (Secretary of Education)   
-• Qishloq xo‘jalik kotibi (Secretary of Agriculture)   
-• Vitse-prezident  
-• Qishloq xo'jaligi vaziri   
-• Savdo vaziri        
-• Mudofaa vaziri           
-• Ta'lim vaziri      
-• Energetika vaziri       
-• Sog'liqni saqlash va aholiga xizmat ko'rsatish bo'yicha kotib   
-• Milliy xavfsizlik kotibi  
-• Uy-joy va shaharsozlik ishlari bo'yicha kotib       
-• Ichki ishlar vaziri    
-• Mehnat kotibi    
-• Davlat kotibi      
-• Transport kotibi        
-• G'aznachilik kotibi        
-• Veteranlar ishlari bo'yicha kotib      
-• Bosh prokuror      
+36. Kabinetdagi lavozimlardan ikkitasini ayting.       
+• Ta’lim kotibi (Secretary of Education)     
+• Qishloq xo‘jalik kotibi (Secretary of Agriculture)     
+• Vitse-prezident    
+• Qishloq xo'jaligi vaziri     
+• Savdo vaziri          
+• Mudofaa vaziri             
+• Ta'lim vaziri        
+• Energetika vaziri         
+• Sog'liqni saqlash va aholiga xizmat ko'rsatish bo'yicha kotib      
+• Milliy xavfsizlik kotibi    
+• Uy-joy va shaharsozlik ishlari bo'yicha kotib         
+• Ichki ishlar vaziri      
+• Mehnat kotibi      
+• Davlat kotibi        
+• Transport kotibi          
+• G'aznachilik kotibi          
+• Veteranlar ishlari bo'yicha kotib        
+• Bosh prokuror    
 
 
-37. Sud hokimiyati nima qiladi?
-•	 Qonunlarni ko‘rib chiqadi va tushuntiradi
+37. Sud hokimiyati nima qiladi?    
+•	 Qonunlarni ko‘rib chiqadi va tushuntiradi    
 
 
-38. Eng yuqori sud nima?
-•	 Oliy sud (Supreme court)
+38. Eng yuqori sud nima?    
+•	 Oliy sud (Supreme court)    
 
 
-39. Oliy sudda nechta sudya bor?
-•	 to‘qqizta
+39. Oliy sudda nechta sudya bor?   
+•	 to‘qqizta    
 
 
-40. AQShning bosh sudyasi kim?
-•	 Jon Roberts (John Roberts)
+40. AQShning bosh sudyasi kim?    
+•	 Jon Roberts (John Roberts)   
 
 
-41. Konstitutsiyaga binoan federal hukumatga ba’zi vakolatlar berilgan. Shulardan bittasini ayting?
-•	 Urush e’lon qilish
-•	 Pul bosib chiqarish
+41. Konstitutsiyaga binoan federal hukumatga ba’zi vakolatlar berilgan. Shulardan bittasini ayting.   
+•	 Urush e’lon qilish   
+•	 Pul bosib chiqarish   
 
 
-42. Konstitutsiyaga binoan ba’zi vakolatlar shtatlarga berilgan. Shu vakolatlardan bittasini ayting?
-•	 Haydovchilik guvohnomasini berish
-•	 Maktab va ta’limni ta’minlash
-•	 Xavfsizlikni ta’minlash
-•	 Yong’indan saqlash
-•	 rayonlashtirish va yerdan foydalanishni tasdiqlash
+42. Konstitutsiyaga binoan ba’zi vakolatlar shtatlarga berilgan. Shu vakolatlardan bittasini ayting.   
+•	 Haydovchilik guvohnomasini berish   
+•	 Maktab va ta’limni ta’minlash   
+•	 Xavfsizlikni ta’minlash    
+•	 Yong’indan saqlash    
+•	 Rayonlashtirish va yerdan foydalanishni tasdiqlash    
 
 
-43. Indiana shtati gubernatori kim?
-•	 Erik Holkomb (Eric Holcomb)       
-(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
+43. Indiana shtati gubernatori kim?*       
+•	 Erik Holkomb (Eric Holcomb)          
+*(Savol va javoblar sizning yashash joyingizga ko'ra o'zgaradi.)   
 
-44. Indiana shtatining poytaxti qaysi shahar?
-•	 Indianapolis       
-(Javoblar sizning yashash joyingizga ko'ra o'zgaradi.)  
+44. Indiana shtatining poytaxti qaysi shahar?*  
+•	 Indianapolis         
+*(Savol va javoblar sizning yashash joyingizga ko'ra o'zgaradi.)    
 
-45. Amerikadagi asosiy ikkita partiya qaysilar?
-•	 Demokratik va Respublikachi
+45. Amerikadagi asosiy ikkita partiya qaysilar?   
+•	 Demokratik va Respublikachi    
 
 
-46. Amaldagi Prezident qaysi partiyadan?
-•	 Demokratik partiyadan (Bayden)
+46. Amaldagi Prezident qaysi partiyadan?   
+•	 Demokratik partiyadan (Bayden)   
 
 
-47. Vakillar palatasi spikerining ismi nima?
-•	 Nansi Pelosi
+47. Vakillar palatasi spikerining ismi nima?   
+•	 Nansi Pelosi     
 
 
-**V. Huquqlar va majburiyatlar**
+**V. Huquqlar va majburiyatlar**    
 
 
-48. Kim saylovda ovoz bera olishi to‘g‘risida Konstitutsiyaga to‘rtta qo‘shimcha kiritilgan. Shulardan birini ayting
-•	 18 yoki undan katta yoshdagi fuqarolar ovoz berishi mumkin.
+48. Kim saylovda ovoz bera olishi to‘g‘risida Konstitutsiyaga to‘rtta qo‘shimcha kiritilgan. Shulardan birini ayting.    
+•	 18 yoki undan katta yoshdagi fuqarolar ovoz berishi mumkin.    
 
 
-49. Faqat Amerika fuqarolarining majburiyatlaridan biri nima?
-•	 Sudda nazoratchi vazifasida xizmat qilish
+49. Faqat Amerika fuqarolarining majburiyatlaridan biri nima?    
+•	 Sudda nazoratchi vazifasida xizmat qilish    
 
 
-50. Faqat Amerika fuqarolarining huquqlaridan biri
-•	 Federal saylovda ovoz berish
+50. Faqat Amerika fuqarolarining huquqlaridan biri   
+•	 Federal saylovda ovoz berish   
 
 
-51. Amerikada yashovchilarning huquqlaridan (erkinliklaridan) ikkitasini ayting
-•	 Din erkinligi   
-•	 So’z erkinligi   
+51. Amerikada yashovchilarning huquqlaridan (erkinliklaridan) ikkitasini ayting.     
+•	 Din erkinligi     
+•	 So’z erkinligi     
 
 
-52. Biz qasamyod qilganimizda nimaga sadoqatimizni namoyish qilamiz?
-•	 AQShga   
-•	 Bayroqqa   
+52. Biz qasamyod qilganimizda nimaga sadoqatimizni namoyish qilamiz?    
+•	 AQShga     
+•	 Bayroqqa      
 
 
-53. AQSh fuqaroligini qabul qilganda beriladigan va’dalardan bittasini ayting.     
-•	 AQSh qonunlariga to‘liq rioya qilish   
-•	 AQSh xalqiga xizmat qilishlari   
-•	 AQShga sodiq bo’lishlari   
-•	 AQSh qonunlarini himoya qilishlari   
-•	 AQSh davlatiga sodiq bo’lish       
-•	 Boshqa davlatlarga fuqarolikdan voz kechish  
+53. AQSh fuqaroligini qabul qilganda beriladigan va’dalardan bittasini ayting.        
+•	 AQSh qonunlariga to‘liq rioya qilish     
+•	 AQSh xalqiga xizmat qilishlari     
+•	 AQShga sodiq bo’lishlari     
+•	 AQSh qonunlarini himoya qilishlari      
+•	 AQSh davlatiga sodiq bo’lish          
+•	 Boshqa davlatlarga fuqarolikdan voz kechish      
 
 
-54. Fuqarolar Prezidentga ovoz berish uchun necha yosh bo‘lishlari kk?
-•	 18 va undan katta
+54. Fuqarolar Prezidentga ovoz berish uchun necha yosh bo‘lishlari kerak?    
+•	 18 va undan katta    
 
 
-55. Amerikaliklar demokratiyada qanday yo‘l bilan qatnashadi? Ikkitasini ayting
-•	Ovoz berish   
-•	Siyosiy partiyaga qo‘shilish    
-•	Saylov kampaniyasiga yordam berish    
-•	Fuqarolik hamjamiyatlariga qo’shilish    
-•	Mahalliy jamoalarga qo’shilish    
-•	Saylangan deputatlarga biron muammo borasida munosabat bildirish    
-•	Senator va Vakillarga qo’ng’iroq qilish    
-•	Hukumatning biron masala bo’yicha qarorlariga ijobiy yoki salbiy munosabat bildirish    
-•	Saylovga o’z nomzodini qo’yish    
-•	Mahalliy nashrlarga yozish   
+55. Amerikaliklar demokratiyada qanday yo‘l bilan qatnashadi? Ikkitasini ayting.     
+•	Ovoz berish       
+•	Siyosiy partiyaga qo‘shilish        
+•	Saylov kampaniyasiga yordam berish       
+•	Fuqarolik hamjamiyatlariga qo’shilish        
+•	Mahalliy jamoalarga qo’shilish       
+•	Saylangan deputatlarga biron muammo borasida munosabat bildirish      
+•	Senator va Vakillarga qo’ng’iroq qilish      
+•	Hukumatning biron masala bo’yicha qarorlariga ijobiy yoki salbiy munosabat bildirish      
+•	Saylovga o’z nomzodini qo’yish       
+•	Mahalliy nashrlarga yozish     
 
 
 
-56. Federal daromad solig‘ini topshirishning oxirgi kuni qachon?
-• 15 Aprel   
+56. Federal daromad solig‘ini topshirishning oxirgi kuni qachon?             
+• 15 Aprel            
 
 
-57. Yigitlar armiya safiga qachon ro‘yxatdan o‘tadilar?
-• 18 yoshdan 26 yoshgacha  
+57. Yigitlar armiya safiga qachon ro‘yxatdan o‘tadilar?       
+• 18 yoshdan 26 yoshgacha       
 
 
-**AMERIKA TARIXI**
+**AMERIKA TARIXI**       
 
 
-58. Mustamlakachilar Amerikaga kelishining sabablaridan biri  
-•	Ozodlik   
-•	Siyosiy erkinlik   
-•	Diniy erkinlik   
-•	Iqtisodiy imkoniyatlar   
-•	Ta’qibdan qochish   
+58. Mustamlakachilar Amerikaga kelishining sabablaridan biri    
+•	Ozodlik    
+•	Siyosiy erkinlik     
+•	Diniy erkinlik      
+•	Iqtisodiy imkoniyatlar     
+•	Ta’qibdan qochish      
 
 
-59. Yevropaliklar kelishidan oldin Amerikada kimlar yashagan?
-• Asl amerikaliklar (Native Americans); Hindular (American Indians)    
+59. Yevropaliklar kelishidan oldin Amerikada kimlar yashagan?   
+• Asl amerikaliklar (Native Americans); Hindular (American Indians)       
 
-60. Kimlar Amerikaga olib kelib sotilgan va qul qilingan?
-• Afrikaliklar   
+60. Kimlar Amerikaga olib kelib sotilgan va qul qilingan?   
+• Afrikaliklar      
 
 
-61. Mustamlakachilar nima uchun Britaniyaga qarshi kurashdilar?
-• Soliqlar yuqori edi        
-• Chunki Britaniyaliklar ularningt uylarini, yerlarini egallab olgan edilar     
+61. Mustamlakachilar nima uchun Britaniyaga qarshi kurashdilar?    
+• Soliqlar yuqori edi          
+• Chunki Britaniyaliklar ularningt uylarini, yerlarini egallab olgan edilar        
 
 
-62. Mustaqillik deklaratsiyasini kim yozgan?
-- Tomas Jefferson
+62. Mustaqillik deklaratsiyasini kim yozgan?    
+• Tomas Jefferson    
 
 
 63. Mustaqillik deklaratsiyasi qachon qabul qilingan?
-- 1776 yil 4 iyul
+• 1776 yil 4 iyul    
 
 
 64. Boshlang‘ich asl 13 shtatdan uchtasini ayting
-- Nyu York
-- Nyu Jersi
-- Pensilvaniya
-- Delavare
-- Mariland
-- Massachusets
-- Nyu Hampshir
-- Virjinia
-- Shimoliy Karolina
-- Janubiy Karolina
-- Jorjia
-- Konnektikut
-- Rod Ayland
+• Nyu York    
+•	Nyu Jersi   
+•	Pensilvaniya    
+•	Delavare   
+•	Mariland   
+•	Massachusets     
+•	Nyu Hampshir   
+•	Virjinia    
+•	Shimoliy Karolina    
+•	Janubiy Karolina   
+•	Jorjia   
+•	Konnektikut   
+•	Rod Ayland    
 
 
-65. Konstitutsion konvensiyada nima bo‘lgan?
-- Konstitutsiya yozilgan
+
+65. Konstitutsion konvensiyada nima bo‘lgan?    
+• Konstitutsiya yozilgan    
 
 
-66. Konstitutsiya qachon yozilgan?
-- 1787 yil
+66. Konstitutsiya qachon yozilgan?       
+• 1787 yil       
 
 
-67. Konstitutsiyaning federal hujjatlarini yozganlardan bittasining nomini ayting
-- Djeyms Madison
-- Aleksandr Hamilton
+67. Konstitutsiyaning federal hujjatlarini yozganlardan bittasining nomini ayting.   
+•  Djeyms Madison     
+•  Aleksandr Hamilton   
 
-68. Benjamin Franklinni mashhur qilgan narsalardan birini ayting
-- Amerikalik Diplomat
-- Konstitutsion konvensiyaning eng eski a’zosi
-- Ilk bepul kuubxonalarga asos solgan
 
-69. Mamlakatning otasi kim?
-- Jorj Vashington
+
+68. Benjamin Franklinni mashhur qilgan narsalardan birini ayting.   
+•	Amerikalik Diplomat       
+•	Konstitutsion konvensiyaning eng eski a’zosi      
+•	Ilk bepul kuubxonalarga asos solgan     
+
+
+69. Mamlakatning otasi kim?     
+• Jorj Vashington     
 
 
 70. Birinchi Prezident kim?
-- Jorj Vashington
+• Jorj Vashington        
 
 
 71. AQSh 1803 yilda Fransiyadan qaysi shtatni sotib olgan?
-- Luiziana
+• Luiziana             
 
 
-72. 1800-yillarda Qo‘shma Shtatlar ishtirok etgan urushni ayting
-- Meksika-Amerika urushi
-- Fuqarolar urushi
-- Ispan-Amerika urushi
+72. 1800-yillarda Qo‘shma Shtatlar ishtirok etgan urushni ayting.    
+•	Meksika-Amerika urushi   
+•	Fuqarolar urushi    
+•	Ispan-Amerika urushi    
 
 
-
-73. Shimol va Janub o‘rtasidagi urush
-- Fuqarolar (Grajdanlar) urushi
-
+73. Shimol va Janub o‘rtasidagi urush   
+• Fuqarolar (Grajdanlar) urushi     
 
 
 

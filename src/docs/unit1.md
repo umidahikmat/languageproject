@@ -199,10 +199,10 @@ U-LAR: Uchinchi shaxs ko’plik ma’nosini bildiradi. Bu so’z ‘u’ uchinch
 KAMBAG’AL-LIK: poor-NML (poverty); KAMBAG’AL-LIK “Poverty” composed of the adjective kambag’al ‘poor’ and the nominalizing suffix ‘-lik’ 
 <br>
 KAMBAG’AL-LIK: ‘Kambag’al’ sifati va ‘-lik’ ot qo’shimchasidan iborat   
-<br>
-</span>
-</Tooltip> 
-
+<br>    
+</span>  
+</Tooltip>   
+   
 
 <Tooltip label="bilan">
 <span>

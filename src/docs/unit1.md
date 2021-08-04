@@ -288,8 +288,7 @@ HAMMOM-I-GA: Uchinchi shaxsi egalik qo’shimchasi va jo’nalish kelishigi qo�
 </Tooltip> 
                                                      
 <Tooltip label="boribdi.">
-<span>
-BOR-IB-DI: go-EV-PST; The verb root bor- ‘go’ with the evidential suffix -ib and the past tense suffix -di. 
+<span>BOR-IB-DI: go-EV-PST; The verb root bor- ‘go’ with the evidential suffix -ib and the past tense suffix -di. 
 <br>
 BOR-IB-DI: Nutq egasi tasvirlanayotgan voqeani ko’rmaganligini bildiradigan -ib qo’shimchasi va o’tgan zamon qo’shimchasini olgan “bormoq” fe’li.    
 <br>
@@ -517,8 +516,7 @@ CHIQ-AR-IB: exit-CAUS-CONJ
 </Tooltip> 
 
 <Tooltip label="yuboribdi.">
-<span>
-YUBOR-IB-DI: send-EV-PST
+<span>YUBOR-IB-DI: send-EV-PST
 <br>
 </span>
 </Tooltip> 
@@ -1726,7 +1724,8 @@ ESHIT-IB: hear-CONJ
 </Tooltip>
 
 <Tooltip label="qolibdi">
-<span>QOL-IB-DI: stay-EV-PST
+<span>
+QOL-IB-DI: stay-EV-PST
 <br>
 </span>
 </Tooltip>
@@ -2199,7 +2198,7 @@ MEN-GA: 1.SG-DAT
 
 
 
-<Tooltip label="Bitta">
+<Tooltip label="bitta">
 <span>
 BIT-TA: one-CNT
 <br>
@@ -2270,14 +2269,14 @@ BO’L-AR: be-AOR
 </Tooltip>
 
 <Tooltip label="debdi.">
-<span>
-DE-B-DI: say-EV-PST
+<span>DE-B-DI: say-EV-PST
 <br>
 </span>
 </Tooltip>
 
 <Tooltip label="Kampir">
-<span>KAMPIRL: old.woman
+<span>
+ KAMPIRL: old.woman
 <br>
 </span>
 </Tooltip>
@@ -2562,16 +2561,16 @@ YUBOR-IB-DI: send-EV-PST
 
 (1) **CONJ**: “conjunctive”; there are two conjunctive morphemes, -ib and -a/y. -ib is used to connect clauses when the verb is affirmative (e.g., uni ko’r-ib ketdim, ‘I saw him and left’) and to create converbial constructions (e.g., adash-ib qoldim ‘I got lost’). The -a/y conjunctive form is used to connect clauses when the verb is negative (e.g., ko’rin-ma-y qochdi ‘He fled without being seen’), in certain converbial constructions (e.g., uxla-y olmayman ‘I can’t sleep’ or yur-a olmadim ‘I couldn’t walk’), and in certain verb tenses (e.g., oqi-y-man ‘I read’, ol-a-man ‘I take’).     
 
-O’ZBEKCHASI: CONJ: ‘biriktiruvchi’. O’zbek tilida ikkita biriktiruvchi morfema bor: -ib biriktiruvchi morfemasi va -a/y biriktiruvchi morfemasi. -ib biriktiruvchi morfemasi uchta holatda qo’llanadi: birinchi fe’l bo’lishli bo’lsa, ikkita jumlani biriktirishi uchun (masalan ‘uni ko’r-ib ketdim’); fe’lni yordamchi fe’l bilan birlashtirish uchun (masalan, ‘adash-ib qoldim’); -a/y biriktiruvchi morfemasi uchta holatda qo’llanadi: birinchi fe’l bo’lishsiz bo’lsa, ikkita jumlani biriktirish uchun (masalan, ‘ko’rin-ma-y qochdi’), fe’lni yordamchi fe’l bilan birlashtirish uchun (masalan, ‘uxla-y olmayman’); ayrim fe’l zamonlarida (masalan, oqi-y-man, ol-a-man).   
+CONJ: ‘biriktiruvchi’. O’zbek tilida ikkita biriktiruvchi morfema bor: -ib biriktiruvchi morfemasi va -a/y biriktiruvchi morfemasi. -ib biriktiruvchi morfemasi uchta holatda qo’llanadi: birinchi fe’l bo’lishli bo’lsa, ikkita jumlani biriktirishi uchun (masalan ‘uni ko’r-ib ketdim’); fe’lni yordamchi fe’l bilan birlashtirish uchun (masalan, ‘adash-ib qoldim’); -a/y biriktiruvchi morfemasi uchta holatda qo’llanadi: birinchi fe’l bo’lishsiz bo’lsa, ikkita jumlani biriktirish uchun (masalan, ‘ko’rin-ma-y qochdi’), fe’lni yordamchi fe’l bilan birlashtirish uchun (masalan, ‘uxla-y olmayman’); ayrim fe’l zamonlarida (masalan, oqi-y-man, ol-a-man).   
 
 (2) **NML**: ‘nominalizing suffix’; this suffix is used to create nouns out of the structures it is appended to. It primarily comes in two forms: -ish, normally used to nominalize affirmative verbs (e.g., ‘ko’r-ish-im kerak’) and -lik, which nominalizes adjectives and negative verbs (e.g., ‘kambag’al-lik’, ‘ko’r-mas-lik’).    
 
 
-O’ZB: NML: ‘nominalizatsiya qo’shimchasi/otlashtiruvchi qo’shimcha’; bu qo’shimcha grammatik strukturalarga birikkanida, ot yasaladi. Bu qo’shimchaning ikkita asosiy shakli bor: bo’lishli fe’llarni otlashtiruvchi ‘-ish’ shakli, va bo’lishsiz fe’llarni va sifatlarni otlashtiruvchi ‘-lik’ shakli     
+NML: ‘nominalizatsiya qo’shimchasi/otlashtiruvchi qo’shimcha’; bu qo’shimcha grammatik strukturalarga birikkanida, ot yasaladi. Bu qo’shimchaning ikkita asosiy shakli bor: bo’lishli fe’llarni otlashtiruvchi ‘-ish’ shakli, va bo’lishsiz fe’llarni va sifatlarni otlashtiruvchi ‘-lik’ shakli     
 
 (3) **AOR**: ‘aorist’; a suffix used in certain participial constructions with the form -ar, often seen in conditional constructions, e.g., pulim bo’lganda edi, mashina sotib olar edim ‘If I had money, I would buy a car’. When followed by the morpheme (e)kan, the construction expresses and an action happening at the same time as the other, e.g., Kitobni o’qir ekan, bolalar o’ynayotgan edi ‘The children played while he read the book.’    
 
-O’ZB: AOR: ‘sifatdosh qo’shimchasi’; bu qo’shimcha ayrim sifatdosh strukturalarida ko’rinadi. Eng ko’pincha, shart gaplarida qo’llanadi, masalan: pulim bo’lganda edi, mashina sotib olar edim. Ekan morfemasi -ar sifatdosh qo’shimchasiga birikkanda, ikkita ish bir vaqtda bo’layotganini bildiruvchi struktura yasaladi, masalan, “Kitobni o’qir ekan, bolalar o’ynayotgan edi”    
+AOR: ‘sifatdosh qo’shimchasi’; bu qo’shimcha ayrim sifatdosh strukturalarida ko’rinadi. Eng ko’pincha, shart gaplarida qo’llanadi, masalan: pulim bo’lganda edi, mashina sotib olar edim. Ekan morfemasi -ar sifatdosh qo’shimchasiga birikkanda, ikkita ish bir vaqtda bo’layotganini bildiruvchi struktura yasaladi, masalan, “Kitobni o’qir ekan, bolalar o’ynayotgan edi”    
 
 (4) **EV**: ‘evidential’: an evidential particle denotes an event not witnessed by the speaker. This appears most often either in the form ekan in participial and copular constructions (e.g., ‘bir kampir bo’lgan ekan’, ‘shunday ekan’ and as -ib in the past tense (e.g., buni ayt-ib-di’).   
 
@@ -2579,14 +2578,13 @@ EV: ‘xulosa chiqarish morfemasi’ Bu so’z nutq egasi tasvirlanayotgan voqea
 
 (5) **EXST** ‘existential particle’: The existential particle comes in an affirmative form bor ‘there is’ and a negative form yo’q ‘there is not’. It is often replaced by bo’l- ‘be’ in past and participial constructions (e.g., ‘bir kampir bo’lgan ekan’ ‘There was once an old woman’; ‘Bir yechim bo’lganini bilmadim’ ‘I didn’t know there had been a solution’)    
 
-EXST ‘borlikni bildiruvchi so’z’; Borlikni bildiruvchi so’zning bor degan bo’lishli shakli ham, yo’q degan bo’lishsiz shakli ham bor. Bo’lmoq fe’li o’tgan zamonda va sifatdosh strukturalarida ko’pincha ularning o’rniga qo’llanadi, masalan ‘bir kampir bo’lgan ekan’ va ‘bir yechim bo’lganini bilmadim’.    
+EXST: ‘borlikni bildiruvchi so’z’; Borlikni bildiruvchi so’zning bor degan bo’lishli shakli ham, yo’q degan bo’lishsiz shakli ham bor. Bo’lmoq fe’li o’tgan zamonda va sifatdosh strukturalarida ko’pincha ularning o’rniga qo’llanadi, masalan ‘bir kampir bo’lgan ekan’ va ‘bir yechim bo’lganini bilmadim’.    
 
 
 (6) **GI**: This suffix conveys the meaning of ‘belonging to’ (e.g., oxir-gi paytda ‘in the time that followed’; kecha-gi uchrashuv ‘yesterday’s meeting’) or ‘located in’ (e.g., uyda-gi odam ‘the person who is in the house’).   
 
 GI: Bu qo’shimcha tegishlilik munosabatini aniqlash uchun ham, qayerdalikni aniqlash uchun ham qo’llanadi, masalan ‘oxir-gi paytda’, ‘uydagi odam’. 
-INTR-intransitive
-CONT-continuous
+
 
 (7) **INTR** -intransitive (o’timsiz)
 

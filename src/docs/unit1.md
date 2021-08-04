@@ -566,6 +566,9 @@ QIL-IB-DI: do-EV-PST
 </span>
 </Tooltip> 
 
+
+
+
 <Tooltip label="Uyga">
 <span>
 UY-GA: house-DAT
@@ -1858,12 +1861,12 @@ BER-A-SIZ: give-CONJ-2.PL
 </span>
 </Tooltip>
 
-<Tooltip label="debdi.">
+<Tooltip label="debdi.">    
 <span>
-DE-B-DI: say-EV-PST
+DE-B-DI: say-EV-PST    
 <br>
 </span>
-</Tooltip>
+</Tooltip>   
 
 
 

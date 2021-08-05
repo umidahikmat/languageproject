@@ -992,8 +992,11 @@ A: Geography**
 
 100. AQSh Milliy bayramlaridan ikkitasini ayting.         
 • Yangi yil       
-• Mustaqillik kuni         
-
-
-
-
+• Mustaqillik kuni   
+• Prezident kuni     
+• Xotira kuni    
+• Ishchilar kuni    
+• Martin Luter King kuni     
+• Veteranlar kuni     
+• Kolumbus kuni   
+• Shukronalik kuni        

@@ -9,4 +9,4 @@
 
 !["Zo'raki folbin" ertagi](../images/audio1.jpg "Zo'raki Folbin audiosini tinglang.")
 
-![Audio 1](../audio/audio_only.m4a "Audio 1")
+<!-- ![Audio 1](../audio/audio_only.m4a "Audio 1") -->

@@ -7,3 +7,4 @@
 ## Non-native speaker
 
 
+!["Zo'raki folbin" ertagi](/images/audio1.jpg "Zo'raki Folbin audiosi")

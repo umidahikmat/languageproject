@@ -7,4 +7,4 @@
 ## Non-native speaker
 
 
-!["Zo'raki folbin" ertagi](/docs/images/audio1.jpg "Zo'raki Folbin audiosini tinglang")
+!["Zo'raki folbin" ertagi](/docs/images/audio1.jpg "Zo'raki Folbin audiosini tinglang.")

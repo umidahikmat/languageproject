@@ -7,9 +7,9 @@
 
 Bir bor ekan, bir yo’q ekan, qadim zamonda bir chol bilan kampir bo’lgan ekan. Ular kambag’allik bilan kun ko’rar ekanlar. Bir kuni kampir shahar hammomiga boribdi. Hali boshiga chaplagan qatig’ini yuvib ulgurmay, hammomga xodimlardan biri kirib:  
 
-“Hammomni tez bo’shatinglar, podshohning bosh folbinining xotini yuvinishga kelayaptilar”, deb hammani chala yuvingan holda chiqarib yuboribdi. Bu hol kampirgajuda alam qilibdi. Uyga kelib, choliga bo’lgan voqeani aytibdi va:   
+“Hammomni tez bo’shatinglar, podshohning bosh folbinining xotini yuvinishga kelayaptilar”, deb hammani chala yuvingan holda chiqarib yuboribdi. Bu hol kampirga juda alam qilibdi. Uyga kelib, choliga bo’lgan voqeani aytibdi va:   
 
-“To podshohning bosh folbini bo’lmaguningizcha men siz bilan yashamayman”, deb cholni urishibdi. Chol o’ylab-o’ylab tavakkal qilibdi: Bir siqim toshchalami olib, bozorning ko’zga ko’rinarli bir joyini egallab, fol boqmoqchidek o’tiraveribdi. Cholning yoniga ust-boshi chang bir odam kelib:   
+“To podshohning bosh folbini bo’lmaguningizcha men siz bilan yashamayman”, deb cholni urishibdi. Chol o’ylab-o’ylab tavakkal qilibdi: Bir siqim toshchalami olib, bozorning ko’zga ko’rinarli bir joyini egallab, fol boqmoqchidek bo'lib o’tiraveribdi. Cholning yoniga ust-boshi chang bir odam kelib:   
 
 “Ota men safardan kelayapman. Biz podshohga oltin va kumush ortilgan tuyalar olib kelayotgan edik, shu tuyalardan biri yo’qolib qoldi. Shuni fol boqib, qayerda yurganini bilib bersangiz”, - debdi. Chol u kishidan qaysi yo’ldan, qanday holda kelganini obdon surushtirib, mulohaza qilib ko’ribdi-da:  
 

@@ -2069,8 +2069,7 @@ TOPSHIR-DI: assign-PST
 
 
 <Tooltip label="Endi">
-<span>
-ENDI: now
+<span>ENDI: now
 <br>
 </span>
 </Tooltip>

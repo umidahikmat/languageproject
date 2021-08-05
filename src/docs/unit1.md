@@ -13,7 +13,7 @@ Bir bor ekan, bir yo’q ekan, qadim zamonda bir chol bilan kampir bo’lgan eka
 
 “Ota men safardan kelayapman. Biz podshohga oltin va kumush ortilgan tuyalar olib kelayotgan edik, shu tuyalardan biri yo’qolib qoldi. Shuni fol boqib, qayerda yurganini bilib bersangiz”, - debdi. Chol u kishidan qaysi yo’ldan, qanday holda kelganini obdon surushtirib, mulohaza qilib ko’ribdi-da:  
 
-“Oxirgi marta dam olgan manzillaringiz yaqinidagi jarlikda yo’qotgan tuyangiz o’tlab yuribdi, ustida tilla va kumush ortilgan xuijuni ham bor”,-debdi. Chunki u kishining gaplaridan shunday xulosa chiqayotgan ekan-da. Fol boqtirgan odam cholning aytgan joyiga borib qarasa, rostdan ham tuyasi o’tlab yurgan emish.  
+“Oxirgi marta dam olgan manzillaringiz yaqinidagi jarlikda yo’qotgan tuyangiz o’tlab yuribdi, ustida tilla va kumush ortilgan xurjuni ham bor”,-debdi. Chunki u kishining gaplaridan shunday xulosa chiqayotgan ekan-da. Fol boqtirgan odam cholning aytgan joyiga borib qarasa, rostdan ham tuyasi o’tlab yurgan emish.  
 
 U cholga bir hovuch oltin sovg’a qilib, yurgan yo’lida cholning o’ta topag’on folbin ekanligini aytib, uning dovrug’ini orttiraveribdi. Shu orada podshohning xazinasini o’g’ri urib ketibdi. Podshoh saroyidagi folbinlaming birortasi ham xazinani topa olishmabdi. Shunda podshoh chol haqida eshitib qolibdi va uni saroyga chaqirtirib kelibdi. Chol voqeani eshitgach:  
 

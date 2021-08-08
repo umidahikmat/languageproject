@@ -10,4 +10,4 @@ Consultant and coder: Umida Khikmatillaeva
 
 Fairy tale translation draft: Hafiza Allanazarova   
 Legal text translation draft: Akram Habibulla  
-Poem translations and other translation edits: Darragh Winkelman
+Poem translations and all translation edits: Darragh Winkelman

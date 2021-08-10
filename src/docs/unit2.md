@@ -500,7 +500,7 @@ A: Geography**
 •	Thanksgiving          
 •	Christmas       
 
-## Legal Text in Uzbek 
+## Legal Text in Uzbek*
 
 **AMERIKA HUKUMATI**   
 
@@ -892,17 +892,17 @@ A: Geography**
 • Birlikni saqlab qoldi      
 • Fuqarolik urushi davrida mamlakatni boshqardi     
 
-76. Ozodlik Proklamatsiyasi nima qildi?
-• Qullarni ozod qildi     
+76. Ozodlik Proklamatsiyasi nima qildi?     
+• Qullarni ozod qildi       
 
-77. Suzan Antoni nima qildi?
-• Ayollarning huquqlari uchun kurashdi     
-• Fuqarolarning huquqlari uchun kurashdi      
+77. Suzan Antoni nima qildi?    
+• Ayollarning huquqlari uchun kurashdi         
+• Fuqarolarning huquqlari uchun kurashdi          
 
 78. AQSh 1900 yillarda qatnashgan urushlardan biri      
 • Birinchi jahon urushi    
 • Ikkinchi jahon urushi   
-• Koya urushi   
+• Koreya urushi   
 • Vyetnam urushi    
 • Fors ko’rfazi urushi   
 
@@ -913,7 +913,7 @@ A: Geography**
 
 
 80. Ikkinchi jahon urushi va Buyuk Depressiya davrida kim Prezident edi?    
-• Ruzvelt      
+• Franklin Ruzvelt      
 
 
 81. Ikkinchi jahon urushida AQSh qaysi davlatlarga qarshi kurashgan?     
@@ -1000,3 +1000,5 @@ A: Geography**
 • Veteranlar kuni     
 • Kolumbus kuni   
 • Shukronalik kuni        
+
+*Javoblar namuna sifatida Indiana Shtati misolida berilgan. Ular 2021-yil uchun to'g'ri.

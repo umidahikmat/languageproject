@@ -818,12 +818,12 @@ A: Geography**
 • Tomas Jefferson    
 
 
-63. Mustaqillik deklaratsiyasi qachon qabul qilingan?
-• 1776 yil 4 iyul    
+63. Mustaqillik deklaratsiyasi qachon qabul qilingan?     
+• 1776 yil 4 iyul      
 
 
-64. Boshlang‘ich asl 13 shtatdan uchtasini ayting
-• Nyu York    
+64. Boshlang‘ich asl 13 shtatdan uchtasini ayting       
+• Nyu York      
 •	Nyu Jersi   
 •	Pensilvaniya    
 •	Delavare   

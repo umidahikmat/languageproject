@@ -325,11 +325,11 @@ A: Colonial Period and Independence**
 69. Who is the “Father of Our Country”?          
 •	(George) Washington        
 
-70. Who was the first President?*             
+70. Who was the first President?*                     
 •	(George) Washington        
 
-71. What territory did the United States buy from France in 1803?       
-•	the Louisiana Territory       
+71. What territory did the United States buy from France in 1803?             
+•	the Louisiana Territory          
 •	Louisiana       
 
 72. Name one war fought by the United States in the 1800s.            
